@@ -3,8 +3,8 @@
     {
       "completedCallingMinutes": 33,
       "expectedCallingMinutes": 80,
-      "processedCustomerCount": 34,
-      "toalCustomerCount": 10,
+      "processedCustomerCount": 10,
+      "totalCustomerCount": 34,
       "totalPastDueAmount": 23,
       "totalPastDueProcessed": 15
     },
