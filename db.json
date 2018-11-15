@@ -1,7 +1,6 @@
 {
-  "overview": [
+  "overview": 
     {
-      "id": 0,
       "completedCallingMinutes": 33,
       "expectedCallingMinutes": 80,
       "processedCustomerCount": 34,
@@ -9,16 +8,8 @@
       "totalPastDueAmount": 23,
       "totalPastDueProcessed": 15
     },
-    {
-      "id": 1,
-      "completedCallingMinutes": 2,
-      "expectedCallingMinutes": 70,
-      "processedCustomerCount": 5,
-      "toalCustomerCount": 11,
-      "totalPastDueAmount": 30,
-      "totalPastDueProcessed": 55
-    }
-  ],
+   
+  
   "callworkbook": [
     {
       "createdBy": "string",
