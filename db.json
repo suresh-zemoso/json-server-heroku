@@ -366,7 +366,7 @@
     "emailSubscription": true,
     "fax": "string",
     "firstName": "string",
-    "icon": "string",
+    "icon": "",
     "id": 0,
     "lastName": "string",
     "phone": "string",
