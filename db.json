@@ -1,13 +1,34 @@
 {
-  "overview": {
-    "completedCallingMinutes": 33,
-    "expectedCallingMinutes": 80,
-    "processedCustomerCount": 10,
-    "totalCustomerCount": 34,
-    "totalPastDueAmount": 23,
-    "totalPastDueProcessed": 15
+  "overview": 
+    {
+      "completedCallingMinutes": 33,
+      "expectedCallingMinutes": 80,
+      "processedCustomerCount": 10,
+      "totalCustomerCount": 34,
+      "totalPastDueAmount": 23,
+      "totalPastDueProcessed": 15
+    },
+   
+  "callWorkBoard" : {
+    "overview": {
+    "completedCallingMinutes": 0,
+    "expectedCallingMinutes": 0,
+    "id": 0,
+    "pastDueBucketDocumentCount": [
+      0
+    ],
+    "pendingPastDueBucketDocumentAmount": [
+      0
+    ],
+    "processedCustomerCount": 0,
+    "toalCustomerCount": 0,
+    "totalOpenAmount": 0,
+    "totalP2PAmount": 0,
+    "totalP2PCount": 0,
+    "totalPastDueAmount": 0,
+    "totalPastDueProcessed": 0
   },
-  "callworkbook": [
+    "workBookItems": [
     {
       "createdBy": "string",
       "createdTime": "2018-11-06T06:23:20.375Z",
@@ -23,16 +44,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -439,16 +454,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -855,16 +864,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -1271,16 +1274,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -1687,16 +1684,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -2103,16 +2094,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -2519,16 +2504,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            10000000 , 2500000, 52000, 8
           ],
           "pastDueBucketDocumentCount": [
-            25,
-            10,
-            6,
-            4
+            25,10,6,4
           ],
           "totalActualOpenAmount": 30,
           "totalCurrentOpenAmount": 40,
@@ -2920,17 +2899,19 @@
       ],
       "score": 0
     }
-  ],
+  ]
+  },
+
   "profile": {
     "defaultDateFormat": "string",
     "defaultLanguage": "string",
     "emailId": "string",
     "emailSubscription": true,
     "fax": "string",
-    "firstName": "ZeMoSo",
+    "firstName": "string",
     "icon": "",
     "id": 0,
-    "lastName": "User",
+    "lastName": "string",
     "phone": "string",
     "role": "string",
     "title": "string",
