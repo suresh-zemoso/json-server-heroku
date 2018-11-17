@@ -130,7 +130,7 @@
           ],
           "currency": "string",
           "customerName": "Company A",
-          "customerNumber": "string",
+          "customerNumber": "456783",
           "disputes": [
             {
               "actualDisputeAmount": "string",
@@ -546,7 +546,7 @@
           ],
           "currency": "string",
           "customerName": "Company B",
-          "customerNumber": "string",
+          "customerNumber": "67804",
           "disputes": [
             {
               "actualDisputeAmount": "string",
@@ -962,7 +962,7 @@
           ],
           "currency": "string",
           "customerName": "Customer C",
-          "customerNumber": "string",
+          "customerNumber": "564045",
           "disputes": [
             {
               "actualDisputeAmount": "string",
@@ -1378,7 +1378,7 @@
           ],
           "currency": "string",
           "customerName": "Customer D",
-          "customerNumber": "string",
+          "customerNumber": "543543",
           "disputes": [
             {
               "actualDisputeAmount": "string",
@@ -1794,7 +1794,7 @@
           ],
           "currency": "string",
           "customerName": "Customer E",
-          "customerNumber": "string",
+          "customerNumber": "45345",
           "disputes": [
             {
               "actualDisputeAmount": "string",
@@ -2210,7 +2210,7 @@
           ],
           "currency": "string",
           "customerName": "Company F",
-          "customerNumber": "string",
+          "customerNumber": "23213",
           "disputes": [
             {
               "actualDisputeAmount": "string",
@@ -2629,7 +2629,7 @@
         ],
         "currency": "string",
         "customerName": "Company A",
-        "customerNumber": "string",
+        "customerNumber": "12326",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -3045,7 +3045,7 @@
         ],
         "currency": "string",
         "customerName": "Company B",
-        "customerNumber": "string",
+        "customerNumber": "789676",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -3461,7 +3461,7 @@
         ],
         "currency": "string",
         "customerName": "Company C",
-        "customerNumber": "string",
+        "customerNumber": "47589",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -3877,7 +3877,7 @@
         ],
         "currency": "string",
         "customerName": "Company D",
-        "customerNumber": "string",
+        "customerNumber": "78986",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -4293,7 +4293,7 @@
         ],
         "currency": "string",
         "customerName": "Company E",
-        "customerNumber": "string",
+        "customerNumber": "58986",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -4709,7 +4709,7 @@
         ],
         "currency": "string",
         "customerName": "Company F",
-        "customerNumber": "string",
+        "customerNumber": "788976",
         "disputes": [
           {
             "actualDisputeAmount": "string",
