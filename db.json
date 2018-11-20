@@ -4621,10 +4621,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            10000000,
-            10600000,
-            10000023
+            12.5,
+            18,
+            8,
+            11.5
           ],
           "pastDueBucketDocumentCount": [
             25,
