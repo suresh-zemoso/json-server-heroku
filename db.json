@@ -2618,7 +2618,27 @@
             "firstName": "Contact",
             "id": 0,
             "lastname": "A",
-            "phoneNumber": "100",
+            "phoneNumber": "2143299664",
+            "primary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Contact",
+            "id": 0,
+            "lastname": "B",
+            "phoneNumber": "2143299664",
             "primary": true,
             "role": "string",
             "state": "string",
