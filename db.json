@@ -1,11 +1,11 @@
 {
   "overview": {
-    "completedCallingMinutes": 33,
-    "expectedCallingMinutes": 80,
-    "processedCustomerCount": 10,
-    "totalCustomerCount": 34,
-    "totalPastDueAmount": 23,
-    "totalPastDueProcessed": 15
+    "completedCallingMinutes": 40,
+    "expectedCallingMinutes": 120,
+    "processedCustomerCount": 12,
+    "totalCustomerCount": 35,
+    "totalPastDueAmount": 36,
+    "totalPastDueProcessed": 12
   },
   "callWorkBoard": {
     "overview": {
@@ -32,26 +32,26 @@
         "createdTime": "2018-11-06T06:23:20.375Z",
         "customerDetails": {
           "arDetails": {
-            "actualCreditLimit": 90,
+            "actualCreditLimit": 100,
             "bucketNames": [
               "Total Current Due",
               "30 Days Past Invoice",
               "60 Days Past Invoice",
               "90 Days Past Invoice"
             ],
-            "creditUtilized": 50,
+            "creditUtilized":60,
             "id": 0,
             "pastDueBucketDocumentAmount": [
-              10000000,
-              2500000,
-              52000,
-              8
+              999000000,
+              16000000,
+              52000000,
+              80
             ],
             "pastDueBucketDocumentCount": [
-              25,
-              10,
-              6,
-              4
+              50,
+              20,
+              17,
+              11
             ],
             "totalActualOpenAmount": 30,
             "totalCurrentOpenAmount": 40,
@@ -196,7 +196,7 @@
           ],
           "paymentCommitments": [
             {
-              "committedAmount": 45000,
+              "committedAmount": 999000000,
               "committedBy": {
                 "address": "string",
                 "city": "string",
@@ -226,7 +226,7 @@
               "type": "Broken P2P"
             },
             {
-              "committedAmount": 20000,
+              "committedAmount": 2000000,
               "committedBy": {
                 "address": "string",
                 "city": "string",
@@ -256,7 +256,7 @@
               "type": "Upcoming P2P"
             },
             {
-              "committedAmount": 45000,
+              "committedAmount": 999000000,
               "committedBy": {
                 "address": "string",
                 "city": "string",
@@ -2618,27 +2618,7 @@
             "firstName": "Contact",
             "id": 0,
             "lastname": "A",
-            "phoneNumber": "2143299664",
-            "primary": true,
-            "role": "string",
-            "state": "string",
-            "title": "string",
-            "type": "string",
-            "zip": "string"
-          },
-          {
-            "address": "string",
-            "city": "string",
-            "country": "string",
-            "email": "string",
-            "extensions": [
-              "string"
-            ],
-            "faxNumber": "string",
-            "firstName": "Contact",
-            "id": 0,
-            "lastname": "B",
-            "phoneNumber": "2143299664",
+            "phoneNumber": "100",
             "primary": true,
             "role": "string",
             "state": "string",
