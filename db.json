@@ -2542,9 +2542,9 @@
           "id": 0,
           "pastDueBucketDocumentAmount": [
             1939000000,
-            16000000,
+            1600000000,
             52000000,
-            80
+            800000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -2958,9 +2958,9 @@
           "id": 0,
           "pastDueBucketDocumentAmount": [
             1999000000,
-            265000000,
-            5200000,
-            8000
+            2605000000,
+            5200000000,
+            8000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -3374,9 +3374,9 @@
           "id": 0,
           "pastDueBucketDocumentAmount": [
             1300000000,
-            2300000,
-            78000,
-            8900
+            2390000000,
+            7800000000,
+            89000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -3791,8 +3791,8 @@
           "pastDueBucketDocumentAmount": [
             122000000,
             111000000,
-            550000,
-            84500
+            550000000,
+            84500000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -4206,9 +4206,9 @@
           "id": 0,
           "pastDueBucketDocumentAmount": [
             189000000,
-            33000000,
-            67002000,
-            90000
+            330000000,
+            670020000,
+            90000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -4622,9 +4622,9 @@
           "id": 0,
           "pastDueBucketDocumentAmount": [
             185000000,
-            34500000,
-            63700,
-            800
+            345000000,
+            637000000,
+            880000000
           ],
           "pastDueBucketDocumentCount": [
             25,
