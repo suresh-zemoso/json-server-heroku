@@ -461,7 +461,7 @@
               1999000000,
               265000000,
               5200000,
-              8
+              8000
             ],
             "pastDueBucketDocumentCount": [
               25,
@@ -874,10 +874,10 @@
             "creditUtilized": 50,
             "id": 0,
             "pastDueBucketDocumentAmount": [
-              100000000,
-              2500000,
-              52000,
-              8
+              1300000000,
+              2300000,
+              78000,
+              8900
             ],
             "pastDueBucketDocumentCount": [
               25,
@@ -980,7 +980,7 @@
               "reasonCode": "string"
             }
           ],
-          "id": 0,
+          "id": 2,
           "notes": [
             {
               "createdTime": "2018-11-14T07:24:55.191Z",
@@ -1290,10 +1290,10 @@
             "creditUtilized": 50,
             "id": 0,
             "pastDueBucketDocumentAmount": [
-              10000000,
-              2500000,
-              52000,
-              8
+              122000000,
+              111000000,
+              550000,
+              84500
             ],
             "pastDueBucketDocumentCount": [
               25,
@@ -1706,10 +1706,10 @@
             "creditUtilized": 50,
             "id": 0,
             "pastDueBucketDocumentAmount": [
-              10000000,
-              2500000,
-              52000,
-              8
+              189000000,
+              33000000,
+              67002000,
+              90000
             ],
             "pastDueBucketDocumentCount": [
               25,
@@ -2122,10 +2122,10 @@
             "creditUtilized": 50,
             "id": 0,
             "pastDueBucketDocumentAmount": [
-              10000000,
-              2500000,
-              52000,
-              8
+              185000000,
+              34500000,
+              63700,
+              800
             ],
             "pastDueBucketDocumentCount": [
               25,
@@ -2541,10 +2541,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            1939000000,
+            16000000,
+            52000000,
+            80
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -2957,10 +2957,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            1000,
-            2500000,
-            52000,
-            840943
+            1999000000,
+            265000000,
+            5200000,
+            8000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -3373,10 +3373,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            1300000000,
+            2300000,
+            78000,
+            8900
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -3789,10 +3789,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            122000000,
+            111000000,
+            550000,
+            84500
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -4205,10 +4205,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            10000000,
-            2500000,
-            52000,
-            8
+            189000000,
+            33000000,
+            67002000,
+            90000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -4621,10 +4621,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            12.5,
-            18,
-            8,
-            11.5
+            185000000,
+            34500000,
+            63700,
+            800
           ],
           "pastDueBucketDocumentCount": [
             25,
