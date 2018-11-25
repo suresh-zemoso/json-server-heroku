@@ -39,7 +39,7 @@
               "60 Days Past Invoice",
               "90 Days Past Invoice"
             ],
-            "creditUtilized":60,
+            "creditUtilized": 60,
             "id": 0,
             "pastDueBucketDocumentAmount": [
               1939000000,
@@ -2541,10 +2541,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            1939000000,
-            1600000000,
+            19390000,
+            16000000,
             52000000,
-            800000000
+            80000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -2626,7 +2626,7 @@
             "type": "string",
             "zip": "string"
           },
-           {
+          {
             "address": "string",
             "city": "string",
             "country": "string",
@@ -2638,7 +2638,7 @@
             "firstName": "Zemoso",
             "id": 0,
             "lastname": "2",
-            "phoneNumber": "2143299664",
+            "phoneNumber": "214329966",
             "primary": false,
             "role": "string",
             "state": "string",
@@ -2646,7 +2646,7 @@
             "type": "string",
             "zip": "string"
           },
-           {
+          {
             "address": "string",
             "city": "string",
             "country": "string",
@@ -2997,9 +2997,9 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            1999000000,
-            2605000000,
-            5200000000,
+            19990000,
+            26050000,
+            52000000,
             8000000
           ],
           "pastDueBucketDocumentCount": [
@@ -3413,9 +3413,9 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            1300000000,
-            2390000000,
-            7800000000,
+            13000000,
+            23900000,
+            78000000,
             89000000
           ],
           "pastDueBucketDocumentCount": [
@@ -3829,10 +3829,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            122000000,
-            111000000,
-            550000000,
-            84500000
+            1220000,
+            1110000,
+            5500000,
+            8450000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -4245,10 +4245,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            189000000,
-            330000000,
-            670020000,
-            90000000
+            1890000,
+            3300000,
+            6700200,
+            9000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -4661,10 +4661,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            185000000,
-            345000000,
-            637000000,
-            880000000
+            1850000,
+            3450000,
+            6370000,
+            8800000
           ],
           "pastDueBucketDocumentCount": [
             25,
