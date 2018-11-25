@@ -39,7 +39,7 @@
               "60 Days Past Invoice",
               "90 Days Past Invoice"
             ],
-            "creditUtilized": 60,
+            "creditUtilized":60,
             "id": 0,
             "pastDueBucketDocumentAmount": [
               1939000000,
@@ -2615,10 +2615,10 @@
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "Contact",
+            "firstName": "Zemoso",
             "id": 0,
-            "lastname": "A",
-            "phoneNumber": "100",
+            "lastname": "Default",
+            "phoneNumber": "2143299664",
             "primary": true,
             "role": "string",
             "state": "string",
@@ -2626,7 +2626,7 @@
             "type": "string",
             "zip": "string"
           },
-          {
+           {
             "address": "string",
             "city": "string",
             "country": "string",
@@ -2637,7 +2637,7 @@
             "faxNumber": "string",
             "firstName": "Zemoso",
             "id": 0,
-            "lastname": "User",
+            "lastname": "2",
             "phoneNumber": "2143299664",
             "primary": false,
             "role": "string",
@@ -2646,7 +2646,7 @@
             "type": "string",
             "zip": "string"
           },
-          {
+           {
             "address": "string",
             "city": "string",
             "country": "string",
