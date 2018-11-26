@@ -145,7 +145,7 @@
               "state": "string",
               "title": "string",
               "type": "string",
-              "zip": "string
+              "zip": "string"
             },
             {
             "address": "string",
@@ -165,7 +165,7 @@
               "state": "string",
               "title": "string",
               "type": "string",
-              "zip": "string
+              "zip": "string"
             }
             
           ],
