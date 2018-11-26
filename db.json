@@ -2647,66 +2647,66 @@
         ],
         "companyCode": "string",
         "contacts": [
-          {
+             {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "string",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "Zemoso",
+              "id": 0,
+              "lastname": "Default",
+              "phoneNumber": "2143299664",
+              "primary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "string",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "Voip",
+              "id": 0,
+              "lastname": "Number",
+              "phoneNumber": "8324635028",
+              "primary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            {
             "address": "string",
-            "city": "string",
-            "country": "string",
-            "email": "string",
-            "extensions": [
-              "string"
-            ],
-            "faxNumber": "string",
-            "firstName": "Zemoso",
-            "id": 0,
-            "lastname": "Default",
-            "phoneNumber": "2143299664",
-            "primary": true,
-            "role": "string",
-            "state": "string",
-            "title": "string",
-            "type": "string",
-            "zip": "string"
-          },
-          {
-            "address": "string",
-            "city": "string",
-            "country": "string",
-            "email": "string",
-            "extensions": [
-              "string"
-            ],
-            "faxNumber": "string",
-            "firstName": "Zemoso",
-            "id": 0,
-            "lastname": "2",
-            "phoneNumber": "214329966",
-            "primary": false,
-            "role": "string",
-            "state": "string",
-            "title": "string",
-            "type": "string",
-            "zip": "string"
-          },
-          {
-            "address": "string",
-            "city": "string",
-            "country": "string",
-            "email": "string",
-            "extensions": [
-              "string"
-            ],
-            "faxNumber": "string",
-            "firstName": "Inavlid",
-            "id": 0,
-            "lastname": "Contact",
-            "phoneNumber": "7665",
-            "primary": false,
-            "role": "string",
-            "state": "string",
-            "title": "string",
-            "type": "string",
-            "zip": "string"
-          }
+              "city": "string",
+              "country": "string",
+              "email": "string",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "Invalid",
+              "id": 0,
+              "lastname": "Number",
+              "phoneNumber": "2143299",
+              "primary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            }
         ],
         "currency": "string",
         "customerName": "Company A",
