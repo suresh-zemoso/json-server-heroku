@@ -138,7 +138,7 @@
               "faxNumber": "string",
               "firstName": "Voip",
               "id": 0,
-              "lastname": "Phone",
+              "lastname": "Number",
               "phoneNumber": "8324635028",
               "primary": true,
               "role": "string",
