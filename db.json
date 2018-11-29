@@ -148,7 +148,7 @@
               "zip": "string"
             },
             {
-            "address": "string",
+              "address": "string",
               "city": "string",
               "country": "string",
               "email": "string",
@@ -167,7 +167,6 @@
               "type": "string",
               "zip": "string"
             }
-            
           ],
           "currency": "string",
           "customerName": "Company A",
@@ -2647,66 +2646,66 @@
         ],
         "companyCode": "string",
         "contacts": [
-             {
-              "address": "string",
-              "city": "string",
-              "country": "string",
-              "email": "string",
-              "extensions": [
-                "string"
-              ],
-              "faxNumber": "string",
-              "firstName": "Zemoso",
-              "id": 0,
-              "lastName": "Default",
-              "phoneNumber": "2143299664",
-              "primary": true,
-              "role": "string",
-              "state": "string",
-              "title": "string",
-              "type": "string",
-              "zip": "string"
-            },
-            {
-              "address": "string",
-              "city": "string",
-              "country": "string",
-              "email": "string",
-              "extensions": [
-                "string"
-              ],
-              "faxNumber": "string",
-              "firstName": "Voip",
-              "id": 0,
-              "lastName": "Number",
-              "phoneNumber": "8324635028",
-              "primary": false,
-              "role": "string",
-              "state": "string",
-              "title": "string",
-              "type": "string",
-              "zip": "string"
-            },
-            {
+          {
             "address": "string",
-              "city": "string",
-              "country": "string",
-              "email": "string",
-              "extensions": [
-                "string"
-              ],
-              "faxNumber": "string",
-              "firstName": "Invalid",
-              "id": 0,
-              "lastName": "Number",
-              "phoneNumber": "2143299",
-              "primary": false,
-              "role": "string",
-              "state": "string",
-              "title": "string",
-              "type": "string",
-              "zip": "string"
-            }
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Zemoso",
+            "id": 0,
+            "lastName": "Default",
+            "phoneNumber": "2143299664",
+            "primary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Voip",
+            "id": 0,
+            "lastName": "Number",
+            "phoneNumber": "8324635028",
+            "primary": false,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Invalid",
+            "id": 0,
+            "lastName": "Number",
+            "phoneNumber": "2143299",
+            "primary": false,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          }
         ],
         "currency": "string",
         "customerName": "Company A",
@@ -2877,6 +2876,34 @@
           }
         ],
         "riskClass": "string",
+        "predictedAccountDetails": {
+          "actualCreditLimit": 100,
+          "bucketNames": [
+            "Total Current Due",
+            "30 Days Past Invoice",
+            "60 Days Past Invoice",
+            "90 Days Past Invoice"
+          ],
+          "creditUtilized": 60,
+          "id": 0,
+          "pastDueBucketDocumentAmount": [
+            1939000000,
+            16000000,
+            52000000,
+            80
+          ],
+          "pastDueBucketDocumentCount": [
+            50,
+            20,
+            17,
+            11
+          ],
+          "totalActualOpenAmount": 30,
+          "totalCurrentOpenAmount": 40,
+          "totalDisputedAmount": 50,
+          "totalPastDueAmount": 99,
+          "totalPastDuePercent": 55
+        },
         "suggestedActions": [
           {
             "active": true,
@@ -3708,6 +3735,34 @@
             "paymentDate": "string"
           }
         ],
+        "predictedAccountDetails": {
+          "actualCreditLimit": 100,
+          "bucketNames": [
+            "Total Current Due",
+            "30 Days Past Invoice",
+            "60 Days Past Invoice",
+            "90 Days Past Invoice"
+          ],
+          "creditUtilized": 60,
+          "id": 0,
+          "pastDueBucketDocumentAmount": [
+            1939000000,
+            16000000,
+            52000000,
+            80
+          ],
+          "pastDueBucketDocumentCount": [
+            50,
+            20,
+            17,
+            11
+          ],
+          "totalActualOpenAmount": 30,
+          "totalCurrentOpenAmount": 40,
+          "totalDisputedAmount": 50,
+          "totalPastDueAmount": 99,
+          "totalPastDuePercent": 55
+        },
         "riskClass": "string",
         "suggestedActions": [
           {
@@ -4124,6 +4179,34 @@
             "paymentDate": "string"
           }
         ],
+        "predictedAccountDetails": {
+          "actualCreditLimit": 100,
+          "bucketNames": [
+            "Total Current Due",
+            "30 Days Past Invoice",
+            "60 Days Past Invoice",
+            "90 Days Past Invoice"
+          ],
+          "creditUtilized": 60,
+          "id": 0,
+          "pastDueBucketDocumentAmount": [
+            1939000000,
+            16000000,
+            52000000,
+            80
+          ],
+          "pastDueBucketDocumentCount": [
+            50,
+            20,
+            17,
+            11
+          ],
+          "totalActualOpenAmount": 30,
+          "totalCurrentOpenAmount": 40,
+          "totalDisputedAmount": 50,
+          "totalPastDueAmount": 99,
+          "totalPastDuePercent": 55
+        },
         "riskClass": "string",
         "suggestedActions": [
           {
@@ -4540,6 +4623,34 @@
             "paymentDate": "string"
           }
         ],
+        "predictedAccountDetails": {
+          "actualCreditLimit": 100,
+          "bucketNames": [
+            "Total Current Due",
+            "30 Days Past Invoice",
+            "60 Days Past Invoice",
+            "90 Days Past Invoice"
+          ],
+          "creditUtilized": 60,
+          "id": 0,
+          "pastDueBucketDocumentAmount": [
+            1939000000,
+            16000000,
+            52000000,
+            80
+          ],
+          "pastDueBucketDocumentCount": [
+            50,
+            20,
+            17,
+            11
+          ],
+          "totalActualOpenAmount": 30,
+          "totalCurrentOpenAmount": 40,
+          "totalDisputedAmount": 50,
+          "totalPastDueAmount": 99,
+          "totalPastDuePercent": 55
+        },
         "riskClass": "string",
         "suggestedActions": [
           {
@@ -4956,6 +5067,34 @@
             "paymentDate": "string"
           }
         ],
+        "predictedAccountDetails": {
+          "actualCreditLimit": 100,
+          "bucketNames": [
+            "Total Current Due",
+            "30 Days Past Invoice",
+            "60 Days Past Invoice",
+            "90 Days Past Invoice"
+          ],
+          "creditUtilized": 60,
+          "id": 0,
+          "pastDueBucketDocumentAmount": [
+            1939000000,
+            16000000,
+            52000000,
+            80
+          ],
+          "pastDueBucketDocumentCount": [
+            50,
+            20,
+            17,
+            11
+          ],
+          "totalActualOpenAmount": 30,
+          "totalCurrentOpenAmount": 40,
+          "totalDisputedAmount": 50,
+          "totalPastDueAmount": 99,
+          "totalPastDuePercent": 55
+        },
         "riskClass": "string",
         "suggestedActions": [
           {
