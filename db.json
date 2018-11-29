@@ -158,7 +158,7 @@
               "faxNumber": "string",
               "firstName": "Invalid",
               "id": 0,
-              "lastname": "Number",
+              "lastName": "Number",
               "phoneNumber": "2143299",
               "primary": true,
               "role": "string",
