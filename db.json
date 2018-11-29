@@ -3065,10 +3065,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            19990000,
-            26050000,
+            19390000,
+            16000000,
             52000000,
-            8000000
+            80000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -3139,11 +3139,51 @@
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "Contact",
+            "firstName": "Zemoso",
             "id": 0,
-            "lastName": "A",
-            "phoneNumber": "100",
+            "lastName": "Default",
+            "phoneNumber": "2143299664",
             "primary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Voip",
+            "id": 0,
+            "lastName": "Number",
+            "phoneNumber": "8324635028",
+            "primary": false,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Invalid",
+            "id": 0,
+            "lastName": "Number",
+            "phoneNumber": "2143299",
+            "primary": false,
             "role": "string",
             "state": "string",
             "title": "string",
@@ -3152,8 +3192,8 @@
           }
         ],
         "currency": "string",
-        "customerName": "Company B",
-        "customerNumber": "789676",
+        "customerName": "Company A",
+        "customerNumber": "12326",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -3320,6 +3360,34 @@
           }
         ],
         "riskClass": "string",
+        "predictedAccountDetails": {
+          "actualCreditLimit": 100,
+          "bucketNames": [
+            "Total Current Due",
+            "30 Days Past Invoice",
+            "60 Days Past Invoice",
+            "90 Days Past Invoice"
+          ],
+          "creditUtilized": 60,
+          "id": 0,
+          "pastDueBucketDocumentAmount": [
+            1939000000,
+            16000000,
+            52000000,
+            80
+          ],
+          "pastDueBucketDocumentCount": [
+            50,
+            20,
+            17,
+            11
+          ],
+          "totalActualOpenAmount": 30,
+          "totalCurrentOpenAmount": 40,
+          "totalDisputedAmount": 50,
+          "totalPastDueAmount": 99,
+          "totalPastDuePercent": 55
+        },
         "suggestedActions": [
           {
             "active": true,
@@ -3470,7 +3538,7 @@
       "createdBy": "string",
       "createdTime": "2018-11-06T06:23:20.375Z",
       "customerDetails": {
-        "arDetails": {
+        "accountDetails": {
           "actualCreditLimit": 90,
           "bucketNames": [
             "Total Current Due",
@@ -3481,10 +3549,10 @@
           "creditUtilized": 50,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            13000000,
-            23900000,
-            78000000,
-            89000000
+            19390000,
+            16000000,
+            52000000,
+            80000000
           ],
           "pastDueBucketDocumentCount": [
             25,
@@ -3555,11 +3623,51 @@
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "Contact",
+            "firstName": "Zemoso",
             "id": 0,
-            "lastName": "A",
-            "phoneNumber": "100",
+            "lastName": "Default",
+            "phoneNumber": "2143299664",
             "primary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Voip",
+            "id": 0,
+            "lastName": "Number",
+            "phoneNumber": "8324635028",
+            "primary": false,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "string",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Invalid",
+            "id": 0,
+            "lastName": "Number",
+            "phoneNumber": "2143299",
+            "primary": false,
             "role": "string",
             "state": "string",
             "title": "string",
@@ -3568,8 +3676,8 @@
           }
         ],
         "currency": "string",
-        "customerName": "Company C",
-        "customerNumber": "47589",
+        "customerName": "Company A",
+        "customerNumber": "12326",
         "disputes": [
           {
             "actualDisputeAmount": "string",
@@ -3735,6 +3843,7 @@
             "paymentDate": "string"
           }
         ],
+        "riskClass": "string",
         "predictedAccountDetails": {
           "actualCreditLimit": 100,
           "bucketNames": [
@@ -3763,7 +3872,6 @@
           "totalPastDueAmount": 99,
           "totalPastDuePercent": 55
         },
-        "riskClass": "string",
         "suggestedActions": [
           {
             "active": true,
@@ -3816,7 +3924,7 @@
                 "faxNumber": "string",
                 "firstName": "string",
                 "id": 0,
-                "lastname": "string",
+                "lastName": "string",
                 "phoneNumber": "string",
                 "primary": true,
                 "role": "string",
@@ -3895,7 +4003,7 @@
               "documentIds": [
                 0
               ],
-              "id": 0,
+              "id": 2,
               "noteContent": "string",
               "subject": "string"
             },
