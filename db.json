@@ -2565,7 +2565,7 @@
       }
     ]
   },
-  "customers": [
+  "customer": [
     {
       "createdBy": "string",
       "createdTime": "2018-11-06T06:23:20.375Z",
