@@ -2570,7 +2570,7 @@
   "accountDetails": {
     "actualCreditLimit": 0,
     "bucketNames": [
-      "string"
+      "P","Q","R","S"
     ],
     "creditUtilized": 0,
     "id": 0,
@@ -2604,7 +2604,7 @@
         "firstName": "string",
         "id": 0,
         "lastName": "string",
-        "phoneNumber": "string",
+        "phoneNumber": "2143299664",
         "primary": true,
         "role": "string",
         "state": "string",
@@ -2647,7 +2647,7 @@
       "firstName": "string",
       "id": 0,
       "lastName": "string",
-      "phoneNumber": "string",
+      "phoneNumber": "2143299664",
       "primary": true,
       "role": "string",
       "state": "string",
@@ -2737,7 +2737,7 @@
         "firstName": "string",
         "id": 0,
         "lastName": "string",
-        "phoneNumber": "string",
+        "phoneNumber": "2143299664",
         "primary": true,
         "role": "string",
         "state": "string",
@@ -2751,7 +2751,67 @@
       "customerId": 0,
       "documentId": 0,
       "id": 0,
-      "type": "string"
+      "type": "Broken P2P"
+    },
+    {
+      "committedAmount": 0,
+      "committedBy": {
+        "address": "string",
+        "city": "string",
+        "country": "string",
+        "email": "string",
+        "extensions": [
+          "string"
+        ],
+        "faxNumber": "string",
+        "firstName": "string",
+        "id": 0,
+        "lastName": "string",
+        "phoneNumber": "2143299664",
+        "primary": true,
+        "role": "string",
+        "state": "string",
+        "title": "string",
+        "type": "string",
+        "zip": "string"
+      },
+      "committedDate": "2018-12-04",
+      "committedOn": "2018-12-04",
+      "currency": "string",
+      "customerId": 0,
+      "documentId": 0,
+      "id": 0,
+      "type": "Upcoming P2P"
+    },
+    {
+      "committedAmount": 0,
+      "committedBy": {
+        "address": "string",
+        "city": "string",
+        "country": "string",
+        "email": "string",
+        "extensions": [
+          "string"
+        ],
+        "faxNumber": "string",
+        "firstName": "string",
+        "id": 0,
+        "lastName": "string",
+        "phoneNumber": "2143299664",
+        "primary": true,
+        "role": "string",
+        "state": "string",
+        "title": "string",
+        "type": "string",
+        "zip": "string"
+      },
+      "committedDate": "2018-12-04",
+      "committedOn": "2018-12-04",
+      "currency": "string",
+      "customerId": 0,
+      "documentId": 0,
+      "id": 0,
+      "type": "Open P2P"
     }
   ],
   "payments": [
@@ -2767,7 +2827,7 @@
   "predictedAccountDetails": {
     "actualCreditLimit": 0,
     "bucketNames": [
-      "string"
+      "P","Q","R","S"
     ],
     "creditUtilized": 0,
     "id": 0,
@@ -2838,7 +2898,7 @@
           "firstName": "string",
           "id": 0,
           "lastName": "string",
-          "phoneNumber": "string",
+          "phoneNumber": "2143299664",
           "primary": true,
           "role": "string",
           "state": "string",
@@ -2880,7 +2940,7 @@
           "firstName": "string",
           "id": 0,
           "lastName": "string",
-          "phoneNumber": "string",
+          "phoneNumber": "2143299664",
           "primary": true,
           "role": "string",
           "state": "string",
