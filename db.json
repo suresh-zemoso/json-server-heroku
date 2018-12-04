@@ -2575,10 +2575,10 @@
     "creditUtilized": 0,
     "id": 0,
     "pastDueBucketDocumentAmount": [
-      0
+      12000000,13000000,24000000,20000000
     ],
     "pastDueBucketDocumentCount": [
-      0
+      90,10,13,12
     ],
     "totalActualOpenAmount": 0,
     "totalCurrentInvoiceCount": 0,
