@@ -5,7 +5,9 @@
     "processedCustomerCount": 12,
     "totalCustomerCount": 35,
     "totalPastDueAmount": 36,
-    "totalPastDueProcessed": 12
+    "totalPastDueProcessed": 12,
+    "totalPastDue" : 20,
+    "total" : 22
   },
   "callworkbook": {
     "overview": {
