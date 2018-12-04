@@ -2647,7 +2647,7 @@
       "firstName": "Adam",
       "id": 0,
       "lastName": "Gilchrist",
-      "phoneNumber": "2143299ab4",
+      "phoneNumber": "2143299664",
       "primary": true,
       "role": "string",
       "state": "string",
@@ -2724,7 +2724,7 @@
   ],
   "paymentCommitments": [
     {
-      "committedAmount": 1300000,
+      "committedAmount": 1333000000,
       "committedBy": {
         "address": "string",
         "city": "string",
