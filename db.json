@@ -1,11 +1,11 @@
 {
   "overview": {
-    "completedCallingMinutes": 40,
-    "expectedCallingMinutes": 120,
+    "completedCallingMinutes": 60,
+    "expectedCallingMinutes": 240,
     "processedCustomerCount": 12,
     "totalCustomerCount": 35,
-    "totalPastDueAmount": 3600,
-    "totalPastDueProcessed": 1200
+    "totalPastDueAmount": 36,
+    "totalPastDueProcessed": 12
   },
   "callworkbook": {
     "overview": {
