@@ -1,6 +1,6 @@
 {
   "overview": {
-    "completedCallingMinutes": 05,
+    "completedCallingMinutes": 5,
     "expectedCallingMinutes": 60,
     "processedCustomerCount": 12,
     "totalCustomerCount": 35,
