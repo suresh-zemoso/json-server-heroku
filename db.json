@@ -2644,9 +2644,9 @@
         "string"
       ],
       "faxNumber": "string",
-      "firstName": "20",
+      "firstName": "Adam",
       "id": 0,
-      "lastName": "12",
+      "lastName": "Gilchrist",
       "phoneNumber": "2143299664",
       "primary": true,
       "role": "string",
@@ -2724,7 +2724,7 @@
   ],
   "paymentCommitments": [
     {
-      "committedAmount": 0,
+      "committedAmount": 1345000000,
       "committedBy": {
         "address": "string",
         "city": "string",
@@ -2754,7 +2754,7 @@
       "type": "Broken P2P"
     },
     {
-      "committedAmount": 0,
+      "committedAmount": 133000000,
       "committedBy": {
         "address": "string",
         "city": "string",
@@ -2784,7 +2784,7 @@
       "type": "Upcoming P2P"
     },
     {
-      "committedAmount": 0,
+      "committedAmount": 2300000,
       "committedBy": {
         "address": "string",
         "city": "string",
