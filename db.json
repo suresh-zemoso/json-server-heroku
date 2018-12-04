@@ -2751,7 +2751,7 @@
       "customerId": 0,
       "documentId": 0,
       "id": 0,
-      "type": "Broken P2P"
+      "type": "Open P2P"
     },
     {
       "committedAmount": 0,
@@ -2811,7 +2811,7 @@
       "customerId": 0,
       "documentId": 0,
       "id": 0,
-      "type": "Open P2P"
+      "type": "Broken P2P"
     }
   ],
   "payments": [
