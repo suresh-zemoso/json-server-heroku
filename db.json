@@ -2724,7 +2724,7 @@
   ],
   "paymentCommitments": [
     {
-      "committedAmount": 1345000000,
+      "committedAmount": 1300000,
       "committedBy": {
         "address": "string",
         "city": "string",
@@ -2754,7 +2754,7 @@
       "type": "Broken P2P"
     },
     {
-      "committedAmount": 133000000,
+      "committedAmount": 0,
       "committedBy": {
         "address": "string",
         "city": "string",
@@ -2784,7 +2784,7 @@
       "type": "Upcoming P2P"
     },
     {
-      "committedAmount": 2300000,
+      "committedAmount": 0,
       "committedBy": {
         "address": "string",
         "city": "string",
