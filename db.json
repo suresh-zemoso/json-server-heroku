@@ -3062,9 +3062,9 @@
         "string"
       ],
       "faxNumber": "string",
-      "firstName": "John",
+      "firstName": "",
       "id": 1,
-      "lastName": "Wick",
+      "lastName": "",
       "phoneNumber": "string",
       "primary": true,
       "role": "string",
