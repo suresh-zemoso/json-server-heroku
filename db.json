@@ -2988,15 +2988,13 @@
   "accountDetails": {
     "actualCreditLimit": 0,
     "bucketNames": [
-      "P","Q","R","S"
     ],
     "creditUtilized": 0,
     "id": 1,
     "pastDueBucketDocumentAmount": [
-      "","","",""
     ],
     "pastDueBucketDocumentCount": [
-      90,10,30,12
+      
     ],
     "totalActualOpenAmount": 0,
     "totalCurrentInvoiceCount": 0,
