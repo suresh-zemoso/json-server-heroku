@@ -3053,27 +3053,7 @@
   ],
   "companyCode": "string",
   "contacts": [
-    {
-      "address": "string",
-      "city": "string",
-      "country": "string",
-      "email": "string",
-      "extensions": [
-        "string"
-      ],
-      "faxNumber": "string",
-      "firstName": "Adam",
-      "id": 1,
-      "lastName": "Gilchrist",
-      "phoneNumber": "string",
-      "primary": true,
-      "role": "string",
-      "state": "string",
-      "title": "string",
-      "type": "string",
-      "zip": "string"
-    }
-  ],
+    ],
   "currency": "string",
   "customerName": "string",
   "customerNumber": "string",
@@ -3141,7 +3121,36 @@
     }
   ],
   "paymentCommitments": [
-    
+    {
+      "committedAmount": 0,
+      "committedBy": {
+        "address": "string",
+        "city": "string",
+        "country": "string",
+        "email": "string",
+        "extensions": [
+          "string"
+        ],
+        "faxNumber": "string",
+        "firstName": "string",
+        "id": 1,
+        "lastName": "string",
+        "phoneNumber": "string",
+        "primary": true,
+        "role": "string",
+        "state": "string",
+        "title": "string",
+        "type": "string",
+        "zip": "string"
+      },
+      "committedDate": "2018-12-04",
+      "committedOn": "2018-12-04",
+      "currency": "string",
+      "customerId": 0,
+      "documentId": 0,
+      "id": 1,
+      "type": "string"
+    }
   ],
   "payments": [
     {
