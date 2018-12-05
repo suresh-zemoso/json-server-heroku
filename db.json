@@ -2993,7 +2993,7 @@
     "creditUtilized": 0,
     "id": 1,
     "pastDueBucketDocumentAmount": [
-      12,13,14,15
+      "","","",""
     ],
     "pastDueBucketDocumentCount": [
       90,10,30,12
@@ -3202,7 +3202,7 @@
     "totalPastDueAmount": 0,
     "totalPastDuePercent": 0
   },
-  "riskClass": "null",
+  "riskClass": "string",
   "suggestedActions": [
     {
       "active": true,
