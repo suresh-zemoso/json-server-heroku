@@ -1,7 +1,7 @@
 {
   "overview": {
-    "completedCallingMinutes": 120,
-    "expectedCallingMinutes": 240,
+    "completedCallingMinutes": 124,
+    "expectedCallingMinutes": 246,
     "processedCustomerCount": 40,
     "totalCustomerCount": 109,
     "totalPastDueAmount": 123,
