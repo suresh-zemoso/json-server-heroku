@@ -3173,7 +3173,14 @@
     }
   ],
   "payments": [
-    
+    {
+      "currency": "string",
+      "customerId": "string",
+      "documentNumber": "string",
+      "id": 1,
+      "paymentAmount": 0,
+      "paymentDate": "2018-12-04"
+    }
   ],
   "predictedAccountDetails": {
     "actualCreditLimit": 0,
@@ -3195,7 +3202,7 @@
     "totalPastDueAmount": 0,
     "totalPastDuePercent": 0
   },
-  "riskClass": "string",
+  "riskClass": "null",
   "suggestedActions": [
     {
       "active": true,
