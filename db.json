@@ -3053,26 +3053,7 @@
   ],
   "companyCode": "string",
   "contacts": [
-    {
-      "address": "string",
-      "city": "string",
-      "country": "string",
-      "email": "string",
-      "extensions": [
-        "string"
-      ],
-      "faxNumber": "string",
-      "firstName": "null",
-      "id": 1,
-      "lastName": "Gibbon",
-      "phoneNumber": "string",
-      "primary": true,
-      "role": "string",
-      "state": "string",
-      "title": "string",
-      "type": "string",
-      "zip": "string"
-    }
+    
   ],
   "currency": "string",
   "customerName": "string",
