@@ -1,11 +1,11 @@
 {
   "overview": {
-    "completedCallingMinutes": null,
-    "expectedCallingMinutes": null,
-    "processedCustomerCount": null,
-    "totalCustomerCount": null,
-    "totalPastDueAmount": null,
-    "totalPastDueProcessed": null
+    "completedCallingMinutes": 60,
+    "expectedCallingMinutes": 240,
+    "processedCustomerCount": 40,
+    "totalCustomerCount": 109,
+    "totalPastDueAmount": 12,
+    "totalPastDueProcessed": 35
   },
   "callworkbook": {
     "overview": {
@@ -2988,15 +2988,15 @@
   "accountDetails": {
     "actualCreditLimit": 0,
     "bucketNames": [
-      "string"
+      "P","Q","R","S"
     ],
     "creditUtilized": 0,
     "id": 1,
     "pastDueBucketDocumentAmount": [
-      0
+      null,null,null,null
     ],
     "pastDueBucketDocumentCount": [
-      0
+      90,10,13,10
     ],
     "totalActualOpenAmount": 0,
     "totalCurrentInvoiceCount": 0,
