@@ -2985,26 +2985,7 @@
   ]
 },
     {
-  "accountDetails": {
-    "actualCreditLimit": 0,
-    "bucketNames": [
-      "P","Q","R","S"
-    ],
-    "creditUtilized": 0,
-    "id": 1,
-    "pastDueBucketDocumentAmount": [
-      12,13,14,15
-    ],
-    "pastDueBucketDocumentCount": [
-      90,10,30,12
-    ],
-    "totalActualOpenAmount": 0,
-    "totalCurrentInvoiceCount": 0,
-    "totalCurrentOpenAmount": 0,
-    "totalDisputedAmount": 0,
-    "totalPastDueAmount": 0,
-    "totalPastDuePercent": 0
-  },
+  "accountDetails": {},
   "calls": [
     {
       "callSummary": "string",
@@ -3053,7 +3034,26 @@
   ],
   "companyCode": "string",
   "contacts": [
-    
+    {
+      "address": "string",
+      "city": "string",
+      "country": "string",
+      "email": "string",
+      "extensions": [
+        "string"
+      ],
+      "faxNumber": "string",
+      "firstName": "null",
+      "id": 1,
+      "lastName": "Gibbon",
+      "phoneNumber": "string",
+      "primary": true,
+      "role": "string",
+      "state": "string",
+      "title": "string",
+      "type": "string",
+      "zip": "string"
+    }
   ],
   "currency": "string",
   "customerName": "string",
