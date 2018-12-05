@@ -3053,7 +3053,27 @@
   ],
   "companyCode": "string",
   "contacts": [
-    ],
+    {
+      "address": "string",
+      "city": "string",
+      "country": "string",
+      "email": "string",
+      "extensions": [
+        "string"
+      ],
+      "faxNumber": "string",
+      "firstName": "John",
+      "id": 1,
+      "lastName": "Wick",
+      "phoneNumber": "string",
+      "primary": true,
+      "role": "string",
+      "state": "string",
+      "title": "string",
+      "type": "string",
+      "zip": "string"
+    }
+  ],
   "currency": "string",
   "customerName": "string",
   "customerNumber": "string",
@@ -3153,14 +3173,7 @@
     }
   ],
   "payments": [
-    {
-      "currency": "string",
-      "customerId": "string",
-      "documentNumber": "string",
-      "id": 1,
-      "paymentAmount": 0,
-      "paymentDate": "2018-12-04"
-    }
+    
   ],
   "predictedAccountDetails": {
     "actualCreditLimit": 0,
