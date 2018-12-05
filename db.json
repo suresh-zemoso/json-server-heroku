@@ -1,7 +1,7 @@
 {
   "overview": {
-    "completedCallingMinutes": 124,
-    "expectedCallingMinutes": 246,
+    "completedCallingMinutes": 60,
+    "expectedCallingMinutes": 240,
     "processedCustomerCount": 40,
     "totalCustomerCount": 109,
     "totalPastDueAmount": 123,
@@ -2987,7 +2987,7 @@
     {
   "accountDetails": {
     "actualCreditLimit": 0,
-    "bucketNames": ["p","Q","R","S"
+    "bucketNames": ["#","Q","R","S"
     ],
     "creditUtilized": 0,
     "id": 1,
