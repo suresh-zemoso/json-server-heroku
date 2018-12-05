@@ -3190,10 +3190,10 @@
     "creditUtilized": 0,
     "id": 1,
     "pastDueBucketDocumentAmount": [
-      
+      22,24,23,13
     ],
     "pastDueBucketDocumentCount": [
-      
+      10,4,6,5
     ],
     "totalActualOpenAmount": 0,
     "totalCurrentInvoiceCount": 0,
@@ -3202,7 +3202,7 @@
     "totalPastDueAmount": 0,
     "totalPastDuePercent": 0
   },
-  "riskClass": "",
+  "riskClass": "Medium",
   "suggestedActions": [
     {
       "active": true,
