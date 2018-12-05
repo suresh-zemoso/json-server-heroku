@@ -2987,13 +2987,15 @@
     {
   "accountDetails": {
     "actualCreditLimit": 0,
-    "bucketNames": [
+    "bucketNames": ["p","Q","R","S"
     ],
     "creditUtilized": 0,
     "id": 1,
     "pastDueBucketDocumentAmount": [
+      19,13,14,15
     ],
     "pastDueBucketDocumentCount": [
+      90,10,20,15
       
     ],
     "totalActualOpenAmount": 0,
