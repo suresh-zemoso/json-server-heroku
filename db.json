@@ -3062,9 +3062,9 @@
         "string"
       ],
       "faxNumber": "string",
-      "firstName": "",
+      "firstName": "John",
       "id": 1,
-      "lastName": "",
+      "lastName": "Wick",
       "phoneNumber": "string",
       "primary": true,
       "role": "string",
@@ -3190,10 +3190,10 @@
     "creditUtilized": 0,
     "id": 1,
     "pastDueBucketDocumentAmount": [
-      0
+      
     ],
     "pastDueBucketDocumentCount": [
-      0
+      
     ],
     "totalActualOpenAmount": 0,
     "totalCurrentInvoiceCount": 0,
@@ -3202,7 +3202,7 @@
     "totalPastDueAmount": 0,
     "totalPastDuePercent": 0
   },
-  "riskClass": "string",
+  "riskClass": "",
   "suggestedActions": [
     {
       "active": true,
