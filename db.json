@@ -190,10 +190,10 @@
       "accountDetails": {
         "actualCreditLimit": 0,
         "bucketNames": [
-          "P",
-          "Q",
-          "R",
-          "S"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
         ],
         "creditUtilized": 0,
         "id": 0,
@@ -284,11 +284,32 @@
           "title": "string",
           "type": "string",
           "zip": "string"
+        },
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "string",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Contact",
+          "id": 1,
+          "lastName": "B",
+          "phoneNumber": "767836",
+          "mobile": "2143299665",
+          "primary": false,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
         }
       ],
       "currency": "string",
-      "customerName": "string",
-      "customerNumber": "string",
+      "customerName": "Customer A",
+      "customerNumber": "324632",
       "disputes": [
         {
           "actualDisputeAmount": "string",
@@ -425,18 +446,24 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 0,
         "bucketNames": [
-          "P",
-          "Q",
-          "R",
-          "S"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
         ],
         "creditUtilized": 0,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          0
+          1240,
+          1,
+          23,
+          25
         ],
         "pastDueBucketDocumentCount": [
-          0
+          90,
+          10,
+          13,
+          12
         ],
         "totalActualOpenAmount": 0,
         "totalCurrentInvoiceCount": 0,
@@ -581,7 +608,7 @@
             "noteContent": "string",
             "subject": "string"
           },
-          "type": "string"
+          "type": "Medium"
         }
       ]
     },
