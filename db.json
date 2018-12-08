@@ -7,6 +7,7 @@
     "totalPastDueAmount": 123,
     "totalPastDueProcessed": 353
   },
+  calls : {},
   "callworkbook": {
     "overview": {
       "completedCallingMinutes": 0,
