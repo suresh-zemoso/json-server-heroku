@@ -4,8 +4,8 @@
     "expectedCallingMinutes": 243,
     "processedCustomerCount": 40,
     "totalCustomerCount": 109,
-    "totalPastDueAmount": 32000000,
-    "totalPastDueProcessed": 12000000
+    "totalPastDueAmount": 3200000000,
+    "totalPastDueProcessed": 1200000000
   },
   "calls" : {},
   "callworkbook": {
