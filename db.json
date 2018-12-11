@@ -622,7 +622,7 @@
           "R",
           "S"
         ],
-        "creditUtilized": 0,
+        "creditUtilized": 50,
         "id": 1,
         "pastDueBucketDocumentAmount": [
           14000000,2900000,14,15
