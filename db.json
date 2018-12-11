@@ -615,7 +615,7 @@
     },
     {
       "accountDetails": {
-        "actualCreditLimit": 0,
+        "actualCreditLimit": 100,
         "bucketNames": [
           "P",
           "Q",
@@ -806,7 +806,7 @@
         }
       ],
       "predictedAccountDetails": {
-        "actualCreditLimit": 0,
+        "actualCreditLimit": 100,
         "bucketNames": [
           "string"
         ],
