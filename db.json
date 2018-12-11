@@ -625,10 +625,10 @@
         "creditUtilized": 0,
         "id": 1,
         "pastDueBucketDocumentAmount": [
-          
+          14000000,2900000,14,15
         ],
         "pastDueBucketDocumentCount": [
-          
+          90,10,30,10
         ],
         "totalActualOpenAmount": 0,
         "totalCurrentInvoiceCount": 0,
@@ -730,8 +730,8 @@
         
       ],
       "currency": "string",
-      "customerName": "string",
-      "customerNumber": "string",
+      "customerName": "Customer B",
+      "customerNumber": "78965",
       "disputes": [
         {
           "actualDisputeAmount": "string",
