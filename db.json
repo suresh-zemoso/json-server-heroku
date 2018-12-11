@@ -808,13 +808,13 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 1000,
         "bucketNames": [
-          "string"
+          "P","Q","R","S"
         ],
         "creditUtilized": 530,
         "id": 1,
         "pastDueBucketDocumentAmount": [
-          22,
-          24,
+          1932000000,
+          24000000,
           23,
           13
         ],
