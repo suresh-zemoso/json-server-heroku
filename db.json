@@ -721,9 +721,9 @@
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "Contact",
+          "firstName": "Invalid",
           "id": 1,
-          "lastName": "B",
+          "lastName": "Contact",
           "phoneNumber": "767836",
           "mobile": "2143299665",
           "primary": false,
