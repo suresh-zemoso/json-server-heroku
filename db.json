@@ -810,7 +810,7 @@
         "bucketNames": [
           "string"
         ],
-        "creditUtilized": 0,
+        "creditUtilized": 50,
         "id": 1,
         "pastDueBucketDocumentAmount": [
           22,
