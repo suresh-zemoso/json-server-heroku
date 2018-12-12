@@ -10,8 +10,8 @@
   "calls" : {},
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 0,
-      "expectedCallingMinutes": 0,
+      "completedCallingMinutes": 60,
+      "expectedCallingMinutes": 240,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -19,13 +19,13 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": 0,
-      "toalCustomerCount": 0,
+      "processedCustomerCount": 40,
+      "totalCustomerCount": 109,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
-      "totalPastDueAmount": 0,
-      "totalPastDueProcessed": 0
+      "totalPastDueAmount": 32000000.66,
+      "totalPastDueProcessed": 12650000.55
     },
     "workbookItems": [
       {
