@@ -10,8 +10,8 @@
   "calls": {},
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 60,
-      "expectedCallingMinutes": 240,
+      "completedCallingMinutes": 75,
+      "expectedCallingMinutes": 255,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
