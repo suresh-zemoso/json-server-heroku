@@ -157,32 +157,6 @@
         ],
         "totalBrokenPromises": 7,
         "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
-        ],
-        "currency": "string",
-        "customerName": "Customer F",
-        "customerNumber": "23123",
-        "id": 5,
-        "pastDueBucketDocumentAmount": [
-          1300000000,
-          2300000,
-          78000,
-          8900
-        ],
-        "pastDueBucketDocumentCount": [
-          25,
-          10,
-          6,
-          4
-        ],
-        "totalBrokenPromises": 7,
-        "totalCurrentOpenAmount": 0
       }
     ]
   },
