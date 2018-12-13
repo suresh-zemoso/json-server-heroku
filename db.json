@@ -2275,7 +2275,12 @@
     "phone": "string",
     "role": "string",
     "title": "string",
-    "userName": "string"
+    "userName": "string",
+    "bucketNames": [
+    "30 Days",
+    "60 days",
+    "90 days"
+  ]
   },
   "invoices": [
     {
