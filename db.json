@@ -445,7 +445,8 @@
         "totalCurrentOpenAmount": 0,
         "totalDisputedAmount": 0,
         "totalPastDueAmount": 0,
-        "totalPastDuePercent": 0
+        "totalPastDuePercent": 0,
+        "paymentBehaviour": "Good"
       },
       "riskClass": "string",
       "suggestedActions": [
@@ -2277,10 +2278,10 @@
     "title": "string",
     "userName": "string",
     "bucketNames": [
-    "30 Days",
-    "60 days",
-    "90 days"
-  ]
+      "30 Days",
+      "60 days",
+      "90 days"
+    ]
   },
   "invoices": [
     {
@@ -5794,20 +5795,28 @@
     "asteriskIp": "call-test.highradius.com",
     "iceServers": "[{url:'stun:stun.l.google.com:19302'}]"
   },
-  "upcoming" : 
-    {
-  "upcomingCallingMinutes": 0,
-  "upcomingCustomerCount": 0,
-  "upcomingOpenAmount": 0,
-  "upcomingPastDueAmount": 0,
-  "upcomingPastDueBucketDocumentAmount": [
-    13,45,667,34
-  ],
-  "upcomingPastDueBucketDocumentCount": [
-    25,10,4,3
-  ],
-  "bucketNames" : ["30 Days","60 days", "90 days"],
-  "totalCurrentOpenAmount" : 45
-}
-  
+  "upcoming": {
+    "upcomingCallingMinutes": 0,
+    "upcomingCustomerCount": 0,
+    "upcomingOpenAmount": 0,
+    "upcomingPastDueAmount": 0,
+    "upcomingPastDueBucketDocumentAmount": [
+      13,
+      45,
+      667,
+      34
+    ],
+    "upcomingPastDueBucketDocumentCount": [
+      25,
+      10,
+      4,
+      3
+    ],
+    "bucketNames": [
+      "30 Days",
+      "60 days",
+      "90 days"
+    ],
+    "totalCurrentOpenAmount": 45
+  }
 }
