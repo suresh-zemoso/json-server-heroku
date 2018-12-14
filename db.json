@@ -40,10 +40,10 @@
         "customerNumber": "876572",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          1300000000,
-          2300000,
-          78000,
-          8900
+          0,
+          0,
+          0,
+          0
         ],
         "pastDueBucketDocumentCount": [
           25,
