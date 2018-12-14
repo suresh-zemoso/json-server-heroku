@@ -62,7 +62,7 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Customer B",
+        "customerName": "Power Technique North America LLC",
         "customerNumber": "876572",
         "id": 1,
         "pastDueBucketDocumentAmount": [
