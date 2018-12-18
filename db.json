@@ -37,7 +37,7 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Adidas,
+        "customerName": "Adidas",
         "customerNumber": "876572",
         "id": 0,
         "pastDueBucketDocumentAmount": [
