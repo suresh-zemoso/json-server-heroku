@@ -164,20 +164,20 @@
   "customer": [
     {
       "accountDetails": {
-        "actualCreditLimit": 0,
+        "actualCreditLimit": 100,
         "bucketNames": [
           "Total Current Due",
           "30 days past due",
           "60 days past due",
           "90 days past due"
         ],
-        "creditUtilized": 0,
+        "creditUtilized": 50,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          1240,
-          1,
-          23,
-          25
+          12000000,
+          1000000,
+          200000,
+          2000000
         ],
         "pastDueBucketDocumentCount": [
           90,
@@ -252,8 +252,8 @@
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
-          "phoneNumber": "2143299664",
-          "mobile": "2143299665",
+          "phoneNumber": "2819684416",
+          "mobile": "2819684416",
           "primary": true,
           "role": "string",
           "state": "string",
@@ -420,20 +420,20 @@
         }
       ],
       "predictedAccountDetails": {
-        "actualCreditLimit": 0,
+        "actualCreditLimit": 100,
         "bucketNames": [
           "Total Current Due",
           "30 days past due",
           "60 days past due",
           "90 days past due"
         ],
-        "creditUtilized": 0,
+        "creditUtilized": 50,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          1240,
-          1,
-          23,
-          25
+          11000000,
+          1000000,
+          23000,
+          250000
         ],
         "pastDueBucketDocumentCount": [
           90,
