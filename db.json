@@ -7,8 +7,8 @@
     "totalPastDueAmount": 32000000.66,
     "totalPastDueProcessed": 12650000.55
   },
-  "calls": {},
-  "p2p" : {},
+  "calls": [],
+  "p2p" : [],
   "callworkbook": {
     "overview": {
       "completedCallingMinutes": 75,
