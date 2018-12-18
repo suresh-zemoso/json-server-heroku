@@ -163,13 +163,13 @@
   },
   "customer": [
     {
+      "reasons": [
+        "reason 1",
+        "reasons 2",
+        "reasosn 3"
+      ],
       "accountDetails": {
         "actualCreditLimit": 100,
-        "reasons": [
-          "reason 1",
-          "reasons 2",
-          "reasosn 3"
-        ],
         "bucketNames": [
           "Total Current Due",
           "30 days past due",
