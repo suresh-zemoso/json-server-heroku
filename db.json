@@ -8,7 +8,7 @@
     "totalPastDueProcessed": 12650000.55
   },
   "calls": [],
-  "p2p": [],
+  "p2p" : [],
   "callworkbook": {
     "overview": {
       "completedCallingMinutes": 75,
@@ -163,11 +163,6 @@
   },
   "customer": [
     {
-      "reasons": [
-        "reason 1",
-        "reasons 2",
-        "reasosn 3"
-      ],
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
@@ -179,10 +174,7 @@
         "creditUtilized": 50,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          12000000,
-          1000000,
-          200000,
-          2000000
+          
         ],
         "pastDueBucketDocumentCount": [
           90,
