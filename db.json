@@ -2294,7 +2294,7 @@
     ]
   },
   "invoices": [
-    [
+    
   {
     "actualOpenAmount": 0,
     "companyCode": "string",
@@ -3995,7 +3995,7 @@
     "validDisputedAmount": 0,
     "validOpenAmount": 0
   }
-]
+
     ],
   "virtualnumber": {
     "fullName": "bruce_wayne",
