@@ -3152,5 +3152,6 @@
       "90 days"
     ],
     "totalCurrentOpenAmount": 45
-  }
+  },
+  "disputeCodes" :  ["Chargebacks","Complaint","Credit","Deduction","Full Invoice","Off-Invoice Discount","Pre-Credit","Pre-Deduction","Promotional Checks"]
 }
