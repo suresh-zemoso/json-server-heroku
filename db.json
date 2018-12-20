@@ -1004,27 +1004,6 @@
       ],
       "companyCode": "string",
       "contacts": [
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "string",
-          "extensions": [
-            "string"
-          ],
-          "faxNumber": "string",
-          "firstName": "string",
-          "id": 2,
-          "lastName": "string",
-          "phoneNumber": "string",
-          "mobile": "2143299665",
-          "primary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        }
       ],
       "currency": "string",
       "customerName": "string",
@@ -3153,5 +3132,15 @@
     ],
     "totalCurrentOpenAmount": 45
   },
-  "disputeCodes" :  ["Chargebacks","Complaint","Credit","Deduction","Full Invoice","Off-Invoice Discount","Pre-Credit","Pre-Deduction","Promotional Checks"]
+  "disputeCodes": [
+    "Chargebacks",
+    "Complaint",
+    "Credit",
+    "Deduction",
+    "Full Invoice",
+    "Off-Invoice Discount",
+    "Pre-Credit",
+    "Pre-Deduction",
+    "Promotional Checks"
+  ]
 }
