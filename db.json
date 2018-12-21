@@ -63,7 +63,7 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "puma",
+        "customerName": "Puma",
         "customerNumber": "876572",
         "id": 1,
         "pastDueBucketDocumentAmount": [
@@ -141,7 +141,7 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Hummer Gheheheheheheheheheheheheheheheheheheheeheheh",
+        "customerName": "Hummer",
         "customerNumber": "876572",
         "id": 4,
         "pastDueBucketDocumentAmount": [
@@ -167,7 +167,7 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "John Player",
+        "customerName": "John Players",
         "customerNumber": "876572",
         "id": 5,
         "pastDueBucketDocumentAmount": [
