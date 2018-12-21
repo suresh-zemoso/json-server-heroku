@@ -67,10 +67,192 @@
         "customerNumber": "876572",
         "id": 1,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          8000000,
+          80000,
+          140000,
+          600000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Nike",
+        "customerNumber": "876572",
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Flipkart",
+        "customerNumber": "876572",
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Hummer",
+        "customerNumber": "876572",
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "John Player",
+        "customerNumber": "876572",
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Power System Hkhkhkhkhkhkhkhkhkhkhkhkhkhkhkhkhkhkhkhkh",
+        "customerNumber": "876572",
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Alibaba",
+        "customerNumber": "876572",
+        "id": 7,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Qualcomm",
+        "customerNumber": "876572",
+        "id": 8,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
         ],
         "pastDueBucketDocumentCount": [
           25,
@@ -81,7 +263,6 @@
         "totalBrokenPromises": 7,
         "totalCurrentOpenAmount": 0
       }
-      
      
 
     ]
