@@ -54,6 +54,32 @@
         ],
         "totalBrokenPromises": 7,
         "totalCurrentOpenAmount": 0
+      },
+       {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "puma",
+        "customerNumber": "876572",
+        "id": 1,
+        "pastDueBucketDocumentAmount": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
       }
       
      
