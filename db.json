@@ -193,7 +193,7 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "John Players",
+        "customerName": "Pink Floyd",
         "customerNumber": "876572",
         "id": 6,
         "pastDueBucketDocumentAmount": [
