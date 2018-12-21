@@ -41,10 +41,10 @@
         "customerNumber": "876572",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          13000000,
+          10000000,
+          9000000,
+          12000000
         ],
         "pastDueBucketDocumentCount": [
           25,
@@ -170,6 +170,32 @@
         "customerName": "John Players",
         "customerNumber": "876572",
         "id": 5,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 7,
+        "totalCurrentOpenAmount": 0
+      },
+{
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "John Players",
+        "customerNumber": "876572",
+        "id": 6,
         "pastDueBucketDocumentAmount": [
           13000000,
           20000,
