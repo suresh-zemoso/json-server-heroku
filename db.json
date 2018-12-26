@@ -629,7 +629,7 @@
         "totalPastDuePercent": 0,
         "paymentBehaviour": "Good"
       },
-      "riskClass": "medium",
+      "riskClass": "Low",
       "suggestedActions": [
         {
           "active": true,
