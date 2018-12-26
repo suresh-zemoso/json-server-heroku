@@ -184,6 +184,84 @@
         ],
         "totalBrokenPromises": 1,
         "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "WildCrafts",
+        "customerNumber": "808016",
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          7600000,
+          10000,
+          5600000,
+          12000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          14,
+          35,
+          4
+        ],
+        "totalBrokenPromises":  0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Fossil",
+        "customerNumber": "808017",
+        "id": 7,
+        "pastDueBucketDocumentAmount": [
+          7600000,
+          10000,
+          5600000,
+          12000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          20,
+          25,
+          9
+        ],
+        "totalBrokenPromises":  1,
+        "totalCurrentOpenAmount": 90700
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Fort Collins",
+        "customerNumber": "808018",
+        "id": 8,
+        "pastDueBucketDocumentAmount": [
+          7600000,
+          10000,
+          5600000,
+          12000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          20,
+          25,
+          9
+        ],
+        "totalBrokenPromises":  1,
+        "totalCurrentOpenAmount": 90700
       }
     ]
   },
