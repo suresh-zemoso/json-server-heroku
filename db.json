@@ -262,6 +262,78 @@
         ],
         "totalBrokenPromises":  1,
         "totalCurrentOpenAmount": 90700
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Timex",
+        "customerNumber": "808019",
+        "id": 9,
+        "pastDueBucketDocumentAmount": [
+          
+        ],
+        "pastDueBucketDocumentCount": [
+          
+        ],
+        "totalBrokenPromises":  0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "CK",
+        "customerNumber": "808020",
+        "id": 10,
+        "pastDueBucketDocumentAmount": [
+          7600000,
+          10000,
+          5600000,
+          12000
+        ],
+        "pastDueBucketDocumentCount": [
+          15,
+          0,
+          2,
+          1
+        ],
+        "totalBrokenPromises":  0,
+        "totalCurrentOpenAmount": 987
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Skechers",
+        "customerNumber": "808021",
+        "id": 11,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          120000,
+          250000,
+          60000
+          ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 5,
+        "totalCurrentOpenAmount": 0
       }
     ]
   },
