@@ -621,35 +621,7 @@
     },
     {
       "reasons": [],
-      "accountDetails": {
-        "actualCreditLimit": 1000,
-        "bucketNames": [
-          "P",
-          "Q",
-          "R",
-          "S"
-        ],
-        "creditUtilized": 530,
-        "id": 1,
-        "pastDueBucketDocumentAmount": [
-          14000000,
-          2900000,
-          14,
-          15
-        ],
-        "pastDueBucketDocumentCount": [
-          90,
-          10,
-          30,
-          10
-        ],
-        "totalActualOpenAmount": 0,
-        "totalCurrentInvoiceCount": 0,
-        "totalCurrentOpenAmount": 0,
-        "totalDisputedAmount": 0,
-        "totalPastDueAmount": 0,
-        "totalPastDuePercent": 0
-      },
+      "accountDetails": null,
       "calls": [
         {
           "callSummary": "string",
