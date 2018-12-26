@@ -55,7 +55,7 @@
         "totalBrokenPromises": 7,
         "totalCurrentOpenAmount": 0
       },
-       {
+      {
         "bucketNames": [
           "Total Current Due",
           "30 Days Past Invoice",
@@ -141,14 +141,14 @@
           "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Hummer",
+        "customerName": "Adidas",
         "customerNumber": "876572",
-        "id": 4,
+        "id": 0,
         "pastDueBucketDocumentAmount": [
           13000000,
-          20000,
-          2000000,
-          5000000
+          10000000,
+          9000000,
+          12000000
         ],
         "pastDueBucketDocumentCount": [
           25,
@@ -158,9 +158,33 @@
         ],
         "totalBrokenPromises": 7,
         "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "James",
+        "customerNumber": "867548",
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          120000,
+          20000,
+          570000
+        ],
+        "pastDueBucketDocumentCount": [
+          20,
+          16,
+          10,
+          6
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 98000
       }
-     
-
     ]
   },
   "customer": [
