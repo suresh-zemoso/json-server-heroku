@@ -3316,5 +3316,6 @@
     "Pre-Deduction",
     "Promotional Checks"
   ],
-  "dispute": []
+  "dispute": [],
+  "invoicecopy" : []
 }
