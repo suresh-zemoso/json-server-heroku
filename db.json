@@ -1,6 +1,6 @@
 {
   "overview": {
-    "completedCallingMinutes": 0,
+    "completedCallingMinutes": 10,
     "expectedCallingMinutes": 30,
     "processedCustomerCount": 40,
     "totalCustomerCount": 109,
@@ -476,9 +476,9 @@
         "totalCurrentOpenAmount": 0,
         "totalDisputedAmount": 0,
         "totalPastDueAmount": 0,
-        "totalPastDuePercent": 0,
-        "paymentBehaviour": "Good"
+        "totalPastDuePercent": 0
       },
+      "paymentBehaviour": "Good",
       "riskClass": "string",
       "suggestedActions": [
         {
