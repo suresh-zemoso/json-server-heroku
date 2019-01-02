@@ -1,10 +1,10 @@
 {
   "overview": {
     "completedCallingMinutes": 30,
-    "expectedCallingMinutes": 0,
+    "expectedCallingMinutes": 60,
     "processedCustomerCount": 105,
-    "totalCustomerCount": 0,
-    "totalPastDueAmount": 0,
+    "totalCustomerCount": 210,
+    "totalPastDueAmount": 32000000.66,
     "totalPastDueProcessed": 12000000.46
   },
   "call": [],
