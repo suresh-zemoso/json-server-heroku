@@ -820,7 +820,7 @@
           "documentId": 0,
           "id": 1,
           "type": "Upcoming"
-        }'
+        }
       ],
       "payments": [
         {
