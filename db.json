@@ -861,6 +861,7 @@
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
       },
+      "paymentBehaviour": "Bad",
       "riskClass": "Medium",
       "suggestedActions": [
         {
@@ -1167,6 +1168,7 @@
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
       },
+      "paymentBehaviour": "Ok",
       "riskClass": "string",
       "suggestedActions": [
         {
@@ -1495,6 +1497,7 @@
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
       },
+      "paymentBehaviour": "Poor",
       "riskClass": "string",
       "suggestedActions": [
         {
@@ -1823,6 +1826,7 @@
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
       },
+      "paymentBehaviour": "Good",
       "riskClass": "string",
       "suggestedActions": [
         {
@@ -2151,6 +2155,7 @@
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
       },
+      "paymentBehaviour": "Good",
       "riskClass": "string",
       "suggestedActions": [
         {
