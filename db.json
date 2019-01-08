@@ -3205,8 +3205,7 @@
     "totalCurrentOpenAmount": 45
   },
   
-  "common":
-  {
+  
   "disputecodes": [
     "Chargebacks",
     "Complaint",
@@ -3224,8 +3223,7 @@
   "type 2",
   "type 3",
   "type 4"
-]
-},
+],
   "dispute": [],
   "task": []
 }
