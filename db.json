@@ -3204,7 +3204,10 @@
     ],
     "totalCurrentOpenAmount": 45
   },
-  "disputeCodes": [
+  
+  "common":
+  {
+  "disputecodes": [
     "Chargebacks",
     "Complaint",
     "Credit",
@@ -3215,6 +3218,14 @@
     "Pre-Deduction",
     "Promotional Checks"
   ],
+  "tasktypes":
+  [
+  "type 1",
+  "type 2",
+  "type 3",
+  "type 4"
+]
+},
   "dispute": [],
   "task": []
 }
