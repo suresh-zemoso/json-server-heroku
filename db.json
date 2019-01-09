@@ -185,31 +185,6 @@
         ],
         "totalBrokenPromises": 1,
         "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
-        ],
-        "currency": "collins",
-        "customerNumber": "808016",
-        "id": 6,
-        "pastDueBucketDocumentAmount": [
-          100000,
-          70054500,
-          4709000,
-          156650000
-        ],
-        "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
-          9
-        ],
-        "totalBrokenPromises": 2,
-        "totalCurrentOpenAmount": 8000
       }
     ]
   },
