@@ -185,6 +185,31 @@
         ],
         "totalBrokenPromises": 1,
         "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "collins",
+        "customerNumber": "808016",
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          70054500,
+          4709000,
+          156650000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 2,
+        "totalCurrentOpenAmount": 8000
       }
     ]
   },
@@ -670,7 +695,29 @@
         }
       ],
       "companyCode": "string",
-      "contacts": [],
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": null,
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Adam",
+          "id": 0,
+          "lastName": "Gilchrist",
+          "phoneNumber": "2143299664",
+          "mobile": "2143299664",
+          "primary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
       "currency": "string",
       "customerName": "Customer B",
       "customerNumber": "78965",
@@ -2271,7 +2318,7 @@
         }
       ]
     },
-        {
+    {
       "reasons": [],
       "accountDetails": {
         "actualCreditLimit": 0,
@@ -2600,7 +2647,6 @@
         }
       ]
     }
-
   ],
   "profile": {
     "defaultDateFormat": "string",
