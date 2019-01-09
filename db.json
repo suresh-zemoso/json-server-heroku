@@ -107,6 +107,109 @@
         ],
         "totalBrokenPromises": 5,
         "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Flipkart",
+        "customerNumber": "808013",
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          160000,
+          800000,
+          45000,
+          3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidas",
+        "customerNumber": "808014",
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          7000000,
+          4700000,
+          10000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 2,
+        "totalCurrentOpenAmount": 8000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "James",
+        "customerNumber": "808015",
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          120000,
+          20000,
+          570000
+        ],
+        "pastDueBucketDocumentCount": [
+          20,
+          16,
+          10,
+          6
+        ],
+        "totalBrokenPromises": 1,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "collins",
+        "customerNumber": "808016",
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          70054500,
+          4709000,
+          156650000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 2,
+        "totalCurrentOpenAmount": 8000
       }
     ]
   },
@@ -3464,6 +3567,14 @@
     "Promotional Checks"
   ],
   "tasktypes": [
+    "type 1",
+    "type 2",
+    "type 3",
+    "type 4",
+    "type 1",
+    "type 2",
+    "type 3",
+    "type 4",
     "type 1",
     "type 2",
     "type 3",
