@@ -471,7 +471,7 @@
           "customerId": "245",
           "documentNumber": "123",
           "id": 0,
-          "paymentAmount": 1300,
+          "paymentAmount": 13000000,
           "paymentDate": "2018-12-30"
         }
       ],
