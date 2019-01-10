@@ -471,7 +471,7 @@
           "customerId": "string",
           "documentNumber": "string",
           "id": 0,
-          "paymentAmount": 0,
+          "paymentAmount": 13000000,
           "paymentDate": 0
         }
       ],
