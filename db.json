@@ -22,7 +22,7 @@
         0
       ],
       "processedCustomerCount": 0,
-      "totalCustomerCount": 6,
+      "totalCustomerCount": 5,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
@@ -159,58 +159,8 @@
         ],
         "totalBrokenPromises": 2,
         "totalCurrentOpenAmount": 8000
-      },
-      {
-        "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
-        ],
-        "currency": "string",
-        "customerName": "James",
-        "customerNumber": "808015",
-        "id": 5,
-        "pastDueBucketDocumentAmount": [
-          1000000,
-          120000,
-          20000,
-          570000
-        ],
-        "pastDueBucketDocumentCount": [
-          20,
-          16,
-          10,
-          6
-        ],
-        "totalBrokenPromises": 1,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
-        ],
-        "currency": "collins",
-        "customerNumber": "808016",
-        "id": 6,
-        "pastDueBucketDocumentAmount": [
-          100000,
-          70054500,
-          4709000,
-          156650000
-        ],
-        "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
-          9
-        ],
-        "totalBrokenPromises": 2,
-        "totalCurrentOpenAmount": 8000
       }
+      
     ]
   },
   "customer": [
