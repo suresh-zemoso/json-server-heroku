@@ -160,7 +160,6 @@
         "totalBrokenPromises": 2,
         "totalCurrentOpenAmount": 8000
       }
-      
     ]
   },
   "customer": [
@@ -352,7 +351,7 @@
           "customerId": 0,
           "documentId": 0,
           "id": 0,
-          "type": "Broken P2P"
+          "type": "Broken"
         },
         {
           "committedAmount": 0,
@@ -382,7 +381,7 @@
           "customerId": 0,
           "documentId": 0,
           "id": 0,
-          "type": "Upcoming P2P"
+          "type": "Upcoming"
         },
         {
           "committedAmount": 0,
@@ -412,7 +411,7 @@
           "customerId": 0,
           "documentId": 0,
           "id": 0,
-          "type": "Open P2P"
+          "type": "Open"
         }
       ],
       "payments": [
