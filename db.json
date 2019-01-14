@@ -22,7 +22,7 @@
         0
       ],
       "processedCustomerCount": 0,
-      "totalCustomerCount": 6,
+      "totalCustomerCount": 5,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
@@ -3792,7 +3792,7 @@
           "subject": "string"
         },
         "startTime": "2019-01-14T10:36:21.748Z",
-        "status": "string",
+        "status": "-100",
         "totalOpenAmount": 0,
         "totalPastDueAmount": 0,
         "uniqueId": "string",
