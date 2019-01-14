@@ -3578,5 +3578,78 @@
       "name": "Template 3",
       "subject": ""
     }
-  ]
+  ],
+  "communication" : [
+  {
+    "call": {
+      "callSummary": "string",
+      "callingNumber": "string",
+      "communicationReason": "string",
+      "contact": {
+        "address": "string",
+        "city": "string",
+        "country": "string",
+        "email": "string",
+        "extension": "string",
+        "faxNumber": "string",
+        "firstName": "string",
+        "id": 0,
+        "isPrimary": true,
+        "lastName": "string",
+        "mobileNumber": "string",
+        "phoneNumber": "string",
+        "role": "string",
+        "state": "string",
+        "title": "string",
+        "type": "string",
+        "zip": "string"
+      },
+      "customerId": 0,
+      "duration": 0,
+      "endTime": "2019-01-14T10:36:21.748Z",
+      "extension": "string",
+      "id": 0,
+      "note": {
+        "createdTime": "2019-01-14T10:36:21.748Z",
+        "createdUser": "string",
+        "customerId": 0,
+        "id": 0,
+        "noteContent": "string",
+        "noteItems": [
+          {
+            "cmsDocHeaderId": 0,
+            "id": 0
+          }
+        ],
+        "subject": "string"
+      },
+      "startTime": "2019-01-14T10:36:21.748Z",
+      "status": "string",
+      "totalOpenAmount": 0,
+      "totalPastDueAmount": 0,
+      "uniqueId": "string",
+      "voiceTemplate": {
+        "id": 0,
+        "templateName": "string",
+        "templatePath": "string"
+      }
+    },
+    "communicationTime": "2019-01-14T10:36:21.748Z",
+    "correspondence": {
+      "body": "string",
+      "cc": "string",
+      "corrTypeId": 0,
+      "customerId": 0,
+      "documentIds": [
+        0
+      ],
+      "from": "string",
+      "realtime": true,
+      "subject": "string",
+      "to": "string"
+    },
+    "id": 0,
+    "type": "string"
+  }
+]
 }
