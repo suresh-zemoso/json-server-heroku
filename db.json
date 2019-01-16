@@ -295,8 +295,11 @@
   "customer": [
     {
       "reasons": [
-        "reason 1",
-        "reason 2"
+        "At least one invoice predicted to be delinquent",
+        "At least one invoice predicted to be in 90 day bucket",
+        "Current Due vs Total past Due is 30%",
+        "Payment term is 30 days",
+        "Overdue invoice open amount $5000 since 30days"
       ],
       "accountDetails": {
         "actualCreditLimit": 100,
@@ -405,11 +408,11 @@
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "Contact",
+          "firstName": "Jhon",
           "id": 0,
-          "lastName": "B",
-          "phoneNumber": "767836",
-          "mobile": "2143299665",
+          "lastName": "smith",
+          "phoneNumber": "2819684416",
+          "mobile": "2819684416",
           "primary": false,
           "role": "string",
           "state": "string",
@@ -734,7 +737,7 @@
           "60 days past due",
           "90 days past due"
         ],
-        "creditUtilized": 50,
+        "creditUtilized": 80,
         "id": 0,
         "pastDueBucketDocumentAmount": [
           13000000,
