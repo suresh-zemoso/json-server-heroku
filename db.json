@@ -53,8 +53,8 @@
           6,
           4
         ],
-        "totalBrokenPromises": 10,
-        "totalCurrentOpenAmount": 18979
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 1
       },
       {
         "bucketNames": [
@@ -105,7 +105,7 @@
           22,
           10
         ],
-        "totalBrokenPromises": 5,
+        "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 0
       },
       {
@@ -157,7 +157,7 @@
           16,
           9
         ],
-        "totalBrokenPromises": 2,
+        "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 8000
       },
       {
@@ -587,7 +587,7 @@
         "totalPastDuePercent": 0
       },
       "paymentBehaviour": "Good",
-      "riskClass": "string",
+      "riskClass": "MEDIUM",
       "suggestedActions": [
         {
           "active": true,
@@ -994,7 +994,7 @@
         "totalPastDuePercent": 0
       },
       "paymentBehaviour": "Bad",
-      "riskClass": "Medium",
+      "riskClass": "HIGH",
       "suggestedActions": [
         {
           "active": true,
@@ -1301,7 +1301,7 @@
         "totalPastDuePercent": 0
       },
       "paymentBehaviour": "Ok",
-      "riskClass": "string",
+      "riskClass": "HIGH",
       "suggestedActions": [
         {
           "active": true,
@@ -1630,7 +1630,7 @@
         "totalPastDuePercent": 0
       },
       "paymentBehaviour": "Poor",
-      "riskClass": "string",
+      "riskClass": "MEDIUM",
       "suggestedActions": [
         {
           "active": true,
