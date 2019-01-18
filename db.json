@@ -12,8 +12,8 @@
   "p2p": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 611,
-      "expectedCallingMinutes": 912,
+      "completedCallingMinutes": 60,
+      "expectedCallingMinutes": 240,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -339,7 +339,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "adam@gilchrist.com",
             "extensions": [
               "string"
             ],
@@ -382,14 +382,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "adam@gilchrist.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "Adam glichristt",
+          "firstName": "Adam",
           "id": 0,
-          "lastName": "glichrist",
+          "lastName": "Gilchrist",
           "phoneNumber": "2143299664",
           "mobile": "2143299664",
           "primary": true,
@@ -403,7 +403,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "adam@gilchrist.com",
           "extensions": [
             "string"
           ],
@@ -462,7 +462,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "adam@gilchrist.com",
             "extensions": [
               "string"
             ],
@@ -492,7 +492,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "adam@gilchrist.com",
             "extensions": [
               "string"
             ],
@@ -522,7 +522,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "adam@gilchrist.com",
             "extensions": [
               "string"
             ],
@@ -633,7 +633,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "adam@gilchrist.com",
               "extensions": [
                 "string"
               ],
@@ -675,7 +675,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "adam@gilchrist.com",
               "extensions": [
                 "string"
               ],
@@ -767,7 +767,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "harry@potter.com",
             "extensions": [
               "string"
             ],
@@ -810,14 +810,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": null,
+          "email": "harry@potter.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "Adam",
+          "firstName": "Harry",
           "id": 0,
-          "lastName": "Gilchrist",
+          "lastName": "Potter",
           "phoneNumber": "2143299664",
           "mobile": "2143299664",
           "primary": true,
@@ -869,7 +869,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "harry@potter.com",
             "extensions": [
               "string"
             ],
@@ -899,7 +899,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "harry@potter.com",
             "extensions": [
               "string"
             ],
@@ -929,7 +929,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "harry@potter.com",
             "extensions": [
               "string"
             ],
@@ -1040,7 +1040,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "harry@potter.com",
               "extensions": [
                 "string"
               ],
@@ -1082,7 +1082,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "harry@potter.com",
               "extensions": [
                 "string"
               ],
@@ -1165,7 +1165,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "wraith@king.com",
             "extensions": [
               "string"
             ],
@@ -1203,7 +1203,29 @@
         }
       ],
       "companyCode": "string",
-      "contacts": [],
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "wraith@king.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Wraith",
+          "id": 0,
+          "lastName": "King",
+          "phoneNumber": "2143299664",
+          "mobile": "2143299664",
+          "primary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+        ],
       "currency": "string",
       "customerName": "string",
       "customerNumber": "string",
@@ -1245,7 +1267,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "wraith@king.com",
             "extensions": [
               "string"
             ],
@@ -1347,7 +1369,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "wraith@king.com",
               "extensions": [
                 "string"
               ],
@@ -1389,7 +1411,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "wraith@king.com",
               "extensions": [
                 "string"
               ],
@@ -1472,14 +1494,14 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "storm@spirit.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "",
-            "firstName": "",
+            "firstName": "Storm",
             "id": 3,
-            "lastName": "",
+            "lastName": "Spirit",
             "phoneNumber": "string",
             "primary": true,
             "role": "string",
@@ -1515,14 +1537,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "storm@spirit.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "",
-          "firstName": "",
+          "firstName": "Storm",
           "id": 3,
-          "lastName": "",
+          "lastName": "Spirit",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -1574,7 +1596,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "storm@spirit.com",
             "extensions": [
               "string"
             ],
@@ -1676,7 +1698,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "storm@spirit.com",
               "extensions": [
                 "string"
               ],
@@ -1718,7 +1740,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "storm@spirit.com",
               "extensions": [
                 "string"
               ],
@@ -1801,14 +1823,14 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "witch@doctor.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "string",
+            "firstName": "Witch",
             "id": 4,
-            "lastName": "string",
+            "lastName": "Doctor",
             "phoneNumber": "string",
             "primary": true,
             "role": "string",
@@ -1844,14 +1866,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "witch@doctor.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "string",
+          "firstName": "Witch",
           "id": 4,
-          "lastName": "string",
+          "lastName": "Doctor",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -1903,7 +1925,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "witch@doctor.com",
             "extensions": [
               "string"
             ],
@@ -2005,7 +2027,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "witch@doctor.com",
               "extensions": [
                 "string"
               ],
@@ -2047,7 +2069,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "witch@doctor.com",
               "extensions": [
                 "string"
               ],
@@ -2130,14 +2152,14 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "drow@ranger.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "string",
+            "firstName": "Drow",
             "id": 5,
-            "lastName": "string",
+            "lastName": "Ranger",
             "phoneNumber": "string",
             "primary": true,
             "role": "string",
@@ -2173,14 +2195,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "drow@ranger.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "string",
+          "firstName": "Drow",
           "id": 5,
-          "lastName": "string",
+          "lastName": "Ranger",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -2232,7 +2254,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "drow@ranger.com",
             "extensions": [
               "string"
             ],
@@ -2334,7 +2356,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "drow@ranger.com",
               "extensions": [
                 "string"
               ],
@@ -2376,7 +2398,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "drow@ranger.com",
               "extensions": [
                 "string"
               ],
@@ -2459,14 +2481,14 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "phantom@assasswwwwwwwwwwwin.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "string",
+            "firstName": "Phantom",
             "id": 5,
-            "lastName": "string",
+            "lastName": "Assassin",
             "phoneNumber": "string",
             "primary": true,
             "role": "string",
@@ -2502,14 +2524,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "phantom@assassin.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "string",
+          "firstName": "Phantom",
           "id": 5,
-          "lastName": "string",
+          "lastName": "Assassin",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -2561,7 +2583,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "phantom@assassin.com",
             "extensions": [
               "string"
             ],
@@ -2663,7 +2685,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "phantom@assassin.com",
               "extensions": [
                 "string"
               ],
@@ -2705,7 +2727,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "phantom@assassin.com",
               "extensions": [
                 "string"
               ],
@@ -2788,14 +2810,14 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "butcher@pudge.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "string",
-            "firstName": "string",
+            "firstName": "Butcher",
             "id": 5,
-            "lastName": "string",
+            "lastName": "Pudge",
             "phoneNumber": "string",
             "primary": true,
             "role": "string",
@@ -2831,14 +2853,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "butcher@pudge.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "string",
+          "firstName": "Butcher",
           "id": 5,
-          "lastName": "string",
+          "lastName": "Pudge",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -2890,7 +2912,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "butcher@pudge.com",
             "extensions": [
               "string"
             ],
@@ -2992,7 +3014,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "butcher@pudge.com",
               "extensions": [
                 "string"
               ],
@@ -3034,7 +3056,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "butcher@pudge.com",
               "extensions": [
                 "string"
               ],
@@ -3117,7 +3139,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "king@juggernaut.com",
             "extensions": [
               "string"
             ],
@@ -3160,14 +3182,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "king@juggernaut.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "string",
+          "firstName": "King",
           "id": 5,
-          "lastName": "string",
+          "lastName": "Juggernaut",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -3219,7 +3241,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "king@juggernaut.com",
             "extensions": [
               "string"
             ],
@@ -3321,7 +3343,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "king@juggernaut.com",
               "extensions": [
                 "string"
               ],
@@ -3363,7 +3385,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "king@juggernaut.com",
               "extensions": [
                 "string"
               ],
@@ -3446,7 +3468,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "mary@janecom",
             "extensions": [
               "string"
             ],
@@ -3489,14 +3511,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "string",
+          "email": "mary@jane.com",
           "extensions": [
             "string"
           ],
           "faxNumber": "string",
-          "firstName": "string",
+          "firstName": "Mary",
           "id": 5,
-          "lastName": "string",
+          "lastName": "Jane",
           "phoneNumber": "string",
           "mobile": "2143299665",
           "primary": true,
@@ -3548,7 +3570,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "string",
+            "email": "mary@jane.com",
             "extensions": [
               "string"
             ],
@@ -3650,7 +3672,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "mary@jane.com",
               "extensions": [
                 "string"
               ],
@@ -3692,7 +3714,7 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "string",
+              "email": "mary@jane.com",
               "extensions": [
                 "string"
               ],
@@ -4681,22 +4703,22 @@
   "task": [],
   "emailtemplates": [
     {
-      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "body": "I wanted to make sure you received my invoice last month. The payment was due yesterday and the amount for the invoice #347 is 4000$. I will follow up on next Thursday",
       "id": 0,
       "name": "Template 1",
-      "subject": "Saying HI"
+      "subject": "Crerating a Follow up event"
     },
     {
-      "body": "",
+      "body": "I am sure you have received my invoice last month. Since you have denied paying the whole amount i am creating an Dispute of an amount 24000$",
       "id": 1,
       "name": "Template 2",
-      "subject": "Some subject"
+      "subject": "Creating a dispute event"
     },
     {
-      "body": "Thanks",
+      "body": "I have sent you the invoice mail and since you have agreed to pay the partial amount for the invoice #347, i will be creating one P2P",
       "id": 2,
       "name": "Template 3",
-      "subject": ""
+      "subject": "Creating a P2P event"
     }
   ],
   "communication": [
