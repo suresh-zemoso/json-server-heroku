@@ -32,10 +32,11 @@
     "workbookItems": [
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -304,10 +305,11 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
         ],
         "creditUtilized": 50,
         "id": 0,
