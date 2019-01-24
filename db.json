@@ -4688,10 +4688,10 @@
     "Credit",
     "Deduction",
     "Full Invoice",
-    "Off-Invoice Discount",
+    "Off-Invoice Discount full invoices",
     "Pre-Credit",
     "Pre-Deduction",
-    "Promotional Checks"
+    "Promotional Checks for deduction"
   ],
   "tasktypes": [
     "type 1",
