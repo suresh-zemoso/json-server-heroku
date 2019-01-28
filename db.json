@@ -4918,5 +4918,22 @@
       "id": 1,
       "type": "Correspondance"
     }
+  ],
+  "voicetemplate": [
+    {
+      "id": 0,
+      "templateName": "template 1 ************************************",
+      "templatePath": "string"
+    },
+    {
+      "id": 1,
+      "templateName": "temp 3",
+      "templatePath": "string"
+    },
+    {
+      "id": 2,
+      "templateName": "temp 3",
+      "templatePath": "string"
+    }
   ]
 }
