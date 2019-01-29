@@ -13,7 +13,7 @@
   "p2p": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 611,
+      "completedCallingMinutes": 30,
       "expectedCallingMinutes": 731,
       "id": 0,
       "pastDueBucketDocumentCount": [
