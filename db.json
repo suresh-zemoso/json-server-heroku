@@ -2,7 +2,7 @@
   "callsummary": [],
   "overview": {
     "completedCallingMinutes": 30,
-    "expectedCallingMinutes": 274,
+    "expectedCallingMinutes": 60,
     "processedCustomerCount": 105,
     "totalCustomerCount": 210,
     "totalPastDueAmount": 32000000.66,
@@ -14,7 +14,7 @@
   "callworkbook": {
     "overview": {
       "completedCallingMinutes": 30,
-      "expectedCallingMinutes": 731,
+      "expectedCallingMinutes": 60,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
