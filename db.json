@@ -1,7 +1,7 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 30,
+    "completedCallingMinutes": 0,
     "expectedCallingMinutes": 40,
     "processedCustomerCount": 105,
     "totalCustomerCount": 210,
@@ -13,7 +13,7 @@
   "p2p": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 30,
+      "completedCallingMinutes": 0,
       "expectedCallingMinutes": 40,
       "id": 0,
       "pastDueBucketDocumentCount": [
