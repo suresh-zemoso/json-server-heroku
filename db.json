@@ -398,7 +398,7 @@
           "lastName": "Gilchrist",
           "phoneNumber": "2143299664",
           "mobile": "2143299664",
-          "primary": true,
+          "primary": false,
           "role": "string",
           "state": "string",
           "title": "string",
