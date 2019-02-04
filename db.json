@@ -819,7 +819,6 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "harry@potter.com",
           "extensions": [
             "string"
           ],
