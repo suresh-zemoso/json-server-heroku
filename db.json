@@ -1,8 +1,8 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 0,
-    "expectedCallingMinutes": 0,
+    "completedCallingMinutes": 30,
+    "expectedCallingMinutes": 90,
     "processedCustomerCount": 105,
     "totalCustomerCount": 210,
     "totalPastDueAmount": 32000000.66,
@@ -13,8 +13,8 @@
   "p2p": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 0,
-      "expectedCallingMinutes": 0,
+      "completedCallingMinutes": 30,
+      "expectedCallingMinutes": 90,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -3840,7 +3840,7 @@
           "zip": "string"
         },
         "customerId": 0,
-        "duration": 0,
+        "duration": 50,
         "endTime": "2019-01-14T10:36:21.748Z",
         "extension": "string",
         "id": 0,
@@ -3911,7 +3911,7 @@
           "zip": "string"
         },
         "customerId": 0,
-        "duration": 0,
+        "duration": 30,
         "endTime": "2019-01-14T10:36:21.748Z",
         "extension": "string",
         "id": 0,
