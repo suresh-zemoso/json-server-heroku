@@ -3769,7 +3769,7 @@
           "zip": "string"
         },
         "customerId": 0,
-        "duration": 65,
+        "duration": 0,
         "endTime": "2019-01-14T10:36:21.748Z",
         "extension": "string",
         "id": 0,
@@ -3840,7 +3840,7 @@
           "zip": "string"
         },
         "customerId": 0,
-        "duration": 60,
+        "duration": 0,
         "endTime": "2019-01-14T10:36:21.748Z",
         "extension": "string",
         "id": 0,
