@@ -174,10 +174,10 @@
         "customerNumber": "808010",
         "id": 5,
         "pastDueBucketDocumentAmount": [
-          13000000,
+          1000000,
           10000000,
           9000000,
-          12000000
+          120000
         ],
         "pastDueBucketDocumentCount": [
           25,
