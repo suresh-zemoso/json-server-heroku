@@ -3834,15 +3834,7 @@
         "callSummary": null,
         "totalOpenAmount": 5122.84,
         "totalPastDueAmount": 600,
-        "note": {
-          "id": 3960456,
-          "customerId": 104539644,
-          "noteItems": [],
-          "subject": "Communication : OUTBOUND CALL",
-          "noteContent": null,
-          "createdTime": "2019-02-07T00:53:54",
-          "createdUser": ""
-        },
+        "note": null,
         "contact": null,
         "communicationReason": "Outbound call",
         "voiceTemplate": null,
