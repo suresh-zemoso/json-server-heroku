@@ -11,7 +11,7 @@
   "call": [],
   "invoicecopy": [],
   "p2p": [],
-   "callworkbook": {
+  "callworkbook": {
     "overview": {
       "completedCallingMinutes": 30,
       "expectedCallingMinutes": 40,
@@ -40,7 +40,7 @@
           ">150"
         ],
         "currency": "string",
-        "customerName": "Adidas",
+        "customerName": "Adidasadisadasdidfajdsjkbksdbkbashbjhasdbjdbshbasjkasdjnknasjkndjkasdbjhkbasd",
         "customerNumber": "808010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
@@ -3745,217 +3745,131 @@
   ],
   "communication": [
     {
-      "call": {
-        "callSummary": "Hello summary here",
-        "callingNumber": "007",
-        "communicationReason": "string",
-        "contact": {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "string",
-          "extension": "string",
-          "faxNumber": "string",
-          "firstName": "string",
-          "id": 0,
-          "isPrimary": true,
-          "lastName": "string",
-          "mobileNumber": "string",
-          "phoneNumber": "string",
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        "customerId": 0,
-        "duration": 0,
-        "endTime": "2019-01-14T10:36:21.748Z",
-        "extension": "string",
-        "id": 0,
-        "note": {
-          "createdTime": "2019-01-14T10:36:21.748Z",
-          "createdUser": "string",
-          "customerId": 0,
-          "id": 0,
-          "noteContent": "string",
-          "noteItems": [
-            {
-              "cmsDocHeaderId": 0,
-              "id": 0
-            }
-          ],
-          "subject": "string"
-        },
-        "startTime": "2019-01-14T10:36:21.748Z",
-        "status": "-1",
-        "totalOpenAmount": 0,
-        "totalPastDueAmount": 0,
-        "uniqueId": "string",
-        "voiceTemplate": {
-          "id": 0,
-          "templateName": "string",
-          "templatePath": "string"
-        }
-      },
-      "communicationTime": "2019-01-14T10:36:21.748Z",
+      "id": 19,
+      "communicationTime": "2019-02-07T00:56:41",
+      "type": "Correspondence",
+      "call": null,
       "correspondence": {
-        "body": "string",
-        "cc": "string",
-        "corrTypeId": 0,
-        "customerId": 0,
-        "documentIds": [
-          0
-        ],
-        "from": "string",
-        "realtime": true,
-        "subject": "string",
-        "to": "string"
-      },
-      "id": 0,
-      "type": "Call"
+        "customerId": 104539644,
+        "to": null,
+        "cc": null,
+        "from": null,
+        "corrTypeId": 23257,
+        "subject": "",
+        "body": "",
+        "realtime": null,
+        "documentIds": [],
+        "mergeDocuments": null,
+        "zipDocuments": null,
+        "docHeaderIds": null,
+        "emailFaxTemplateResolve": null
+      }
     },
     {
-      "call": {
-        "callSummary": "yo",
-        "callingNumber": "23123",
-        "communicationReason": "string",
-        "contact": {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "string",
-          "extension": "string",
-          "faxNumber": "string",
-          "firstName": "string",
-          "id": 0,
-          "isPrimary": true,
-          "lastName": "string",
-          "mobileNumber": "string",
-          "phoneNumber": "string",
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        "customerId": 0,
-        "duration": 50,
-        "endTime": "2019-01-14T10:36:21.748Z",
-        "extension": "string",
-        "id": 0,
-        "note": {
-          "createdTime": "2019-01-14T10:36:21.748Z",
-          "createdUser": "string",
-          "customerId": 0,
-          "id": 0,
-          "noteContent": "string",
-          "noteItems": [
-            {
-              "cmsDocHeaderId": 0,
-              "id": 0
-            }
-          ],
-          "subject": "string"
-        },
-        "startTime": "2019-01-14T10:36:21.748Z",
-        "status": "string",
-        "totalOpenAmount": 0,
-        "totalPastDueAmount": 0,
-        "uniqueId": "string",
-        "voiceTemplate": {
-          "id": 0,
-          "templateName": "template A",
-          "templatePath": "/abc"
-        }
-      },
-      "communicationTime": "2019-01-14T10:36:21.748Z",
+      "id": 19,
+      "communicationTime": "2019-02-07T00:56:41",
+      "type": "Correspondence",
+      "call": null,
       "correspondence": {
-        "body": "string",
-        "cc": "string",
-        "corrTypeId": 0,
-        "customerId": 0,
-        "documentIds": [
-          0
-        ],
-        "from": "string",
-        "realtime": true,
-        "subject": "string",
-        "to": "string"
-      },
-      "id": 2,
-      "type": "Call"
+        "customerId": 104539644,
+        "to": null,
+        "cc": null,
+        "from": "aruna.b@highradius.com",
+        "corrTypeId": 23257,
+        "subject": "Summary notes as per our conversation.",
+        "body": "Greetings,\n\nPlease find below the summary of our conversation:\n\n• Follow up +18325361512 on 02-11-2019 for Billing Issue\n• Call back on next monday\n\n\n\nRegards,\nRobb Stark",
+        "realtime": null,
+        "documentIds": [],
+        "mergeDocuments": null,
+        "zipDocuments": null,
+        "docHeaderIds": null,
+        "emailFaxTemplateResolve": null
+      }
     },
     {
+      "id": 400918,
+      "communicationTime": "2019-02-07T00:00:00",
+      "type": "Call",
       "call": {
-        "callSummary": "string",
-        "callingNumber": "string",
-        "communicationReason": "string",
-        "contact": {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "string",
-          "extension": "string",
-          "faxNumber": "string",
-          "firstName": "string",
-          "id": 0,
-          "isPrimary": true,
-          "lastName": "string",
-          "mobileNumber": "string",
-          "phoneNumber": "string",
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        "customerId": 0,
-        "duration": 30,
-        "endTime": "2019-01-14T10:36:21.748Z",
-        "extension": "string",
-        "id": 0,
+        "id": 400918,
+        "customerId": 104539644,
+        "callingNumber": "8325361512",
+        "extension": null,
+        "startTime": "2019-02-07T00:00:00",
+        "endTime": "2019-02-07T00:01:13",
+        "duration": 73,
+        "status": null,
+        "callSummary": null,
+        "totalOpenAmount": 5122.84,
+        "totalPastDueAmount": 600,
         "note": {
-          "createdTime": "2019-01-14T10:36:21.748Z",
-          "createdUser": "string",
-          "customerId": 0,
-          "id": 0,
-          "noteContent": "string",
-          "noteItems": [
-            {
-              "cmsDocHeaderId": 0,
-              "id": 0
-            }
-          ],
-          "subject": "string"
+          "id": 3960457,
+          "customerId": 104539644,
+          "noteItems": [],
+          "subject": "Communication : OUTBOUND CALL",
+          "noteContent": null,
+          "createdTime": "2019-02-07T00:55:21",
+          "createdUser": ""
         },
-        "startTime": "2019-01-14T10:36:21.748Z",
-        "status": "-100",
-        "totalOpenAmount": 0,
-        "totalPastDueAmount": 0,
-        "uniqueId": "string",
-        "voiceTemplate": {
-          "id": 0,
-          "templateName": "string",
-          "templatePath": "string"
-        }
+        "contact": null,
+        "communicationReason": "Outbound call",
+        "voiceTemplate": null,
+        "uniqueId": null
       },
-      "communicationTime": "2019-01-14T10:36:21.748Z",
+      "correspondence": null
+    },
+    {
+      "id": 400917,
+      "communicationTime": "2019-02-07T00:00:00",
+      "type": "Call",
+      "call": {
+        "id": 400917,
+        "customerId": 104539644,
+        "callingNumber": "8325361512",
+        "extension": null,
+        "startTime": "2019-02-07T00:00:00",
+        "endTime": "2019-02-07T00:00:58",
+        "duration": 58,
+        "status": null,
+        "callSummary": null,
+        "totalOpenAmount": 5122.84,
+        "totalPastDueAmount": 600,
+        "note": {
+          "id": 3960456,
+          "customerId": 104539644,
+          "noteItems": [],
+          "subject": "Communication : OUTBOUND CALL",
+          "noteContent": null,
+          "createdTime": "2019-02-07T00:53:54",
+          "createdUser": ""
+        },
+        "contact": null,
+        "communicationReason": "Outbound call",
+        "voiceTemplate": null,
+        "uniqueId": null
+      },
+      "correspondence": null
+    },
+    {
+      "id": 19,
+      "communicationTime": "2019-02-06T04:33:31",
+      "type": "Correspondence",
+      "call": null,
       "correspondence": {
-        "body": "hello mister",
-        "cc": "string",
-        "corrTypeId": 0,
-        "customerId": 0,
-        "documentIds": [
-          0
-        ],
-        "from": "Ze_user",
-        "realtime": true,
-        "subject": "some subject",
-        "to": "some email"
-      },
-      "id": 1,
-      "type": "Correspondence"
+        "customerId": 104539644,
+        "to": null,
+        "cc": null,
+        "from": null,
+        "corrTypeId": 23240,
+        "subject": "",
+        "body": "",
+        "realtime": null,
+        "documentIds": [],
+        "mergeDocuments": null,
+        "zipDocuments": null,
+        "docHeaderIds": null,
+        "emailFaxTemplateResolve": null
+      }
     }
   ],
   "voicetemplate": [
