@@ -280,7 +280,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "adam@gilchrist.com",
+          "email": "richard@parker.com",
           "extensions": [
             "string"
           ],
@@ -697,6 +697,7 @@
           "firstName": "Harry",
           "id": 0,
           "lastName": "Potter",
+          "email": "harry@potter.com",
           "phoneNumber": "2143299664",
           "mobile": "2143299664",
           "primary": true,
