@@ -362,6 +362,7 @@
           "id": 0,
           "type": "Broken"
         },
+        
         {
           "committedAmount": 0,
           "committedBy": {
@@ -421,6 +422,16 @@
           "documentId": 0,
           "id": 0,
           "type": "Open"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "$",
+          "customerId": "245",
+          "documentNumber": "123",
+          "id": 0,
+          "paymentAmount": 13000000,
+          "paymentDate": "2018-12-30"
         }
       ],
       
