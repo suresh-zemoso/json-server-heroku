@@ -161,6 +161,85 @@
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
+        ],
+        "currency": "string",
+        "customerName": "Adidasadisadasdidfajdsj   basd",
+        "customerNumber": "807667888010",
+        "id": 0,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          10000000,
+          9000000,
+          12000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 1
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "noie",
+        "customerNumber": "808012",
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Flipksaart",
+        "customerNumber": "808013",
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          160000,
+          800000,
+          45000,
+          3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
       }
     ]
   },
@@ -362,7 +441,6 @@
           "id": 0,
           "type": "Broken"
         },
-        
         {
           "committedAmount": 0,
           "committedBy": {
@@ -434,7 +512,6 @@
           "paymentDate": "2018-12-30"
         }
       ],
-      
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
