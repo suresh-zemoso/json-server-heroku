@@ -1,7 +1,7 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 50,
+    "completedCallingMinutes": 0,
     "expectedCallingMinutes": 90,
     "processedCustomerCount": 105,
     "totalCustomerCount": 210,
