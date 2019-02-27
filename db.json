@@ -374,6 +374,27 @@
           "title": "string",
           "type": "string",
           "zip": "string"
+        },
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "richard@parker.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": null,
+          "firstName": "I am Wrong",
+          "id": 2,
+          "lastName": "Number",
+          "phoneNumber": "36272",
+          "mobile": "23",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
         }
       ],
       "currency": "string",
