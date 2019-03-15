@@ -23,7 +23,7 @@
         0
       ],
       "processedCustomerCount": 0,
-      "totalCustomerCount": 8,
+      "totalCustomerCount": 5,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
@@ -3113,7 +3113,10 @@
       1,
       2,
       3,
-      4
+      4,
+      5,
+      6,
+      7
     ],
     "virtualnumber": {
       "fullName": "bruce_wayne",
