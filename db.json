@@ -3288,9 +3288,9 @@
       "call": null,
       "correspondence": {
         "customerId": 104539644,
-        "to": null,
+        "to": "zemosolabs@zemosolabs.com",
         "cc": null,
-        "from": null,
+        "from": "highradius@highradius.com",
         "corrTypeId": 23257,
         "subject": "Integrated Receivables Foundation Apps",
         "body": "Integrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation AppsIntegrated Receivables Foundation Apps",
@@ -3336,7 +3336,7 @@
         "endTime": "2019-02-07T00:01:13",
         "duration": 73,
         "status": null,
-        "callSummary": null,
+        "callSummary":null,
         "totalOpenAmount": 5122.84,
         "totalPastDueAmount": 600,
         "note": {
@@ -3344,7 +3344,7 @@
           "customerId": 104539644,
           "noteItems": [],
           "subject": "Communication : OUTBOUND CALL",
-          "noteContent": null,
+          "noteContent": " Zero to One Product Innovation for Corporate Incubation & Early stage startupsWE HELP BUILD PROTOTYPES, MVP, EARLY STAGE PRODUCTS & COMPONENTS. STRONG EXPERTISE IN BUILDING ML/AI APPS, COMPLEX DATA PLATFORMS & MOBILE APPS.We work with you to get the right user stories for your MVP. Based on the design sprint exercise, we build wireframes, High-Fidelity click thru prototypesWhether its a complex data analytics platform , an API or a mobile app. Our team brainstorms with your product management to flesh your concept to Job Stories/User stories along with wireframes. Our goal is to allow you to test your hypothesisOur team works with you to choose the right technologies to get the job doneWe have top notch expertise in ML/AI, Cassandra, Apache Spark, iOS, Android, Ember.js and Angular.js to help create uber fast products in short timeframesDelivering small iterative product increments, we help turn your vision to reality Designers, developers and product managers work together to execute in rapid iterative fashion . Things get done in fast incremental fast sprints helping you test your hypothesis quickly.,",
           "createdTime": "2019-02-07T00:55:21",
           "createdUser": ""
         },
