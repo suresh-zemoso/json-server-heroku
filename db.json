@@ -344,8 +344,8 @@
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
-          "phoneNumber": "2143299664",
-          "mobile": "2143299664",
+          "phoneNumber": "8002414141",
+          "mobile": "8002414141",
           "isPrimary": false,
           "role": "string",
           "state": "string",
@@ -761,6 +761,7 @@
             "type": "string",
             "zip": "string"
           },
+          
           "duration": 0,
           "endTime": "2018-12-04T06:41:26.614Z",
           "extension": "string",
@@ -784,6 +785,27 @@
       ],
       "companyCode": "string",
       "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "adam@gilchrist.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Adam",
+          "id": 0,
+          "lastName": "Gilchrist",
+          "phoneNumber": "8002414141",
+          "mobile": "8002414141",
+          "isPrimary": false,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        },
         {
           "address": "string",
           "city": "string",
