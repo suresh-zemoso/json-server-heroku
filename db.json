@@ -338,14 +338,14 @@
           "country": "string",
           "email": "adam@gilchrist.com",
           "extensions": [
-            "string"
+            "123"
           ],
-          "faxNumber": "string",
+          "faxNumber": "832782371",
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
           "phoneNumber": "8002414141",
-          "mobile": "8002414141",
+          "mobile": "8558647776",
           "isPrimary": false,
           "role": "string",
           "state": "string",
