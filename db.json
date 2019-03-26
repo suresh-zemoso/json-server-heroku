@@ -337,15 +337,13 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extensions": [
-            "123"
-          ],
+          "extensions": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
           "phoneNumber": "8002414141",
-          "mobile": "8558647776",
+          "mobileNumber": "8558647776",
           "isPrimary": false,
           "role": "string",
           "state": "string",
@@ -761,7 +759,6 @@
             "type": "string",
             "zip": "string"
           },
-          
           "duration": 0,
           "endTime": "2018-12-04T06:41:26.614Z",
           "extension": "string",
@@ -3358,7 +3355,7 @@
         "endTime": "2019-02-07T00:01:13",
         "duration": 73,
         "status": null,
-        "callSummary":null,
+        "callSummary": null,
         "totalOpenAmount": 5122.84,
         "totalPastDueAmount": 600,
         "note": {
