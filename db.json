@@ -3139,13 +3139,13 @@
     ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
-      "sipToken": "KdwrMS9uXSF5uD&sLuc0",
-      "sipUser": "3463277104",
-      "virtualNumber": "+13463277104"
+      "sipToken": "zemoso@321",
+      "sipUser": "sipML5",
+      "virtualNumber": "sipML5"
     },
     "asteriskConfig": {
-      "asteriskIp": "call-test.highradius.com",
-      "iceServers": "[{url:'stun:stun.l.google.com:19302'}]"
+      "asteriskIp": "ze-streaming-sse.ml",
+      "iceServers": []
     }
   },
   "invoices": [
