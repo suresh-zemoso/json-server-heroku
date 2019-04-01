@@ -11,6 +11,7 @@
   "call": [],
   "invoicecopy": [],
   "p2p": [],
+  "contact" : [],
   "callworkbook": {
     "overview": {
       "completedCallingMinutes": 30,
