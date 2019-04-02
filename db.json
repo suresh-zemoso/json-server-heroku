@@ -24,7 +24,7 @@
         0
       ],
       "processedCustomerCount": 0,
-      "totalCustomerCount": 8,
+      "totalCustomerCount": 20,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
@@ -226,6 +226,319 @@
         "customerName": "JIRA",
         "customerNumber": "8080123",
         "id": 7,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
+        ],
+        "currency": "string",
+        "customerName": "Adidasad",
+        "customerNumber": "807667888010",
+        "id": 8,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          10000000,
+          9000000,
+          12000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 1
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Nike12",
+        "customerNumber": "808012",
+        "id": 9,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          20000,
+          2000000,
+          5000000
+        ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Flipkart12",
+        "customerNumber": "808013",
+        "id": 10,
+        "pastDueBucketDocumentAmount": [
+          160000,
+          800000,
+          45000,
+          3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidas12",
+        "customerNumber": "808014",
+        "id": 11,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          7000000,
+          4700000,
+          10000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 8000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidas12",
+        "customerNumber": "808010",
+        "id": 12,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "YODIZ12",
+        "customerNumber": "808010",
+        "id": 13,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "JSON12",
+        "customerNumber": "808010",
+        "id": 14,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "JIRA12",
+        "customerNumber": "8080123",
+        "id": 15,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidas124",
+        "customerNumber": "808010",
+        "id": 16,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "YODIZ132",
+        "customerNumber": "808010",
+        "id": 17,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "JSON124",
+        "customerNumber": "808010",
+        "id": 18,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "JIRA128",
+        "customerNumber": "8080123",
+        "id": 19,
         "pastDueBucketDocumentAmount": [
           1000000,
           10000000,
@@ -3099,6 +3412,4513 @@
               0
             ],
             "id": 7,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [
+        "At least one invoice predicted to be delinquent",
+        "At least one invoice predicted to be in 90 day bucket",
+        "Current Due vs Total past Due is 30%",
+        "Payment term is 30 days",
+        "Overdue invoice open amount $5000 since 30days"
+      ],
+      "accountDetails": {
+        "actualCreditLimit": 100,
+        "bucketNames": [
+          "0-30",
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
+        ],
+        "creditUtilized": 50,
+        "id": 0,
+        "pastDueBucketDocumentAmount": [
+          350000,
+          13000000,
+          12000000,
+          4000000,
+          3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          90,
+          10,
+          13,
+          12
+        ],
+        "totalActualOpenAmount": 100000,
+        "totalCurrentInvoiceCount": 10,
+        "totalCurrentOpenAmount": 120000,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 0,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 0,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "adam@gilchrist.com",
+          "extensions": "123",
+          "faxNumber": "832782371",
+          "firstName": "Adam",
+          "id": 0,
+          "lastName": "Gilchrist",
+          "phoneNumber": "8002414141",
+          "mobileNumber": "8558647776",
+          "isPrimary": false,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        },
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "richard@parker.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": null,
+          "firstName": "Richard",
+          "id": 1,
+          "lastName": "Parker",
+          "phoneNumber": "2143244664",
+          "mobile": "2812345416",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        },
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "richard@parker.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": null,
+          "firstName": "I am Wrong",
+          "id": 2,
+          "lastName": "Number",
+          "phoneNumber": "00000",
+          "mobile": "7888923234",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "Customer Ajdbnajkbasdjbnjlsnd sj,adbjkhasdkhuasd",
+      "customerNumber": "324632",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 0,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 8,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 0,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 13000000,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 0,
+          "type": "Broken"
+        },
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 0,
+          "type": "Upcoming"
+        },
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 0,
+          "type": "Open"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "$",
+          "customerId": "245",
+          "documentNumber": "123",
+          "id": 0,
+          "paymentAmount": 13000000,
+          "paymentDate": "2018-12-30"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 100,
+        "bucketNames": [
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due",
+          "120 days past due"
+        ],
+        "creditUtilized": 80,
+        "id": 0,
+        "pastDueBucketDocumentAmount": [
+          110000,
+          234000,
+          1000000,
+          23000,
+          250000
+        ],
+        "pastDueBucketDocumentCount": [
+          90,
+          25,
+          10,
+          13,
+          12
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "MEDIUM",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 0,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 0,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "adam@gilchrist.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 0,
+              "lastName": "string",
+              "phoneNumber": "2143299664",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 0,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 0,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "adam@gilchrist.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 0,
+              "lastName": "string",
+              "phoneNumber": "2143299664",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 0,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 0,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 0,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 0,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "Medium"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 100,
+        "bucketNames": [
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
+        ],
+        "creditUtilized": 80,
+        "id": 0,
+        "pastDueBucketDocumentAmount": [
+          13000000,
+          12000000,
+          4000000,
+          3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          90,
+          10,
+          13,
+          12
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "harry@potter.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "",
+            "id": 1,
+            "lastName": "",
+            "phoneNumber": "8324649026",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 1,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 1,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "adam@gilchrist.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Adam",
+          "id": 0,
+          "lastName": "Gilchrist",
+          "phoneNumber": "8002414141",
+          "mobile": "8002414141",
+          "isPrimary": false,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        },
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Harry",
+          "id": 0,
+          "lastName": "Potter",
+          "email": "harry@potter.com",
+          "phoneNumber": "2143299664",
+          "mobile": "2143299664",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "Customer B",
+      "customerNumber": "78965",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 1,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 9,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 1,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 40,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "harry@potter.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 1,
+            "lastName": "string",
+            "phoneNumber": "8324649026",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 1,
+          "type": "Broken"
+        },
+        {
+          "committedAmount": 20,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "harry@potter.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 1,
+            "lastName": "string",
+            "phoneNumber": "8324649026",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 1,
+          "type": "Open"
+        },
+        {
+          "committedAmount": 30,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "harry@potter.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 1,
+            "lastName": "string",
+            "phoneNumber": "8324649026",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 1,
+          "type": "Upcoming"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 1,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 1000,
+        "bucketNames": [
+          "P",
+          "Q",
+          "R",
+          "S"
+        ],
+        "creditUtilized": 530,
+        "id": 1,
+        "pastDueBucketDocumentAmount": [
+          1932000000,
+          24000000,
+          23,
+          13
+        ],
+        "pastDueBucketDocumentCount": [
+          10,
+          4,
+          6,
+          5
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Bad",
+      "riskClass": "HIGH",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 1,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 1,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "harry@potter.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 1,
+              "lastName": "string",
+              "phoneNumber": "8324649026",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 1,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 1,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "harry@potter.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 1,
+              "lastName": "string",
+              "phoneNumber": "8324649026",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 1,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 1,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 1,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 1,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "wraith@king.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 2,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 2,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 2,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "wraith@king.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Wraith",
+          "id": 0,
+          "lastName": "King",
+          "phoneNumber": "2143299664",
+          "mobile": "2143299664",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 2,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 10,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 2,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "wraith@king.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 2,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 2,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 2,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Ok",
+      "riskClass": "HIGH",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 2,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 2,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "wraith@king.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 2,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 2,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 2,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "wraith@king.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 2,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 2,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 2,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 2,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 2,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "storm@spirit.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "",
+            "firstName": "Storm",
+            "id": 3,
+            "lastName": "Spirit",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 3,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 3,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "storm@spirit.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "",
+          "firstName": "Storm",
+          "id": 3,
+          "lastName": "Spirit",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 3,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 10,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 3,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "storm@spirit.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "",
+            "firstName": "",
+            "id": 3,
+            "lastName": "",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 3,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 3,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Poor",
+      "riskClass": "MEDIUM",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 3,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 3,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "storm@spirit.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "",
+              "firstName": "",
+              "id": 3,
+              "lastName": "",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 3,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 3,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "storm@spirit.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "",
+              "firstName": "",
+              "id": 3,
+              "lastName": "",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 3,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 3,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 3,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 3,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "witch@doctor.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Witch",
+            "id": 4,
+            "lastName": "Doctor",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 4,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 4,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "witch@doctor.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Witch",
+          "id": 4,
+          "lastName": "Doctor",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 4,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 11,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 4,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "witch@doctor.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 4,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 4,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 4,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 4,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 4,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "witch@doctor.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 4,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 4,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 4,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "witch@doctor.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 4,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 4,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 4,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 4,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 4,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "drow@ranger.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Drow",
+            "id": 5,
+            "lastName": "Ranger",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "drow@ranger.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Drow",
+          "id": 5,
+          "lastName": "Ranger",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 5,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 12,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 5,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "drow@ranger.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 5,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 5,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 5,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 5,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 5,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "drow@ranger.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 5,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 5,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "drow@ranger.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 5,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 5,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "phantom@assasswwwwwwwwwwwin.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Phantom",
+            "id": 6,
+            "lastName": "Assassin",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "phantom@assassin.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Phantom",
+          "id": 5,
+          "lastName": "Assassin",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 13,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 13,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 6,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "phantom@assassin.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 6,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isisPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 6,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 6,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 5,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 5,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "phantom@assassin.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 5,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 5,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "phantom@assassin.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 5,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 5,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 6,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 7,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "phantom@assasswwwwwwwwwwwin.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Phantom",
+            "id": 7,
+            "lastName": "Assassin",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "phantom@assassin.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Phantom",
+          "id": 7,
+          "lastName": "Assassin",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 7,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 14,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 7,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "phantom@assassin.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 7,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isisPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 7,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 7,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 7,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 7,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 7,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "phantom@assassin.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 7,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 7,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 7,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "phantom@assassin.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 7,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 7,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 7,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 7,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 7,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "wraith@king.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 2,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 2,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 2,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "wraith@king.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Wraith",
+          "id": 0,
+          "lastName": "King",
+          "phoneNumber": "2143299664",
+          "mobile": "2143299664",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 2,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 15,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 2,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "wraith@king.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 2,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 2,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 2,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Ok",
+      "riskClass": "HIGH",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 2,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 2,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "wraith@king.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 2,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 2,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 2,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "wraith@king.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 2,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 2,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 2,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 2,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 2,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "storm@spirit.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "",
+            "firstName": "Storm",
+            "id": 3,
+            "lastName": "Spirit",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 3,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 3,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "storm@spirit.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "",
+          "firstName": "Storm",
+          "id": 3,
+          "lastName": "Spirit",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 3,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 16,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 3,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "storm@spirit.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "",
+            "firstName": "",
+            "id": 3,
+            "lastName": "",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 3,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 3,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Poor",
+      "riskClass": "MEDIUM",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 3,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 3,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "storm@spirit.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "",
+              "firstName": "",
+              "id": 3,
+              "lastName": "",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 3,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 3,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "storm@spirit.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "",
+              "firstName": "",
+              "id": 3,
+              "lastName": "",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 3,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 3,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 3,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 3,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "witch@doctor.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Witch",
+            "id": 4,
+            "lastName": "Doctor",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 4,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 4,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "witch@doctor.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Witch",
+          "id": 4,
+          "lastName": "Doctor",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 4,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 17,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 4,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "witch@doctor.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 4,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 4,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 4,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 4,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 4,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "witch@doctor.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 4,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 4,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 4,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "witch@doctor.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 4,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 4,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 4,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 4,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 4,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "drow@ranger.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Drow",
+            "id": 5,
+            "lastName": "Ranger",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "drow@ranger.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Drow",
+          "id": 5,
+          "lastName": "Ranger",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 5,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 18,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 5,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "drow@ranger.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 5,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 5,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 5,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 5,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 5,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "drow@ranger.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 5,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 5,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "drow@ranger.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 5,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 5,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "reasons": [],
+      "accountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "calls": [
+        {
+          "callSummary": "string",
+          "callingNumber": "string",
+          "communicationReason": "string",
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "phantom@assasswwwwwwwwwwwin.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "Phantom",
+            "id": 6,
+            "lastName": "Assassin",
+            "phoneNumber": "string",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "duration": 0,
+          "endTime": "2018-12-04T06:41:26.614Z",
+          "extension": "string",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.614Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 5,
+            "noteContent": "string",
+            "subject": "string"
+          },
+          "startTime": "2018-12-04T06:41:26.614Z",
+          "status": "string",
+          "totalOpenAmount": 0,
+          "totalPastDueAmount": 0
+        }
+      ],
+      "companyCode": "string",
+      "contacts": [
+        {
+          "address": "string",
+          "city": "string",
+          "country": "string",
+          "email": "phantom@assassin.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Phantom",
+          "id": 5,
+          "lastName": "Assassin",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
+          "isPrimary": true,
+          "role": "string",
+          "state": "string",
+          "title": "string",
+          "type": "string",
+          "zip": "string"
+        }
+      ],
+      "currency": "string",
+      "customerName": "string",
+      "customerNumber": "string",
+      "disputes": [
+        {
+          "actualDisputeAmount": "string",
+          "currentDisputeAmount": "string",
+          "customerId": 0,
+          "deductionOwner": "string",
+          "deductionStatus": "string",
+          "deductionType": "string",
+          "documentId": "string",
+          "documentNumber": "string",
+          "dueDate": "2018-12-04",
+          "id": 13,
+          "invoiceNumber": "string",
+          "processor": "string",
+          "reasonCode": "string"
+        }
+      ],
+      "id": 19,
+      "notes": [
+        {
+          "createdTime": "2018-12-04T06:41:26.614Z",
+          "createdUser": "string",
+          "customerId": 0,
+          "documentIds": [
+            0
+          ],
+          "id": 6,
+          "noteContent": "string",
+          "subject": "string"
+        }
+      ],
+      "paymentCommitments": [
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "phantom@assassin.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 6,
+            "lastName": "string",
+            "phoneNumber": "string",
+            "isisPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 6,
+          "type": "string"
+        }
+      ],
+      "payments": [
+        {
+          "currency": "string",
+          "customerId": "string",
+          "documentNumber": "string",
+          "id": 6,
+          "paymentAmount": 0,
+          "paymentDate": "2018-12-04"
+        }
+      ],
+      "predictedAccountDetails": {
+        "actualCreditLimit": 0,
+        "bucketNames": [
+          "string"
+        ],
+        "creditUtilized": 0,
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0
+        ],
+        "totalActualOpenAmount": 0,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
+        "totalDisputedAmount": 0,
+        "totalPastDueAmount": 0,
+        "totalPastDuePercent": 0
+      },
+      "paymentBehaviour": "Good",
+      "riskClass": "string",
+      "suggestedActions": [
+        {
+          "active": true,
+          "category": "string",
+          "customerId": 0,
+          "description": "string",
+          "id": 5,
+          "performedDate": "2018-12-04T06:41:26.615Z",
+          "performedUser": "string",
+          "shortName": "string",
+          "status": "string",
+          "suggestedEndTime": "2018-12-04T06:41:26.615Z",
+          "suggestedStartTime": "2018-12-04T06:41:26.615Z",
+          "type": "string"
+        }
+      ],
+      "tasks": [
+        {
+          "assignedToUser": "string",
+          "comments": "string",
+          "documentIds": [
+            0
+          ],
+          "dueDate": "2018-12-04",
+          "id": 5,
+          "priority": "string",
+          "reminderDate": "2018-12-04",
+          "reminderFlag": "string",
+          "status": "string",
+          "subject": "string",
+          "type": "string"
+        }
+      ],
+      "userActionHistory": [
+        {
+          "actionPerformed": "string",
+          "actionPerformedBy": "string",
+          "call": {
+            "callSummary": "string",
+            "callingNumber": "string",
+            "communicationReason": "string",
+            "contact": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "phantom@assassin.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "duration": 0,
+            "endTime": "2018-12-04T06:41:26.615Z",
+            "extension": "string",
+            "id": 5,
+            "note": {
+              "createdTime": "2018-12-04T06:41:26.615Z",
+              "createdUser": "string",
+              "customerId": 0,
+              "documentIds": [
+                0
+              ],
+              "id": 5,
+              "noteContent": "string",
+              "subject": "string"
+            },
+            "startTime": "2018-12-04T06:41:26.615Z",
+            "status": "string",
+            "totalOpenAmount": 0,
+            "totalPastDueAmount": 0
+          },
+          "commitment": {
+            "committedAmount": 0,
+            "committedBy": {
+              "address": "string",
+              "city": "string",
+              "country": "string",
+              "email": "phantom@assassin.com",
+              "extensions": [
+                "string"
+              ],
+              "faxNumber": "string",
+              "firstName": "string",
+              "id": 5,
+              "lastName": "string",
+              "phoneNumber": "string",
+              "isPrimary": true,
+              "role": "string",
+              "state": "string",
+              "title": "string",
+              "type": "string",
+              "zip": "string"
+            },
+            "committedDate": "2018-12-04",
+            "committedOn": "2018-12-04",
+            "currency": "string",
+            "customerId": 0,
+            "documentId": 0,
+            "id": 5,
+            "type": "string"
+          },
+          "committedFor": "2018-12-04T06:41:26.615Z",
+          "committedOn": "2018-12-04T06:41:26.615Z",
+          "correspondence": {
+            "accountId": 0,
+            "customerName": "string",
+            "filePath": "string",
+            "id": 5,
+            "packageName": "string",
+            "productId": "string",
+            "transmisionMode": "string"
+          },
+          "createdTime": "2018-12-04T06:41:26.615Z",
+          "id": 5,
+          "note": {
+            "createdTime": "2018-12-04T06:41:26.615Z",
+            "createdUser": "string",
+            "customerId": 0,
+            "documentIds": [
+              0
+            ],
+            "id": 6,
             "noteContent": "string",
             "subject": "string"
           },
