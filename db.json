@@ -609,7 +609,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -652,7 +652,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extensions": "123",
+          "extension": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
           "id": 0,
@@ -671,7 +671,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": null,
@@ -692,7 +692,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": null,
@@ -751,7 +751,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -781,7 +781,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -811,7 +811,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -925,7 +925,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -967,7 +967,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1059,7 +1059,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -1102,7 +1102,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -1122,7 +1122,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -1182,7 +1182,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -1212,7 +1212,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -1242,7 +1242,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -1353,7 +1353,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1395,7 +1395,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1478,7 +1478,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -1521,7 +1521,7 @@
           "city": "string",
           "country": "string",
           "email": "wraith@king.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -1580,7 +1580,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -1682,7 +1682,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1724,7 +1724,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1807,7 +1807,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "",
@@ -1850,7 +1850,7 @@
           "city": "string",
           "country": "string",
           "email": "storm@spirit.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "",
@@ -1909,7 +1909,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "",
@@ -2011,7 +2011,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "",
@@ -2053,7 +2053,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "",
@@ -2136,7 +2136,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -2179,7 +2179,7 @@
           "city": "string",
           "country": "string",
           "email": "witch@doctor.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -2238,7 +2238,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -2340,7 +2340,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2382,7 +2382,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2465,7 +2465,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -2508,7 +2508,7 @@
           "city": "string",
           "country": "string",
           "email": "drow@ranger.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -2567,7 +2567,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -2669,7 +2669,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2711,7 +2711,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2794,7 +2794,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -2837,7 +2837,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -2896,7 +2896,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -2998,7 +2998,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3040,7 +3040,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3123,7 +3123,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3166,7 +3166,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -3225,7 +3225,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3327,7 +3327,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3369,7 +3369,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3471,7 +3471,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3514,7 +3514,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extensions": "123",
+          "extension": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
           "id": 0,
@@ -3533,7 +3533,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": null,
@@ -3554,7 +3554,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": null,
@@ -3613,7 +3613,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3643,7 +3643,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3673,7 +3673,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3787,7 +3787,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3829,7 +3829,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3921,7 +3921,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -3964,7 +3964,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -3984,7 +3984,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -4044,7 +4044,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -4074,7 +4074,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -4104,7 +4104,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -4215,7 +4215,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4257,7 +4257,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4340,7 +4340,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -4383,7 +4383,7 @@
           "city": "string",
           "country": "string",
           "email": "wraith@king.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -4442,7 +4442,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -4544,7 +4544,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4586,7 +4586,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4669,7 +4669,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "",
@@ -4712,7 +4712,7 @@
           "city": "string",
           "country": "string",
           "email": "storm@spirit.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "",
@@ -4771,7 +4771,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "",
@@ -4873,7 +4873,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "",
@@ -4915,7 +4915,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "",
@@ -4998,7 +4998,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -5041,7 +5041,7 @@
           "city": "string",
           "country": "string",
           "email": "witch@doctor.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -5100,7 +5100,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -5202,7 +5202,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5244,7 +5244,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5327,7 +5327,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -5370,7 +5370,7 @@
           "city": "string",
           "country": "string",
           "email": "drow@ranger.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -5429,7 +5429,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -5531,7 +5531,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5573,7 +5573,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5656,7 +5656,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -5699,7 +5699,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -5758,7 +5758,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -5860,7 +5860,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5902,7 +5902,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5985,7 +5985,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -6028,7 +6028,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -6087,7 +6087,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -6189,7 +6189,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6231,7 +6231,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6314,7 +6314,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -6357,7 +6357,7 @@
           "city": "string",
           "country": "string",
           "email": "wraith@king.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -6416,7 +6416,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -6518,7 +6518,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6560,7 +6560,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6643,7 +6643,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "",
@@ -6686,7 +6686,7 @@
           "city": "string",
           "country": "string",
           "email": "storm@spirit.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "",
@@ -6745,7 +6745,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "",
@@ -6847,7 +6847,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "",
@@ -6889,7 +6889,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "",
@@ -6972,7 +6972,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -7015,7 +7015,7 @@
           "city": "string",
           "country": "string",
           "email": "witch@doctor.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -7074,7 +7074,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -7176,7 +7176,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7218,7 +7218,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7301,7 +7301,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -7344,7 +7344,7 @@
           "city": "string",
           "country": "string",
           "email": "drow@ranger.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -7403,7 +7403,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -7505,7 +7505,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7547,7 +7547,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7630,7 +7630,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -7673,7 +7673,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extensions": [
+          "extension": [
             "string"
           ],
           "faxNumber": "string",
@@ -7732,7 +7732,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extensions": [
+            "extension": [
               "string"
             ],
             "faxNumber": "string",
@@ -7834,7 +7834,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7876,7 +7876,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extensions": [
+              "extension": [
                 "string"
               ],
               "faxNumber": "string",
