@@ -98,23 +98,30 @@
           "Total Current Due",
           "30 Days Past Invoice",
           "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "90 Days Past Invoice",
+          "120 Days Past Invoice",
+          "150 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Flipkart",
-        "customerNumber": "808013",
+        "customerName": "Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart",
+        "customerNumber": "808013000000",
         "id": 2,
         "pastDueBucketDocumentAmount": [
           160000,
           800000,
           45000,
-          3000000
+          3000000,
+          500000,
+          700000
+          
         ],
         "pastDueBucketDocumentCount": [
           7,
           15,
           26,
-          14
+          14,
+          14,
+          20
         ],
         "totalBrokenPromises": 3,
         "totalCurrentOpenAmount": 90000
