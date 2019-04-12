@@ -44,7 +44,7 @@
         ],
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
-        "customerNumber": "807667888010",
+        "customerNumber": "807667888010000000",
         "id": 0,
         "pastDueBucketDocumentAmount": [
           13000000,
@@ -104,7 +104,7 @@
         ],
         "currency": "string",
         "customerName": "Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart",
-        "customerNumber": "808013000000",
+        "customerNumber": "808013000000000000000",
         "id": 2,
         "pastDueBucketDocumentAmount": [
           160000,
