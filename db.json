@@ -1,12 +1,12 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 800,
-    "expectedCallingMinutes": 1240,
-    "processedCustomerCount": 1200,
-    "totalCustomerCount": 2210,
-    "totalPastDueAmount": 3222222220000007777.66,
-    "totalPastDueProcessed": 124444444400000.46
+    "completedCallingMinutes": 80,
+    "expectedCallingMinutes": 124,
+    "processedCustomerCount": 120,
+    "totalCustomerCount": 220,
+    "totalPastDueAmount": 3222222277.66,
+    "totalPastDueProcessed": 124444446
   },
   "call": [],
   "invoicecopy": [],
@@ -14,8 +14,8 @@
   "contact" : [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 800,
-      "expectedCallingMinutes": 1240,
+      "completedCallingMinutes": 80,
+      "expectedCallingMinutes": 124,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -23,13 +23,13 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": 1200,
-      "totalCustomerCount": 2210,
+      "processedCustomerCount": 120,
+      "totalCustomerCount": 220,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
-      "totalPastDueAmount": 3222222220000007777.66,
-      "totalPastDueProcessed": 124444444400000.46
+      "totalPastDueAmount": 3222222277.66,
+      "totalPastDueProcessed": 124444446
     },
     "workbookItems": [
       {
