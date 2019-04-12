@@ -47,10 +47,10 @@
         "customerNumber": "807667888010000000123456",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          13000000,
-          10000000,
-          9000000,
-          12000000,
+          130000000000000000,
+          1000888888880000,
+          9000009999990,
+          120000000000,
           300000,
           1239000,
           4560000
@@ -64,8 +64,8 @@
           15,
           25
         ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 1
+        "totalBrokenPromises": 3000,
+        "totalCurrentOpenAmount": 112345
       },
       {
         "bucketNames": [
@@ -90,8 +90,8 @@
           22,
           10
         ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 0
+        "totalBrokenPromises": 12345,
+        "totalCurrentOpenAmount": 1234567
       },
       {
         "bucketNames": [
