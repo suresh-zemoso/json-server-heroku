@@ -2,7 +2,7 @@
   "callsummary": [],
   "overview": {
     "completedCallingMinutes": 800,
-    "expectedCallingMinutes": 1200,
+    "expectedCallingMinutes": 1240,
     "processedCustomerCount": 1200,
     "totalCustomerCount": 2210,
     "totalPastDueAmount": 3222222220000007777.66,
