@@ -14,8 +14,8 @@
   "contact" : [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 30,
-      "expectedCallingMinutes": 40,
+      "completedCallingMinutes": 800,
+      "expectedCallingMinutes": 1240,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -28,8 +28,8 @@
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
-      "totalPastDueAmount": 3333000000,
-      "totalPastDueProcessed": 1234000000
+      "totalPastDueAmount": 3222222220000007777.66,
+      "totalPastDueProcessed": 124444444400000.46
     },
     "workbookItems": [
       {
