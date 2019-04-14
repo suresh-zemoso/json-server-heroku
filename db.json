@@ -666,7 +666,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "adam@gilchrist.com",
+          "email": null,
           "extension": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
