@@ -3,8 +3,8 @@
   "overview": {
     "completedCallingMinutes": 80,
     "expectedCallingMinutes": 124,
-    "processedCustomerCount": 120,
-    "totalCustomerCount": 220,
+    "processedCustomerCount": 8,
+    "totalCustomerCount": 20,
     "totalPastDueAmount": 3222222277.66,
     "totalPastDueProcessed": 124444446
   },
@@ -23,8 +23,8 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": 120,
-      "totalCustomerCount": 220,
+      "processedCustomerCount": 8,
+      "totalCustomerCount": 20,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
@@ -44,7 +44,7 @@
         ],
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
-        "customerNumber": "807667888010000000123456",
+        "customerNumber": "80766788801",
         "id": 0,
         "pastDueBucketDocumentAmount": [
           130000000000000000,
@@ -64,8 +64,8 @@
           15,
           25
         ],
-        "totalBrokenPromises": 3000,
-        "totalCurrentOpenAmount": 112345
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 1123
       },
       {
         "bucketNames": [
@@ -76,7 +76,7 @@
         ],
         "currency": "string",
         "customerName": "Nike",
-        "customerNumber": "807667888010000000123456789",
+        "customerNumber": "807667888",
         "id": 1,
         "pastDueBucketDocumentAmount": [
           13000000,
@@ -90,8 +90,8 @@
           22,
           10
         ],
-        "totalBrokenPromises": 12345,
-        "totalCurrentOpenAmount": 1234567
+        "totalBrokenPromises": 2,
+        "totalCurrentOpenAmount": 12345
       },
       {
         "bucketNames": [
@@ -103,8 +103,8 @@
           "150 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart Flipkart",
-        "customerNumber": "808013000000000000000",
+        "customerName": "Flipkart",
+        "customerNumber": "8080130",
         "id": 2,
         "pastDueBucketDocumentAmount": [
           160000,
@@ -123,8 +123,8 @@
           14,
           20
         ],
-        "totalBrokenPromises": 1234567893,
-        "totalCurrentOpenAmount": 90000
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
       },
       {
         "bucketNames": [
@@ -578,8 +578,7 @@
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
         "Payment term is 30 days",
-        "Overdue invoice open amount $5000 since 30days",
-        "At least one invoice predicted to be delinquent.Overdue invoice open amount $5000 since 30days"
+        "Overdue invoice open amount $5000 since 30days"
       ],
       "accountDetails": {
         "actualCreditLimit": 100,
@@ -595,9 +594,9 @@
         "id": 0,
         "pastDueBucketDocumentAmount": [
           350000,
-          -13000000,
-          -12000000,
-          -4000000,
+          13000000,
+          12000000,
+          4000000,
           3000000
         ],
         "pastDueBucketDocumentCount": [
@@ -669,7 +668,7 @@
           "email": null,
           "extension": "123",
           "faxNumber": "832782371",
-          "firstName": null,
+          "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
           "phoneNumber": "8002414141",
@@ -686,9 +685,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": [
-            "string"
-          ],
+          "extension": null,
           "faxNumber": null,
           "firstName": "Richard",
           "id": 1,
@@ -707,13 +704,11 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": [
-            "string"
-          ],
+          "extension": null,
           "faxNumber": null,
           "firstName": "I am Wrong",
           "id": 2,
-          "lastName": null,
+          "lastName": "number",
           "phoneNumber": "00000",
           "mobileNumber": "7123456778",
           "isPrimary": true,
@@ -728,13 +723,11 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": [
-            "string"
-          ],
+          "extension": null,
           "faxNumber": null,
-          "firstName": null,
+          "firstName": "Harry",
           "id": 2,
-          "lastName": null,
+          "lastName": "Porter",
           "phoneNumber": null,
           "mobileNumber": "7123456778",
           "isPrimary": false,
@@ -787,9 +780,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
-              "string"
-            ],
+            "extension": null,
             "faxNumber": "string",
             "firstName": "string",
             "id": 0,
@@ -817,9 +808,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
-              "string"
-            ],
+            "extension": null,
             "faxNumber": "string",
             "firstName": "string",
             "id": 0,
@@ -847,9 +836,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
-              "string"
-            ],
+            "extension": null,
             "faxNumber": "string",
             "firstName": "string",
             "id": 0,
@@ -961,9 +948,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extension": [
-                "string"
-              ],
+              "extension": null,
               "faxNumber": "string",
               "firstName": "string",
               "id": 0,
@@ -1003,9 +988,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extension": [
-                "string"
-              ],
+              "extension": "546",
               "faxNumber": "string",
               "firstName": "string",
               "id": 0,
@@ -1095,9 +1078,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
-              "string"
-            ],
+            "extension": null,
             "faxNumber": "string",
             "firstName": "",
             "id": 1,
@@ -1112,7 +1093,7 @@
           },
           "duration": 0,
           "endTime": "2018-12-04T06:41:26.614Z",
-          "extension": "string",
+          "extension": "876",
           "id": 1,
           "note": {
             "createdTime": "2018-12-04T06:41:26.614Z",
@@ -1138,9 +1119,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extension": [
-            "string"
-          ],
+          "extension": "1233333333",
           "faxNumber": "string",
           "firstName": "Adam",
           "id": 0,
@@ -1158,9 +1137,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "extension": [
-            "string"
-          ],
+          "extension": null,
           "faxNumber": "string",
           "firstName": "Harry",
           "id": 0,
@@ -1218,9 +1195,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
-              "string"
-            ],
+            "extension": null,
             "faxNumber": "string",
             "firstName": "string",
             "id": 1,
@@ -1248,9 +1223,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
-              "string"
-            ],
+            "extension": null,
             "faxNumber": "string",
             "firstName": "string",
             "id": 1,
@@ -8114,10 +8087,10 @@
     "Credit",
     "Deduction",
     "Full Invoice",
-    "Off-Invoice Discount full invoices",
+    "Off-Invoice Discount",
     "Pre-Credit",
     "Pre-Deduction",
-    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction "
+    "Promotional Checks"
   ],
   "tasktypes": [
     "type 1",
@@ -8128,7 +8101,7 @@
     "type 2",
     "type 3",
     "type 4",
-    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction ",
+    "Promotional Check",
     "type 2",
     "type 3",
     "type 4"
