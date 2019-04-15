@@ -69,10 +69,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Nike",
@@ -95,12 +95,12 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice",
-          "120 Days Past Invoice",
-          "150 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          "150-180",
+          "180-210"
         ],
         "currency": "string",
         "customerName": "Flipkart",
@@ -128,10 +128,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -154,10 +154,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -180,10 +180,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "YODIZ",
@@ -206,10 +206,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "JSON",
@@ -232,10 +232,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+         "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "JIRA",
@@ -285,10 +285,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Nike12",
@@ -311,10 +311,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Flipkart12",
@@ -337,10 +337,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Adidas12",
@@ -363,10 +363,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Adidas12",
@@ -389,10 +389,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "YODIZ12",
@@ -415,10 +415,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "JSON12",
@@ -441,10 +441,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "JIRA12",
@@ -467,10 +467,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "Adidas124",
@@ -493,10 +493,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "YODIZ132",
@@ -519,10 +519,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "JSON124",
@@ -545,10 +545,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "currency": "string",
         "customerName": "JIRA128",
@@ -871,11 +871,11 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due",
-          "120 days past due"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          "150-180"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -1042,10 +1042,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -1348,10 +1348,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 1000,
         "bucketNames": [
-          "P",
-          "Q",
-          "R",
-          "S"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "creditUtilized": 530,
         "id": 1,
@@ -3779,11 +3779,11 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due",
-          "120 days past due"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          "150-180"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -3954,10 +3954,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -4210,10 +4210,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 1000,
         "bucketNames": [
-          "P",
-          "Q",
-          "R",
-          "S"
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150"
         ],
         "creditUtilized": 530,
         "id": 1,
