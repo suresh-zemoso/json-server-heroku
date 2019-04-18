@@ -8256,5 +8256,39 @@
       "templateName": "temp 3",
       "templatePath": "string"
     }
-  ]
+  ],
+  "getProfile.do" : {
+    "defaultDateFormat": "string",
+    "defaultLanguage": "string",
+    "emailId": "string",
+    "emailSubscription": true,
+    "fax": "string",
+    "firstName": "Ze",
+    "icon": "",
+    "id": 0,
+    "lastName": "User",
+    "phone": "string",
+    "role": "string",
+    "title": "string",
+    "userName": "string",
+    "bucketNames": [
+      "30 Days",
+      "60 days",
+      "90 days"
+    ],
+    "accountName": "Zemoso Labs",
+    "signInUrl": "https://www.google.com/",
+   "workbookList":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],
+    "virtualNumber": {
+      "fullName": "bruce_wayne",
+      "sipToken": "zemoso@321",
+      "sipUser": "sipML5",
+      "virtualNumber": "sipML5"
+    },
+    "asteriskConfig": {
+      "asteriskIp": "ze-streaming-sse.ml",
+      "iceServers": []
+    },
+     "customerNames": ["Wallmart","Kroger","Wallmart Inc"]
+  },
 }
