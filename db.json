@@ -1,12 +1,12 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 80,
-    "expectedCallingMinutes": 124,
-    "processedCustomerCount": 8,
-    "totalCustomerCount": 20,
-    "totalPastDueAmount": 3222222277.66,
-    "totalPastDueProcessed": 124444446
+    "completedCallingMinutes": 70,
+    "expectedCallingMinutes": 90,
+    "processedCustomerCount": 104,
+    "totalCustomerCount": 210,
+    "totalPastDueAmount": 32000000.66,
+    "totalPastDueProcessed": 12000000.46
   },
   "call": [],
   "invoicecopy": [],
@@ -14,8 +14,8 @@
   "contact" : [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 80,
-      "expectedCallingMinutes": 124,
+      "completedCallingMinutes": 30,
+      "expectedCallingMinutes": 40,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -23,13 +23,13 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": 8,
+      "processedCustomerCount": 0,
       "totalCustomerCount": 20,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
-      "totalPastDueAmount": 3222222277.66,
-      "totalPastDueProcessed": 124444446
+      "totalPastDueAmount": 3333000000,
+      "totalPastDueProcessed": 1234000000
     },
     "workbookItems": [
       {
@@ -38,45 +38,37 @@
           "60-90",
           "90-120",
           "120-150",
-          "150-180",
-          "180-210",
-          "210-240"
+          ">150"
         ],
         "currency": "string",
-        "customerName": "ABC Corporation",
-        "customerNumber": "80766788801",
+        "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
+        "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
           13000000,
-          10008800,
-          90000090,
-          1200000,
-          300000,
-          1239000,
-          4560000
+          10000000,
+          9000000,
+          12000000
         ],
         "pastDueBucketDocumentCount": [
           25,
           10,
           6,
-          4,
-          10,
-          15,
-          25
+          4
         ],
-        "totalBrokenPromises": 3,
-        "totalCurrentOpenAmount": 1123
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 1
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Nike",
-        "customerNumber": "807667888",
+        "customerNumber": "808012",
         "id": 1,
         "pastDueBucketDocumentAmount": [
           13000000,
@@ -90,48 +82,41 @@
           22,
           10
         ],
-        "totalBrokenPromises": 2,
-        "totalCurrentOpenAmount": 12345
-      },
-      {
-        "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150",
-          "150-180",
-          "180-210"
-        ],
-        "currency": "string",
-        "customerName": "Flipkart",
-        "customerNumber": "8080130",
-        "id": 2,
-        "pastDueBucketDocumentAmount": [
-          160000,
-          800000,
-          45000,
-          3000000,
-          500000,
-          700000
-          
-        ],
-        "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
-          14,
-          14,
-          20
-        ],
         "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 0
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Flipkart",
+        "customerNumber": "808013",
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          160000,
+          800000,
+          45000,
+          3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -154,10 +139,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -180,10 +165,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "YODIZ",
@@ -206,10 +191,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "JSON",
@@ -232,10 +217,10 @@
       },
       {
         "bucketNames": [
-         "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "JIRA",
@@ -285,10 +270,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Nike12",
@@ -311,10 +296,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Flipkart12",
@@ -337,10 +322,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidas12",
@@ -363,10 +348,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidas12",
@@ -389,10 +374,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "YODIZ12",
@@ -415,10 +400,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "JSON12",
@@ -441,10 +426,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "JIRA12",
@@ -467,10 +452,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidas124",
@@ -493,10 +478,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "YODIZ132",
@@ -519,10 +504,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "JSON124",
@@ -545,10 +530,10 @@
       },
       {
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "JIRA128",
@@ -578,7 +563,8 @@
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
         "Payment term is 30 days",
-        "Overdue invoice open amount $5000 since 30days"
+        "Overdue invoice open amount $5000 since 30days",
+        "At least one invoice predicted to be delinquent.Overdue invoice open amount $5000 since 30days"
       ],
       "accountDetails": {
         "actualCreditLimit": 100,
@@ -623,7 +609,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -665,14 +651,14 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": null,
-          "extension": "123",
+          "email": "adam@gilchrist.com",
+          "extensions": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
           "phoneNumber": "8002414141",
-          "mobileNumber": null,
+          "mobileNumber": "8558647776",
           "isPrimary": false,
           "role": "string",
           "state": "string",
@@ -685,13 +671,15 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": null,
+          "extensions": [
+            "string"
+          ],
           "faxNumber": null,
           "firstName": "Richard",
           "id": 1,
           "lastName": "Parker",
           "phoneNumber": "2143244664",
-          "mobileNumber": "2812345416",
+          "mobile": "2812345416",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -704,33 +692,16 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": null,
+          "extensions": [
+            "string"
+          ],
           "faxNumber": null,
           "firstName": "I am Wrong",
           "id": 2,
-          "lastName": "number",
+          "lastName": "Number",
           "phoneNumber": "00000",
-          "mobileNumber": "7123456778",
+          "mobile": "7888923234",
           "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "Harry",
-          "id": 2,
-          "lastName": "Porter",
-          "phoneNumber": null,
-          "mobileNumber": "7123456778",
-          "isPrimary": false,
           "role": "string",
           "state": "string",
           "title": "string",
@@ -739,7 +710,7 @@
         }
       ],
       "currency": "string",
-      "customerName": "ABC Corporation",
+      "customerName": "Customer Ajdbnajkbasdjbnjlsnd sj,adbjkhasdkhuasd",
       "customerNumber": "324632",
       "disputes": [
         {
@@ -780,7 +751,9 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": null,
+            "extensions": [
+              "string"
+            ],
             "faxNumber": "string",
             "firstName": "string",
             "id": 0,
@@ -808,7 +781,9 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": null,
+            "extensions": [
+              "string"
+            ],
             "faxNumber": "string",
             "firstName": "string",
             "id": 0,
@@ -836,7 +811,9 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": null,
+            "extensions": [
+              "string"
+            ],
             "faxNumber": "string",
             "firstName": "string",
             "id": 0,
@@ -871,11 +848,11 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150",
-          "150-180"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due",
+          "120 days past due"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -948,7 +925,9 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extension": null,
+              "extensions": [
+                "string"
+              ],
               "faxNumber": "string",
               "firstName": "string",
               "id": 0,
@@ -988,7 +967,9 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extension": "546",
+              "extensions": [
+                "string"
+              ],
               "faxNumber": "string",
               "firstName": "string",
               "id": 0,
@@ -1042,10 +1023,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -1073,87 +1054,29 @@
           "callSummary": "string",
           "callingNumber": "string",
           "communicationReason": "string",
-          "contact": [
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": null,
-          "extension": "123",
-          "faxNumber": "832782371",
-          "firstName": "Adam",
-          "id": 0,
-          "lastName": "Gilchrist",
-          "phoneNumber": "8002414141",
-          "mobileNumber": null,
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "Richard",
-          "id": 1,
-          "lastName": "Parker",
-          "phoneNumber": "2143244664",
-          "mobileNumber": "2812345416",
-          "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "I am Wrong",
-          "id": 2,
-          "lastName": "number",
-          "phoneNumber": "00000",
-          "mobileNumber": "7123456778",
-          "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "Harry",
-          "id": 2,
-          "lastName": "Porter",
-          "phoneNumber": null,
-          "mobileNumber": "7123456778",
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        }
-      ],
+          "contact": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "harry@potter.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "",
+            "id": 1,
+            "lastName": "",
+            "phoneNumber": "8324649026",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
           "duration": 0,
           "endTime": "2018-12-04T06:41:26.614Z",
-          "extension": "876",
+          "extension": "string",
           "id": 1,
           "note": {
             "createdTime": "2018-12-04T06:41:26.614Z",
@@ -1179,13 +1102,15 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extension": "1233333333",
+          "extensions": [
+            "string"
+          ],
           "faxNumber": "string",
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
           "phoneNumber": "8002414141",
-          "mobileNumber": "8002414141",
+          "mobile": "8002414141",
           "isPrimary": false,
           "role": "string",
           "state": "string",
@@ -1197,72 +1122,17 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "extension": "123",
+          "extensions": [
+            "string"
+          ],
           "faxNumber": "string",
           "firstName": "Harry",
-          "id": 1,
+          "id": 0,
           "lastName": "Potter",
           "email": "harry@potter.com",
           "phoneNumber": "2143299664",
-          "mobileNumber": "2143299664",
+          "mobile": "2143299664",
           "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "Richard",
-          "id": 2,
-          "lastName": "Parker",
-          "phoneNumber": "2143244664",
-          "mobileNumber": "2812345416",
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "I am Wrong",
-          "id": 3,
-          "lastName": "number",
-          "phoneNumber": "00000",
-          "mobileNumber": null,
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "Wraith",
-          "id": 2,
-          "lastName": "King",
-          "phoneNumber": null,
-          "mobileNumber": "7123456778",
-          "isPrimary": false,
           "role": "string",
           "state": "string",
           "title": "string",
@@ -1312,7 +1182,9 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": null,
+            "extensions": [
+              "string"
+            ],
             "faxNumber": "string",
             "firstName": "string",
             "id": 1,
@@ -1340,7 +1212,9 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": null,
+            "extensions": [
+              "string"
+            ],
             "faxNumber": "string",
             "firstName": "string",
             "id": 1,
@@ -1368,7 +1242,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -1405,10 +1279,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 1000,
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "P",
+          "Q",
+          "R",
+          "S"
         ],
         "creditUtilized": 530,
         "id": 1,
@@ -1479,7 +1353,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1521,7 +1395,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1604,7 +1478,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -1647,7 +1521,7 @@
           "city": "string",
           "country": "string",
           "email": "wraith@king.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -1655,7 +1529,7 @@
           "id": 0,
           "lastName": "King",
           "phoneNumber": "2143299664",
-          "mobileNumber": "2143299664",
+          "mobile": "2143299664",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -1706,7 +1580,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -1808,7 +1682,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1850,7 +1724,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -1933,7 +1807,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "",
@@ -1976,7 +1850,7 @@
           "city": "string",
           "country": "string",
           "email": "storm@spirit.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "",
@@ -1984,7 +1858,7 @@
           "id": 3,
           "lastName": "Spirit",
           "phoneNumber": "string",
-          "mobileNumber": "2143299665",
+          "mobile": "2143299665",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -2035,7 +1909,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "",
@@ -2137,7 +2011,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "",
@@ -2179,7 +2053,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "",
@@ -2262,7 +2136,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -2305,7 +2179,7 @@
           "city": "string",
           "country": "string",
           "email": "witch@doctor.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -2313,7 +2187,7 @@
           "id": 4,
           "lastName": "Doctor",
           "phoneNumber": "string",
-          "mobileNumber": "2143299665",
+          "mobile": "2143299665",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -2364,7 +2238,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -2466,7 +2340,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2508,7 +2382,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2591,7 +2465,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -2634,7 +2508,7 @@
           "city": "string",
           "country": "string",
           "email": "drow@ranger.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -2642,7 +2516,7 @@
           "id": 5,
           "lastName": "Ranger",
           "phoneNumber": "string",
-          "mobileNumber": "2143299665",
+          "mobile": "2143299665",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -2693,7 +2567,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -2795,7 +2669,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2837,7 +2711,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -2920,7 +2794,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -2963,7 +2837,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -2971,7 +2845,7 @@
           "id": 5,
           "lastName": "Assassin",
           "phoneNumber": "string",
-          "mobileNumber": "2143299665",
+          "mobile": "2143299665",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -3022,7 +2896,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3124,7 +2998,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3166,7 +3040,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3249,7 +3123,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3292,7 +3166,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -3300,7 +3174,7 @@
           "id": 7,
           "lastName": "Assassin",
           "phoneNumber": "string",
-          "mobileNumber": "2143299665",
+          "mobile": "2143299665",
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -3351,7 +3225,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3453,7 +3327,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3495,7 +3369,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3597,7 +3471,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3640,7 +3514,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extension": "123",
+          "extensions": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
           "id": 0,
@@ -3659,7 +3533,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": null,
@@ -3680,7 +3554,7 @@
           "city": "string",
           "country": "string",
           "email": "richard@parker.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": null,
@@ -3739,7 +3613,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3769,7 +3643,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3799,7 +3673,7 @@
             "city": "string",
             "country": "string",
             "email": "adam@gilchrist.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -3836,11 +3710,11 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150",
-          "150-180"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due",
+          "120 days past due"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -3913,7 +3787,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -3955,7 +3829,7 @@
               "city": "string",
               "country": "string",
               "email": "adam@gilchrist.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4011,10 +3885,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -4047,7 +3921,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -4090,7 +3964,7 @@
           "city": "string",
           "country": "string",
           "email": "adam@gilchrist.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -4110,7 +3984,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -4170,7 +4044,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -4200,7 +4074,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -4230,7 +4104,7 @@
             "city": "string",
             "country": "string",
             "email": "harry@potter.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -4267,10 +4141,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 1000,
         "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150"
+          "P",
+          "Q",
+          "R",
+          "S"
         ],
         "creditUtilized": 530,
         "id": 1,
@@ -4341,7 +4215,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4383,7 +4257,7 @@
               "city": "string",
               "country": "string",
               "email": "harry@potter.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4466,7 +4340,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -4509,7 +4383,7 @@
           "city": "string",
           "country": "string",
           "email": "wraith@king.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -4568,7 +4442,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -4670,7 +4544,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4712,7 +4586,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -4795,7 +4669,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "",
@@ -4838,7 +4712,7 @@
           "city": "string",
           "country": "string",
           "email": "storm@spirit.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "",
@@ -4897,7 +4771,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "",
@@ -4999,7 +4873,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "",
@@ -5041,7 +4915,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "",
@@ -5124,7 +4998,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -5167,7 +5041,7 @@
           "city": "string",
           "country": "string",
           "email": "witch@doctor.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -5226,7 +5100,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -5328,7 +5202,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5370,7 +5244,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5453,7 +5327,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -5496,7 +5370,7 @@
           "city": "string",
           "country": "string",
           "email": "drow@ranger.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -5555,7 +5429,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -5657,7 +5531,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5699,7 +5573,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -5782,7 +5656,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -5825,7 +5699,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -5884,7 +5758,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -5986,7 +5860,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6028,7 +5902,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6111,7 +5985,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -6154,7 +6028,7 @@
           "city": "string",
           "country": "string",
           "email": "phantom@assassin.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -6213,7 +6087,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -6315,7 +6189,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6357,7 +6231,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6440,7 +6314,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -6483,7 +6357,7 @@
           "city": "string",
           "country": "string",
           "email": "wraith@king.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -6542,7 +6416,7 @@
             "city": "string",
             "country": "string",
             "email": "wraith@king.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -6644,7 +6518,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6686,7 +6560,7 @@
               "city": "string",
               "country": "string",
               "email": "wraith@king.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -6769,7 +6643,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "",
@@ -6812,7 +6686,7 @@
           "city": "string",
           "country": "string",
           "email": "storm@spirit.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "",
@@ -6871,7 +6745,7 @@
             "city": "string",
             "country": "string",
             "email": "storm@spirit.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "",
@@ -6973,7 +6847,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "",
@@ -7015,7 +6889,7 @@
               "city": "string",
               "country": "string",
               "email": "storm@spirit.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "",
@@ -7098,7 +6972,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -7141,7 +7015,7 @@
           "city": "string",
           "country": "string",
           "email": "witch@doctor.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -7200,7 +7074,7 @@
             "city": "string",
             "country": "string",
             "email": "witch@doctor.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -7302,7 +7176,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7344,7 +7218,7 @@
               "city": "string",
               "country": "string",
               "email": "witch@doctor.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7427,7 +7301,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -7470,7 +7344,7 @@
           "city": "string",
           "country": "string",
           "email": "drow@ranger.com",
-          "extension": [
+          "extensions": [
             "string"
           ],
           "faxNumber": "string",
@@ -7529,7 +7403,7 @@
             "city": "string",
             "country": "string",
             "email": "drow@ranger.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -7631,7 +7505,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7673,7 +7547,7 @@
               "city": "string",
               "country": "string",
               "email": "drow@ranger.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -7756,7 +7630,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assasswwwwwwwwwwwin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -7798,72 +7672,17 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": null,
-          "extension": "123",
-          "faxNumber": "832782371",
-          "firstName": null,
-          "id": 0,
-          "lastName": "Gilchrist",
-          "phoneNumber": "8002414141",
-          "mobileNumber": null,
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": null,
-          "id": 1,
-          "lastName": null,
-          "phoneNumber": "2143244664",
-          "mobileNumber": "2812345416",
+          "email": "phantom@assassin.com",
+          "extensions": [
+            "string"
+          ],
+          "faxNumber": "string",
+          "firstName": "Phantom",
+          "id": 5,
+          "lastName": "Assassin",
+          "phoneNumber": "string",
+          "mobile": "2143299665",
           "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "I am Wrong",
-          "id": 2,
-          "lastName": null,
-          "phoneNumber": "00000",
-          "mobileNumber": "7123456778",
-          "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extension": null,
-          "faxNumber": null,
-          "firstName": "Harry",
-          "id": 2,
-          "lastName": "Porter",
-          "phoneNumber": null,
-          "mobileNumber": "7123456778",
-          "isPrimary": false,
           "role": "string",
           "state": "string",
           "title": "string",
@@ -7913,7 +7732,7 @@
             "city": "string",
             "country": "string",
             "email": "phantom@assassin.com",
-            "extension": [
+            "extensions": [
               "string"
             ],
             "faxNumber": "string",
@@ -8015,7 +7834,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -8057,7 +7876,7 @@
               "city": "string",
               "country": "string",
               "email": "phantom@assassin.com",
-              "extension": [
+              "extensions": [
                 "string"
               ],
               "faxNumber": "string",
@@ -8126,13 +7945,11 @@
     "bucketNames": [
       "30 Days",
       "60 days",
-      "90 days",
-      "120 days",
-      "150 days"
+      "90 days"
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
-   "workbookList":[803210,803213,803215,803951,803967,803979,805256,806330,806944,806947,1,2,3,4,5,6,7,8,9,10],
+   "workbookList":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],
     "virtualNumber": {
       "fullName": "bruce_wayne",
       "sipToken": "zemoso@321",
@@ -8146,7 +7963,74 @@
      "customerNames": ["Wallmart","Kroger","Wallmart Inc"]
   },
   "invoices": [
-   
+    {
+      "actualOpenAmount": 0,
+      "companyCode": "string",
+      "currency": "string",
+      "currentOpenAmount": 235,
+      "customerActualOpenAmount": 0,
+      "customerCurrency": "string",
+      "daysPastDueDate": 0,
+      "debitCreditIndicator": "string",
+      "disputeStatus": "string",
+      "disputedAmount": 0,
+      "docHeaderId": "string",
+      "documentDate": "2018-12-19",
+      "documentFilePath": "string",
+      "documentId": 124,
+      "documentNumber": 2310,
+      "documentType": "Upcoming P2P",
+      "dueDate": "2018-12-19",
+      "escalatedTo": "string",
+      "fiscalYear": "string",
+      "id": 124,
+      "isEscalated": true,
+      "isOpen": false,
+      "isValidDispute": true,
+      "openAmount": 0,
+      "p2pDelinquent": false,
+      "p2pOpen": 0,
+      "p2pUpcoming": false,
+      "p2pBroken": true,
+      "poNumber": "string",
+      "reasonCode": "string",
+      "validDisputedAmount": 0,
+      "validOpenAmount": 0
+    },
+    {
+      "actualOpenAmount": 0,
+      "companyCode": "string",
+      "currency": "string",
+      "currentOpenAmount": 280,
+      "customerActualOpenAmount": 0,
+      "customerCurrency": "string",
+      "daysPastDueDate": 0,
+      "debitCreditIndicator": "string",
+      "disputeStatus": "string",
+      "disputedAmount": 0,
+      "docHeaderId": "string",
+      "documentDate": "2018-12-19",
+      "documentFilePath": "string",
+      "documentId": 125,
+      "documentNumber": 2.4932897912378913e+35,
+      "documentType": "Broken P2P",
+      "dueDate": "2018-12-19",
+      "escalatedTo": "string",
+      "fiscalYear": "string",
+      "id": 125,
+      "isEscalated": false,
+      "isOpen": false,
+      "isValidDispute": true,
+      "openAmount": 0,
+      "p2pDelinquent": false,
+      "p2pOpen": 0,
+      "p2pUpcoming": false,
+      "p2pBroken": true,
+      "poNumber": "string",
+      "reasonCode": "string",
+      "validDisputedAmount": 0,
+      "validOpenAmount": 0
+    }
   ],
   "virtualnumber": {
     "fullName": "bruce_wayne",
@@ -8194,10 +8078,10 @@
     "Credit",
     "Deduction",
     "Full Invoice",
-    "Off-Invoice Discount",
+    "Off-Invoice Discount full invoices",
     "Pre-Credit",
     "Pre-Deduction",
-    "Promotional Checks"
+    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction "
   ],
   "tasktypes": [
     "type 1",
@@ -8208,7 +8092,7 @@
     "type 2",
     "type 3",
     "type 4",
-    "Promotional Check",
+    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction ",
     "type 2",
     "type 3",
     "type 4"
