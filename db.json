@@ -564,6 +564,7 @@
         "Current Due vs Total past Due is 30%",
         "Payment term is 30 days",
         "Overdue invoice open amount $5000 since 30days",
+        "At least one invoice predicted to be in 90 day bucket",
         "At least one invoice predicted to be delinquent.Overdue invoice open amount $5000 since 30days"
       ],
       "accountDetails": {
