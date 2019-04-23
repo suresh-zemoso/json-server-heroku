@@ -8560,7 +8560,7 @@
       "virtualNumber": "sipML5"
     },
     "asteriskConfig": {
-      "asteriskIp": "ze-streaming-sse.ml",
+      "asteriskIp": "ze-streaming-sse.ml:8089",
       "iceServers": []
     },
      "customerNames": ["Wallmart","Kroger","Wallmart Inc"]
