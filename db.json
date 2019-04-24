@@ -7956,10 +7956,11 @@
       "fullName": "bruce_wayne",
       "sipToken": "zemoso@321",
       "sipUser": "sipML5",
-      "virtualNumber": "sipML5"
+      "virtualNumber": "sipML5",
+	"incomingNumber" : "2143299664"
     },
     "asteriskConfig": {
-      "asteriskIp": "ze-streaming-sse.ml",
+      "asteriskIp": "ze-streaming-sse.ml:8089",
       "iceServers": []
     },
      "customerNames": ["Wallmart","Kroger","Wallmart Inc"]
