@@ -1449,21 +1449,29 @@
       ]
     },
     {
-      "reasons": [],
+      "reasons": [
+        "At least one invoice predicted to be delinquent",
+        "At least one invoice predicted to be in 90 day bucket",
+        "Current Due vs Total past Due is 30%",
+        "Payment term is 30 days",
+        "Overdue invoice open amount $5000 since 30days",
+         "At least one invoice predicted to be delinquent.Overdue invoice open amount $5000 since 30days",
+        "At least one invoice predicted to be in 90 day bucket"
+      ],
       "accountDetails": {
-        "actualCreditLimit": 0,
+        "actualCreditLimit": 100,
         "bucketNames": [
-         "0-30",
+          "0-30",
           "30-60",
           "60-90",
           "90-120",
           "120-150",
           ">150"
         ],
-        "creditUtilized": 0,
-        "id": 2,
+        "creditUtilized": 50,
+        "id": 0,
         "pastDueBucketDocumentAmount": [
-           350000,
+          350000,
           13000000,
           12000000,
           4000000,
@@ -1492,15 +1500,15 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "wraith@king.com",
+            "email": "adam@gilchrist.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "string",
             "firstName": "string",
-            "id": 2,
+            "id": 0,
             "lastName": "string",
-            "phoneNumber": "string",
+            "phoneNumber": "2143299664",
             "isPrimary": true,
             "role": "string",
             "state": "string",
@@ -1511,7 +1519,7 @@
           "duration": 0,
           "endTime": "2018-12-04T06:41:26.614Z",
           "extension": "string",
-          "id": 2,
+          "id": 0,
           "note": {
             "createdTime": "2018-12-04T06:41:26.614Z",
             "createdUser": "string",
@@ -1519,7 +1527,7 @@
             "documentIds": [
               0
             ],
-            "id": 2,
+            "id": 0,
             "noteContent": "string",
             "subject": "string"
           },
@@ -1554,8 +1562,8 @@
         }
       ],
       "currency": "string",
-      "customerName": "string",
-      "customerNumber": "string",
+      "customerName": "Customer Ajdbnajkbasdjbnjlsnd sj,adbjkhasdkhuasd",
+      "customerNumber": "324632",
       "disputes": [
         {
           "actualDisputeAmount": "string",
@@ -1567,13 +1575,13 @@
           "documentId": "string",
           "documentNumber": "string",
           "dueDate": "2018-12-04",
-          "id": 2,
+          "id": 0,
           "invoiceNumber": "string",
           "processor": "string",
           "reasonCode": "string"
         }
       ],
-      "id": 2,
+      "id": 0,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -1582,27 +1590,27 @@
           "documentIds": [
             0
           ],
-          "id": 2,
+          "id": 0,
           "noteContent": "string",
           "subject": "string"
         }
       ],
       "paymentCommitments": [
         {
-          "committedAmount": 0,
+          "committedAmount": 13000000,
           "committedBy": {
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "wraith@king.com",
+            "email": "adam@gilchrist.com",
             "extensions": [
               "string"
             ],
             "faxNumber": "string",
             "firstName": "string",
-            "id": 2,
+            "id": 0,
             "lastName": "string",
-            "phoneNumber": "string",
+            "phoneNumber": "2143299664",
             "isPrimary": true,
             "role": "string",
             "state": "string",
@@ -1615,32 +1623,104 @@
           "currency": "string",
           "customerId": 0,
           "documentId": 0,
-          "id": 2,
-          "type": "string"
+          "id": 0,
+          "type": "Broken"
+        },
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 0,
+          "type": "Upcoming"
+        },
+        {
+          "committedAmount": 0,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 0,
+          "type": "Open"
         }
       ],
       "payments": [
         {
-          "currency": "string",
-          "customerId": "string",
-          "documentNumber": "string",
-          "id": 2,
-          "paymentAmount": 0,
-          "paymentDate": "2018-12-04"
+          "currency": "$",
+          "customerId": "245",
+          "documentNumber": "123",
+          "id": 0,
+          "paymentAmount": 13000000,
+          "paymentDate": "2018-12-30"
         }
       ],
       "predictedAccountDetails": {
-        "actualCreditLimit": 0,
+        "actualCreditLimit": 100,
         "bucketNames": [
-          "string"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due",
+          "120 days past due"
         ],
-        "creditUtilized": 0,
-        "id": 2,
+        "creditUtilized": 80,
+        "id": 0,
         "pastDueBucketDocumentAmount": [
-          0
+          110000,
+          234000,
+          1000000,
+          23000,
+          250000
         ],
         "pastDueBucketDocumentCount": [
-          0
+          90,
+          25,
+          10,
+          13,
+          12
         ],
         "totalActualOpenAmount": 0,
         "totalCurrentInvoiceCount": 0,
@@ -1649,15 +1729,15 @@
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
       },
-      "paymentBehaviour": "Ok",
-      "riskClass": "HIGH",
+      "paymentBehaviour": "Good",
+      "riskClass": "MEDIUM",
       "suggestedActions": [
         {
           "active": true,
           "category": "string",
           "customerId": 0,
           "description": "string",
-          "id": 2,
+          "id": 0,
           "performedDate": "2018-12-04T06:41:26.615Z",
           "performedUser": "string",
           "shortName": "string",
@@ -1675,7 +1755,7 @@
             0
           ],
           "dueDate": "2018-12-04",
-          "id": 2,
+          "id": 0,
           "priority": "string",
           "reminderDate": "2018-12-04",
           "reminderFlag": "string",
@@ -1696,15 +1776,15 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "wraith@king.com",
+              "email": "adam@gilchrist.com",
               "extensions": [
                 "string"
               ],
               "faxNumber": "string",
               "firstName": "string",
-              "id": 2,
+              "id": 0,
               "lastName": "string",
-              "phoneNumber": "string",
+              "phoneNumber": "2143299664",
               "isPrimary": true,
               "role": "string",
               "state": "string",
@@ -1715,7 +1795,7 @@
             "duration": 0,
             "endTime": "2018-12-04T06:41:26.615Z",
             "extension": "string",
-            "id": 2,
+            "id": 0,
             "note": {
               "createdTime": "2018-12-04T06:41:26.615Z",
               "createdUser": "string",
@@ -1723,7 +1803,7 @@
               "documentIds": [
                 0
               ],
-              "id": 2,
+              "id": 0,
               "noteContent": "string",
               "subject": "string"
             },
@@ -1738,15 +1818,15 @@
               "address": "string",
               "city": "string",
               "country": "string",
-              "email": "wraith@king.com",
+              "email": "adam@gilchrist.com",
               "extensions": [
                 "string"
               ],
               "faxNumber": "string",
               "firstName": "string",
-              "id": 2,
+              "id": 0,
               "lastName": "string",
-              "phoneNumber": "string",
+              "phoneNumber": "2143299664",
               "isPrimary": true,
               "role": "string",
               "state": "string",
@@ -1759,7 +1839,7 @@
             "currency": "string",
             "customerId": 0,
             "documentId": 0,
-            "id": 2,
+            "id": 0,
             "type": "string"
           },
           "committedFor": "2018-12-04T06:41:26.615Z",
@@ -1768,13 +1848,13 @@
             "accountId": 0,
             "customerName": "string",
             "filePath": "string",
-            "id": 2,
+            "id": 0,
             "packageName": "string",
             "productId": "string",
             "transmisionMode": "string"
           },
           "createdTime": "2018-12-04T06:41:26.615Z",
-          "id": 2,
+          "id": 0,
           "note": {
             "createdTime": "2018-12-04T06:41:26.615Z",
             "createdUser": "string",
@@ -1782,11 +1862,11 @@
             "documentIds": [
               0
             ],
-            "id": 2,
+            "id": 0,
             "noteContent": "string",
             "subject": "string"
           },
-          "type": "string"
+          "type": "Medium"
         }
       ]
     },
