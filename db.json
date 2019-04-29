@@ -1268,16 +1268,7 @@
           "type": "Upcoming"
         }
       ],
-      "payments": [
-        {
-          "currency": "string",
-          "customerId": "string",
-          "documentNumber": "string",
-          "id": 1,
-          "paymentAmount": 0,
-          "paymentDate": "2018-12-04"
-        }
-      ],
+      "payments": [],
       "predictedAccountDetails": {
         "actualCreditLimit": 1000,
         "bucketNames": [
