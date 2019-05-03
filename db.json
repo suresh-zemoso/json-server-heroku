@@ -7,7 +7,7 @@
     "processedCustomerCount": 104,
     "totalCustomerCount": 210,
     "totalPastDueAmount": 32000000.66,
-    "totalPastDueProcessed": 12000000.46
+    "totalPastDueProcessed": 0
   },
   "call": [],
   "invoicecopy": [],
@@ -30,7 +30,7 @@
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
       "totalPastDueAmount": 3333000000,
-      "totalPastDueProcessed": 1234000000
+      "totalPastDueProcessed": 0
     },
     "workbookItems": [
       {
@@ -46,9 +46,9 @@
         "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          13000000,
+          0,
           10000000,
-          9000000,
+          0,
           12000000
         ],
         "pastDueBucketDocumentCount": [
@@ -73,8 +73,8 @@
         "id": 1,
         "pastDueBucketDocumentAmount": [
           13000000,
-          20000,
-          2000000,
+          0,
+          0,
           5000000
         ],
         "pastDueBucketDocumentCount": [
@@ -582,7 +582,7 @@
         "id": 0,
         "pastDueBucketDocumentAmount": [
           -350000,
-          13000000,
+          0,
           -12000000,
           4000000,
           -3000000
@@ -595,7 +595,7 @@
           12
         ],
         "totalActualOpenAmount": 100000,
-        "totalCurrentInvoiceCount": 10,
+        "totalCurrentInvoiceCount": 0,
         "totalCurrentOpenAmount": 120000,
         "totalDisputedAmount": 0,
         "totalPastDueAmount": 0,
@@ -859,8 +859,8 @@
         "creditUtilized": 80,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          110000,
-          234000,
+          0,
+          0,
           1000000,
           23000,
           250000
@@ -8054,7 +8054,7 @@
       "actualOpenAmount": 0,
       "companyCode": "string",
       "currency": "string",
-      "currentOpenAmount": 2345,
+      "currentOpenAmount": 0,
       "customerActualOpenAmount": 0,
       "customerCurrency": "string",
       "daysPastDueDate": 0,
@@ -8122,7 +8122,7 @@
       "actualOpenAmount": 0,
       "companyCode": "string",
       "currency": "string",
-      "currentOpenAmount": 2365,
+      "currentOpenAmount": 0,
       "customerActualOpenAmount": 0,
       "customerCurrency": "string",
       "daysPastDueDate": 0,
@@ -8420,9 +8420,9 @@
     ],
     "upcomingPastDueBucketDocumentAmount": [
       3349587,
-      457878,
+      0,
       127626,
-      499030,
+      0,
       8706,
       6224,
       6287,
