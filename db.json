@@ -8088,7 +8088,7 @@
       "actualOpenAmount": 0,
       "companyCode": "string",
       "currency": "string",
-      "currentOpenAmount": 1235,
+      "currentOpenAmount": 0,
       "customerActualOpenAmount": 0,
       "customerCurrency": "string",
       "daysPastDueDate": 0,
