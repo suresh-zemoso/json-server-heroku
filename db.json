@@ -582,9 +582,9 @@
         "id": 0,
         "pastDueBucketDocumentAmount": [
           -350000,
-          0,
+           0,
           -12000000,
-          4000000,
+           0,
           -3000000
         ],
         "pastDueBucketDocumentCount": [
