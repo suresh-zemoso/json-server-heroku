@@ -652,7 +652,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "adam@gilchrist.com",
+          "email": [],
           "extensions": "123",
           "faxNumber": "832782371",
           "firstName": "Adam",
@@ -692,7 +692,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "richard@parker.com",
+          "email": [],
           "extensions": [
             "string"
           ],
@@ -700,7 +700,7 @@
           "firstName": "I am Wrong",
           "id": 2,
           "lastName": "Number",
-          "phoneNumber": "00000",
+          "phoneNumber": "8558647776",
           "mobile": "7888923234",
           "isPrimary": true,
           "role": "string",
