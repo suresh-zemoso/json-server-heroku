@@ -45,19 +45,19 @@
         "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          13000000,
-          10000000,
-          9000000,
-          12000000
+          0,
+          0,
+          0,
+          -21199.20
         ],
         "pastDueBucketDocumentCount": [
-          25,
-          10,
-          6,
-          4
+          0,
+          0,
+          0,
+          2
         ],
         "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 1
+        "totalCurrentOpenAmount": 0
       },
       {
         "bucketNames": [
@@ -578,25 +578,23 @@
           "120-150",
           ">150"
         ],
-        "creditUtilized": 50,
+        "creditUtilized": 0,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          350000,
-          13000000,
-          12000000,
-          4000000,
-          3000000
+          0,
+          0,
+          0,
+          -21199.20
         ],
         "pastDueBucketDocumentCount": [
-          25,
-          90,
-          10,
-          13,
-          12
+          0,
+          0,
+          0,
+          2
         ],
-        "totalActualOpenAmount": 100000,
-        "totalCurrentInvoiceCount": 10,
-        "totalCurrentOpenAmount": 120000,
+        "totalActualOpenAmount": -21199.2,
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
         "totalDisputedAmount": 0,
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
