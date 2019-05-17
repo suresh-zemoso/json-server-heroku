@@ -11,7 +11,7 @@
   "call": [],
   "invoicecopy": [],
   "p2p": [],
-  "contact" : [],
+  "contact": [],
   "callworkbook": {
     "overview": {
       "completedCallingMinutes": 30,
@@ -564,11 +564,12 @@
         "Current Due vs Total past Due is 30%",
         "Payment term is 30 days",
         "Overdue invoice open amount $5000 since 30days",
-         "At least one invoice predicted to be delinquent.Overdue invoice open amount $5000 since 30days",
+        "At least one invoice predicted to be delinquent.Overdue invoice open amount $5000 since 30days",
         "At least one invoice predicted to be in 90 day bucket"
       ],
       "accountDetails": {
         "actualCreditLimit": 100,
+        "currencyType": "DOCUMENT_LEVEL_CURRENCY",
         "bucketNames": [
           "0-30",
           "30-60",
@@ -1030,7 +1031,7 @@
           "90 days past due"
         ],
         "creditUtilized": 80,
-        "creditLimitUtilizationPercent" : 40,
+        "creditLimitUtilizationPercent": 40,
         "id": 0,
         "pastDueBucketDocumentAmount": [
           13000000,
@@ -7951,7 +7952,28 @@
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
-   "workbookList":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],
+    "workbookList": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
       "sipToken": "zemoso@321",
@@ -7962,11 +7984,16 @@
       "asteriskIp": "ze-streaming-sse.ml",
       "iceServers": []
     },
-     "customerNames": ["Wallmart","Kroger","Wallmart Inc"]
+    "customerNames": [
+      "Wallmart",
+      "Kroger",
+      "Wallmart Inc"
+    ]
   },
   "invoices": [
     {
       "actualOpenAmount": 0,
+      "symbol": "$",
       "companyCode": "string",
       "currency": "string",
       "currentOpenAmount": 2345,
@@ -8001,6 +8028,7 @@
     },
     {
       "actualOpenAmount": 0,
+      "symbol": "€",
       "companyCode": "string",
       "currency": "string",
       "currentOpenAmount": 1235,
@@ -8035,6 +8063,7 @@
     },
     {
       "actualOpenAmount": 0,
+      "symbol": "¥",
       "companyCode": "string",
       "currency": "string",
       "currentOpenAmount": 2365,
@@ -8531,7 +8560,7 @@
       "templatePath": "string"
     }
   ],
-  "getProfile.do" : {
+  "getProfile.do": {
     "defaultDateFormat": "string",
     "defaultLanguage": "string",
     "emailId": "string",
@@ -8552,19 +8581,43 @@
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
-   "workbookList":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],
+    "workbookList": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
       "sipToken": "zemoso@321",
       "sipUser": "sipML5",
-      "incomingNumber" : "2143299664",
+      "incomingNumber": "2143299664",
       "virtualNumber": "sipML5"
     },
     "asteriskConfig": {
       "asteriskIp": "ze-streaming-sse.ml:8089",
       "iceServers": []
     },
-     "customerNames": ["Wallmart","Kroger","Wallmart Inc"]
+    "customerNames": [
+      "Wallmart",
+      "Kroger",
+      "Wallmart Inc"
+    ]
   }
-  
 }
