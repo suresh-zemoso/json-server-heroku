@@ -71,10 +71,10 @@
           "customerNumber": "808012",
           "id": 1,
           "pastDueBucketDocumentAmount": [
-            13000000,
+            1300,
             20000,
             2000000,
-            -5000000
+            -50000000
           ],
           "pastDueBucketDocumentCount": [
             9,
@@ -1032,10 +1032,10 @@
           "creditLimitUtilizationPercent": 40,
           "id": 0,
           "pastDueBucketDocumentAmount": [
-            13000000,
+            1300,
             20000,
             2000000,
-            -5000000
+            -50000000
           ],
           "pastDueBucketDocumentCount": [
             90,
