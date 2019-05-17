@@ -1457,6 +1457,7 @@
           "string"
         ],
         "creditUtilized": 0,
+        "creditLimitUtilizationPercent": 240,
         "id": 2,
         "pastDueBucketDocumentAmount": [
           0
@@ -2115,6 +2116,7 @@
           "string"
         ],
         "creditUtilized": 0,
+        "creditLimitUtilizationPercent": -40,
         "id": 4,
         "pastDueBucketDocumentAmount": [
           0
@@ -2440,6 +2442,7 @@
       "reasons": [],
       "accountDetails": {
         "actualCreditLimit": 0,
+        "creditLimitUtilizationPercent": -40,
         "bucketNames": [
           "string"
         ],
@@ -3101,6 +3104,7 @@
         "bucketNames": [
           "string"
         ],
+        "creditLimitUtilizationPercent": 150,
         "creditUtilized": 0,
         "id": 7,
         "pastDueBucketDocumentAmount": [
