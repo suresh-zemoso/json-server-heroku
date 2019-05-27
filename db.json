@@ -741,7 +741,36 @@
         }
       ],
       "paymentCommitments": [
-          null
+        {
+          "committedAmount": 13000000,
+          "committedBy": {
+            "address": "string",
+            "city": "string",
+            "country": "string",
+            "email": "adam@gilchrist.com",
+            "extensions": [
+              "string"
+            ],
+            "faxNumber": "string",
+            "firstName": "string",
+            "id": 0,
+            "lastName": "string",
+            "phoneNumber": "2143299664",
+            "isPrimary": true,
+            "role": "string",
+            "state": "string",
+            "title": "string",
+            "type": "string",
+            "zip": "string"
+          },
+          "committedDate": "2018-12-04",
+          "committedOn": "2018-12-04",
+          "currency": "string",
+          "customerId": 0,
+          "documentId": 0,
+          "id": 0,
+          "type": "Broken"
+        }
         ,
         {
           "committedAmount": 0,
