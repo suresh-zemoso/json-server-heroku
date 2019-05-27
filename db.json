@@ -558,7 +558,13 @@
   },
   "customer": [
     {
-      "reasons": null,
+      "reasons": [
+        "At least one invoice predicted to be delinquent",
+        "At least one invoice predicted to be in 90 day bucket",
+        "Current Due vs Total past Due is 30%",
+        "Payment term is 30 days",
+        "Overdue invoice open amount $5000 since 30days"
+      ],
       "accountDetails": {
         "actualCreditLimit": 100,
         "currencyType": "DOCUMENT_LEVEL_CURRENCY",
