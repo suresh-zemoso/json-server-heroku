@@ -741,9 +741,8 @@
         }
       ],
       "paymentCommitments": [
-        {
           null
-        },
+        ,
         {
           "committedAmount": 0,
           "committedBy": {
