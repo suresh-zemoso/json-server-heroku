@@ -769,11 +769,11 @@
           "customerId": 0,
           "documentId": 0,
           "id": 0,
-          "type": "Broken"
+          "type": null
         }
         ,
         {
-          "committedAmount": 0,
+          "committedAmount": 2000000,
           "committedBy": {
             "address": "string",
             "city": "string",
