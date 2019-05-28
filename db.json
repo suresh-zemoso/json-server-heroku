@@ -49,8 +49,13 @@
           2000000,
           -500
         ],
-        "pastDueBucketDocumentCount": null,
-        "totalBrokenPromises": 0,
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": null,
         "totalCurrentOpenAmount": 0
       },
       {
