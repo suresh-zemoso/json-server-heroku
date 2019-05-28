@@ -567,14 +567,31 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "currencyType": "DOCUMENT_LEVEL_CURRENCY",
-        "bucketNames": [],
+        "bucketNames": [
+          "0-30",
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
+        ],
         "creditUtilized": 0,
         "id": 0,
-        "pastDueBucketDocumentAmount": [],
-        "pastDueBucketDocumentCount": [],
+        "pastDueBucketDocumentAmount": [
+          0,
+          0,
+          0,
+          -21199.2
+        ],
+        "pastDueBucketDocumentCount": [
+          0,
+          0,
+          0,
+          2
+        ],
         "totalActualOpenAmount": 21199.2,
-        "totalCurrentInvoiceCount": "",
-        "totalCurrentOpenAmount": "",
+        "totalCurrentInvoiceCount": 0,
+        "totalCurrentOpenAmount": 0,
         "totalDisputedAmount": 0,
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
