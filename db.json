@@ -14,7 +14,7 @@
   "contact": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 30,
+      "completedCallingMinutes": null,
       "expectedCallingMinutes": 40,
       "id": 0,
       "pastDueBucketDocumentCount": [
@@ -24,7 +24,7 @@
         0
       ],
       "processedCustomerCount": 0,
-      "totalCustomerCount": 20,
+      "totalCustomerCount": 5,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
