@@ -577,12 +577,7 @@
         ],
         "creditUtilized": 0,
         "id": 0,
-        "pastDueBucketDocumentAmount": [
-          10,
-          20,
-          50,
-          80
-        ],
+        "pastDueBucketDocumentAmount": null,
         "pastDueBucketDocumentCount": [
           2,
           4,
