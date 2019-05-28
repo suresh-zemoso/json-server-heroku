@@ -803,7 +803,7 @@
           "type": "Upcoming"
         },
         {
-          "committedAmount": 0,
+          "committedAmount": 440,
           "committedBy": {
             "address": "string",
             "city": "string",
@@ -876,7 +876,7 @@
         "totalPastDuePercent": 0
       },
       "paymentBehaviour": "Good",
-      "riskClass": "",
+      "riskClass": null,
       "suggestedActions": [
         {
           "active": true,
