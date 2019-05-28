@@ -7683,7 +7683,7 @@
       "currencySymbol": "$",
       "companyCode": "string",
       "currency": "string",
-      "currentOpenAmount": 2345,
+      "currentOpenAmount": null,
       "customerActualOpenAmount": 0,
       "daysPastDueDate": 0,
       "debitCreditIndicator": "string",
