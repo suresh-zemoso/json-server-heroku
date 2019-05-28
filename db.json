@@ -772,7 +772,7 @@
         }
         ,
         {
-          "committedAmount": -2000000,
+          "committedAmount": 4000000,
           "committedBy": {
             "address": "string",
             "city": "string",
