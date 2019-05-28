@@ -742,7 +742,7 @@
       ],
       "paymentCommitments": [
         {
-          "committedAmount": null,
+          "committedAmount": 13000000,
           "committedBy": {
             "address": "string",
             "city": "string",
@@ -769,11 +769,11 @@
           "customerId": 0,
           "documentId": 0,
           "id": 0,
-          "type": "@@"
+          "type": "Broken"
         }
         ,
         {
-          "committedAmount": 2000000,
+          "committedAmount": null,
           "committedBy": {
             "address": "string",
             "city": "string",
