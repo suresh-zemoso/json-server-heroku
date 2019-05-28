@@ -577,16 +577,16 @@
         ],
         "creditUtilized": 0,
         "id": 0,
-        "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          -21199.2
+        "pastDueBucketDocumentAmount": null,
+        "pastDueBucketDocumentCount": [
+          10,
+          20,
+          50,
+          80
         ],
-        "pastDueBucketDocumentCount": null,
         "totalActualOpenAmount": 21199.2,
-        "totalCurrentInvoiceCount": null,
-        "totalCurrentOpenAmount": 20,
+        "totalCurrentInvoiceCount": 20,
+        "totalCurrentOpenAmount": null,
         "totalDisputedAmount": 0,
         "totalPastDueAmount": 0,
         "totalPastDuePercent": 0
