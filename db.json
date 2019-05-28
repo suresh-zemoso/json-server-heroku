@@ -575,13 +575,13 @@
           "120-150",
           ">150"
         ],
-        "creditUtilized": 40,
+        "creditUtilized": 0,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          -21199.2
+          20,
+          30,
+          60,
+          80
         ],
         "pastDueBucketDocumentCount": [
           0,
