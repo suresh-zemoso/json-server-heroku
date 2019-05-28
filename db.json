@@ -567,14 +567,7 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "currencyType": "DOCUMENT_LEVEL_CURRENCY",
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150",
-          ">150"
-        ],
+        "bucketNames": null,
         "creditUtilized": 0,
         "id": 0,
         "pastDueBucketDocumentAmount": [
@@ -876,7 +869,7 @@
         "totalPastDuePercent": 0
       },
       "paymentBehaviour": "Good",
-      "riskClass": 99,
+      "riskClass": "MEDIUM",
       "suggestedActions": [
         {
           "active": true,
