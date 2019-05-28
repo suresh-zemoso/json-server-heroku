@@ -860,13 +860,7 @@
           23000,
           250000
         ],
-        "pastDueBucketDocumentCount": [
-          90,
-          25,
-          10,
-          13,
-          12
-        ],
+        "pastDueBucketDocumentCount": null,
         "totalActualOpenAmount": 0,
         "totalCurrentInvoiceCount": 0,
         "totalCurrentOpenAmount": 0,
