@@ -742,7 +742,7 @@
       ],
       "paymentCommitments": [
         {
-          "committedAmount": 13000000,
+          "committedAmount": null,
           "committedBy": {
             "address": "string",
             "city": "string",
