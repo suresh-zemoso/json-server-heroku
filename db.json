@@ -18,18 +18,18 @@
       "expectedCallingMinutes": 40,
       "id": 0,
       "pastDueBucketDocumentCount": [
-        1211230
+        0
       ],
       "pendingPastDueBucketDocumentAmount": [
-        1231310
+        0
       ],
-      "processedCustomerCount": 0,
+      "processedCustomerCount": null,
       "totalCustomerCount": 20,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
       "totalPastDueAmount": 3333000000,
-      "totalPastDueProcessed": 1234000000
+      "totalPastDueProcessed": null
     },
     "workbookItems": [
       {
