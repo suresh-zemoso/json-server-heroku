@@ -33,17 +33,17 @@
     },
     "workbookItems": [
       {
-        "bucketNames": null,
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
         "customerNumber": "807667888010",
         "id": 0,
-        "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          -21199.2
-        ],
+        "pastDueBucketDocumentAmount": null,
         "pastDueBucketDocumentCount": [
           0,
           0,
