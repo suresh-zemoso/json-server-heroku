@@ -14,8 +14,8 @@
   "contact": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": null,
-      "expectedCallingMinutes": null,
+      "completedCallingMinutes": "",
+      "expectedCallingMinutes": "",
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -23,7 +23,7 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": null,
+      "processedCustomerCount": 0,
       "totalCustomerCount": 20,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
@@ -33,13 +33,7 @@
     },
     "workbookItems": [
       {
-        "bucketNames": [
-          "30-60",
-          "60-90",
-          "90-120",
-          "120-150",
-          ">150"
-        ],
+        "bucketNames": null,
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
         "customerNumber": "807667888010",
