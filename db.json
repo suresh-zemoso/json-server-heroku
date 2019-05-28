@@ -578,16 +578,16 @@
         "creditUtilized": 0,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          -21199.2
+          222222222220,
+          123131231231310,
+          1231123123131310,
+          -2119913123123.2
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
+          12313112310,
+          123131230,
+          31231223131230,
+          1231231231232
         ],
         "totalActualOpenAmount": 21199.2,
         "totalCurrentInvoiceCount": 0,
