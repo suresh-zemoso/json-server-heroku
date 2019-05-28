@@ -7642,7 +7642,7 @@
   },
   "upcoming": {
     "upcomingPastDueAmount": 4349386.37,
-    "upcomingOpenAmount": null,
+    "upcomingOpenAmount": "",
     "upcomingCallingMinutes": 595,
     "upcomingCustomerCount": 85,
     "upcomingPastDueBucketDocumentCount": [
@@ -7657,18 +7657,7 @@
       2,
       3
     ],
-    "upcomingPastDueBucketDocumentAmount": [
-      3349587,
-      457878,
-      127626,
-      499030,
-      8706,
-      6224,
-      6287,
-      6379,
-      7706,
-      6174
-    ]
+    "upcomingPastDueBucketDocumentAmount": []
   },
   "disputecodes": [
     "Chargebacks",
