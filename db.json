@@ -567,8 +567,15 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "currencyType": "DOCUMENT_LEVEL_CURRENCY",
-        "bucketNames": null,
-        "creditUtilized": 0,
+        "bucketNames": [
+          "0-30",
+          "30-60",
+          "60-90",
+          "90-120",
+          "120-150",
+          ">150"
+        ],
+        "creditUtilized": 40,
         "id": 0,
         "pastDueBucketDocumentAmount": [
           0,
