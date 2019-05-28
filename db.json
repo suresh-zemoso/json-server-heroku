@@ -581,13 +581,13 @@
           20,
           30,
           60,
-          80
+          -80
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
+          6,
+          7,
+          8,
+          -9
         ],
         "totalActualOpenAmount": 21199.2,
         "totalCurrentInvoiceCount": 0,
