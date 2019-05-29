@@ -7670,7 +7670,17 @@
       6174
     ]
   },
-  "disputecodes": null,
+  "disputecodes": [
+    "Chargebacks",
+    "Complaint",
+    "Credit",
+    "Deduction",
+    "Full Invoice",
+    "Off-Invoice Discount full invoices",
+    "Pre-Credit",
+    "Pre-Deduction",
+    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction "
+  ],
   "tasktypes": [
     "type 1",
     "type 2",
