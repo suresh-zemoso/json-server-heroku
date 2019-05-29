@@ -44,16 +44,16 @@
         "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          911111,
-          1110,
-          232,
-          1220
+          0,
+          0,
+          0,
+          0
         ],
         "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
-          10
+          0,
+          0,
+          0,
+          2
         ],
         "totalBrokenPromises": null,
         "totalCurrentOpenAmount": 0
@@ -7291,7 +7291,7 @@
       "currencySymbol": "$",
       "companyCode": "string",
       "currency": "string",
-      "currentOpenAmount": 1278612786123786123786121283651276,
+      "currentOpenAmount": 1.2786127861237861e+33,
       "customerActualOpenAmount": 0,
       "daysPastDueDate": 0,
       "debitCreditIndicator": "string",
@@ -7301,7 +7301,7 @@
       "documentDate": "2018-12-19",
       "documentFilePath": "string",
       "documentId": 1234,
-      "documentNumber": -1231761212312313123123123131313323131212332131,
+      "documentNumber": -1.2317612123123131e+45,
       "documentType": "Upcoming P2P",
       "dueDate": "2018-12-19",
       "escalatedTo": "string",
