@@ -7670,7 +7670,7 @@
       6174
     ]
   },
-  "disputecodes": null,
+  "disputecodes": [],
   "tasktypes": [
     "type 1",
     "type 2",
