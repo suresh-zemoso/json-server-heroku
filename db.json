@@ -1,12 +1,12 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 13,
-    "expectedCallingMinutes": -78,
-    "processedCustomerCount": 140,
-    "totalCustomerCount": 210,
-    "totalPastDueAmount": 13131313,
-    "totalPastDueProcessed": 312131
+    "completedCallingMinutes": 13000000000000000000000000000,
+    "expectedCallingMinutes": 780000000000000000000000000000000000,
+    "processedCustomerCount": 14000000000000000000000000000000000,
+    "totalCustomerCount": 2100000000000000000000000000,
+    "totalPastDueAmount": 1313131300000000000000000000,
+    "totalPastDueProcessed": 31213100000000000000000000000000000000000
   },
   "call": [],
   "invoicecopy": [],
