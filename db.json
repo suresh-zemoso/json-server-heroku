@@ -1,12 +1,12 @@
 {
   "callsummary": [],
   "overview": {
-    "completedCallingMinutes": 5,
+    "completedCallingMinutes": 12,
     "expectedCallingMinutes": 78,
-    "processedCustomerCount": -30,
-    "totalCustomerCount": -210,
+    "processedCustomerCount": 140,
+    "totalCustomerCount": 210,
     "totalPastDueAmount": 13131313,
-    "totalPastDueProcessed": 313131
+    "totalPastDueProcessed": 23232322312131
   },
   "call": [],
   "invoicecopy": [],
@@ -251,69 +251,7 @@
         }
       ],
       "companyCode": "string",
-      "contacts": [
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": [],
-          "extensions": "123",
-          "faxNumber": "832782371",
-          "firstName": "Adam",
-          "id": 0,
-          "lastName": "Gilchrist",
-          "phoneNumber": "8002414141",
-          "mobileNumber": "8558647776",
-          "isPrimary": true,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": "richard@parker.com",
-          "extensions": [
-            "string"
-          ],
-          "faxNumber": null,
-          "firstName": "Richard",
-          "id": 1,
-          "lastName": "Parker",
-          "phoneNumber": "2143244664",
-          "mobile": "2812345416",
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        },
-        {
-          "address": "string",
-          "city": "string",
-          "country": "string",
-          "email": [],
-          "extensions": [
-            "string"
-          ],
-          "faxNumber": null,
-          "firstName": "I am Wrong",
-          "id": 2,
-          "lastName": "Number",
-          "phoneNumber": "8558647776",
-          "mobile": "7888923234",
-          "isPrimary": false,
-          "role": "string",
-          "state": "string",
-          "title": "string",
-          "type": "string",
-          "zip": "string"
-        }
-      ],
+      "contacts": [],
       "currency": "string",
       "customerName": "Customer Ajdbnajkbasdjbnjlsnd sj,adbjkhasdkhuasd",
       "customerNumber": "324632",
