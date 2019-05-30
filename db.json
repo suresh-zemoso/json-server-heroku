@@ -61,7 +61,7 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
+          null,
           "60 Days Past Invoice",
           "90 Days Past Invoice"
         ],
