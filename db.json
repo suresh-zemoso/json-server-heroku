@@ -170,6 +170,9 @@
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
+        "At least one invoice predicted to be delinquent",
+        "At least one invoice predicted to be in 90 day bucket",
+        "Current Due vs Total past Due is 30%",
         "Payment term is 30 days"
       ],
       "accountDetails": {
