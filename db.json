@@ -4,9 +4,9 @@
     "completedCallingMinutes": -5,
     "expectedCallingMinutes": -78,
     "processedCustomerCount": -30,
-    "totalCustomerCount": -210,
-    "totalPastDueAmount": -13131313,
-    "totalPastDueProcessed": -313131
+    "totalCustomerCount": 210,
+    "totalPastDueAmount": 13131313,
+    "totalPastDueProcessed": 313131
   },
   "call": [],
   "invoicecopy": [],
