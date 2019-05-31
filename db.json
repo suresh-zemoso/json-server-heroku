@@ -1,5 +1,6 @@
 {
   "callsummary": [],
+    "sendSummaryEmail" : [],
   "overview": {
     "completedCallingMinutes": 12,
     "expectedCallingMinutes": 78,
