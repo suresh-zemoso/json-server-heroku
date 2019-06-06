@@ -1,13 +1,12 @@
 {
   "callsummary": [],
-    "sendSummaryEmail" : [],
   "overview": {
-    "completedCallingMinutes": 12,
-    "expectedCallingMinutes": 78,
-    "processedCustomerCount": 140,
-    "totalCustomerCount": 210,
-    "totalPastDueAmount": 13131313,
-    "totalPastDueProcessed": 23232322312131
+    "completedCallingMinutes": NULL,
+    "expectedCallingMinutes": NULL,
+    "processedCustomerCount": 1400000,
+    "totalCustomerCount": 210000,
+    "totalPastDueAmount": 13130,
+    "totalPastDueProcessed": 312000
   },
   "call": [],
   "invoicecopy": [],
@@ -33,7 +32,7 @@
       "totalPastDueProcessed": 1231231231231
     },
     "workbookItems": [
-      {
+      {   
         "bucketNames": [
           "Total Current Due",
           "30 Days Past Invoice",
