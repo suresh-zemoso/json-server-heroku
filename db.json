@@ -43,7 +43,7 @@
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
         "customerNumber": "807667888010",
         "id": 0,
-        "pastDueBucketDocumentAmount": [],
+        "pastDueBucketDocumentAmount": [null, null],
         "pastDueBucketDocumentCount": [
           0,
           0,
@@ -51,7 +51,7 @@
           2
         ],
         "totalBrokenPromises": null,
-        "totalCurrentOpenAmount": 0
+        "totalCurrentOpenAmount": null
       },
       {
         "bucketNames": [
