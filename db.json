@@ -44,12 +44,7 @@
         "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": null,
-        "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
-        ],
+        "pastDueBucketDocumentCount": null,
         "totalBrokenPromises": null,
         "totalCurrentOpenAmount": null
       },
