@@ -65,19 +65,19 @@
         "customerNumber": "808012",
         "id": 1,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          16000,
+          90000,
+          4000,
+          89000
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
+          7,
+          15,
+          26,
+          14
         ],
         "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 0
+        "totalCurrentOpenAmount": null
       },
       {
         "bucketNames": [
