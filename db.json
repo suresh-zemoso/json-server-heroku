@@ -72,7 +72,7 @@
           14
         ],
         "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": null
+        "totalCurrentOpenAmount": 0
       },
       {
         "bucketNames": [
@@ -626,16 +626,16 @@
         "creditLimitUtilizationPercent": 40,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
+          16000,
+          90000,
+          4000,
+          89000
         ],
         "pastDueBucketDocumentCount": [
-          90,
-          10,
-          13,
-          12
+          7,
+          15,
+          26,
+          14
         ],
         "totalActualOpenAmount": 0,
         "totalCurrentInvoiceCount": 0,
