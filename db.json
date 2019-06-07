@@ -72,7 +72,7 @@
           14
         ],
         "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 0
+        "totalCurrentOpenAmount": 1234
       },
       {
         "bucketNames": [
@@ -637,11 +637,11 @@
           26,
           14
         ],
-        "totalActualOpenAmount": 0,
+        "totalActualOpenAmount": 234,
         "totalCurrentInvoiceCount": 0,
-        "totalCurrentOpenAmount": 0,
+        "totalCurrentOpenAmount": 1234,
         "totalDisputedAmount": 0,
-        "totalPastDueAmount": 0,
+        "totalPastDueAmount": 123,
         "totalPastDuePercent": 0
       },
       "calls": [
