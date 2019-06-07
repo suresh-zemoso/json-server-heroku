@@ -65,16 +65,16 @@
         "customerNumber": "808012",
         "id": 1,
         "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
+          0,
+          0,
+          0,
+          0
         ],
         "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
-          10
+          0,
+          0,
+          0,
+          2
         ],
         "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 0
