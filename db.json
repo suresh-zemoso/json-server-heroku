@@ -1,4 +1,3 @@
-
 {
   "callsummary": [],
   "overview": {
@@ -442,7 +441,7 @@
           "type": "Broken"
         },
         {
-          "committedAmount": 4000000,
+          "committedAmount": null,
           "committedBy": {
             "address": "string",
             "city": "string",
@@ -472,7 +471,7 @@
           "type": "Upcoming"
         },
         {
-          "committedAmount": 44044,
+          "committedAmount": null,
           "committedBy": {
             "address": "string",
             "city": "string",
