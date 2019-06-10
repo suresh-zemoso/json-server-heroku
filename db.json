@@ -484,7 +484,7 @@
             "firstName": "string",
             "id": 0,
             "lastName": "string",
-            "phoneNumber": "2143299664",
+            "phoneNumber": "",
             "isPrimary": true,
             "role": "string",
             "state": "string",
@@ -505,7 +505,7 @@
         {
           "currency": "$",
           "customerId": "245",
-          "documentNumber": "142344535809855475934795347534758934795733425345364756757352453456214324242342343243243243",
+          "documentNumber": "23345",
           "id": 0,
           "paymentAmount": 13000000,
           "paymentDate": "2018-12-30"
