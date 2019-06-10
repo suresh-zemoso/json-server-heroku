@@ -505,7 +505,7 @@
         {
           "currency": "$",
           "customerId": "245",
-          "documentNumber": "null",
+          "documentNumber": "",
           "id": 0,
           "paymentAmount": 13000000,
           "paymentDate": "2018-12-30"
