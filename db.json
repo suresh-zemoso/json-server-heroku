@@ -387,7 +387,7 @@
           "deductionStatus": "string",
           "deductionType": "string",
           "documentId": "string",
-          "documentNumber": "null",
+          "documentNumber": "string",
           "dueDate": "2018-12-04",
           "id": 0,
           "invoiceNumber": "string",
@@ -411,7 +411,7 @@
       ],
       "paymentCommitments": [
         {
-          "committedAmount":null,
+          "committedAmount":234235,
           "committedBy": {
             "address": "string",
             "city": "string",
@@ -505,7 +505,7 @@
         {
           "currency": "$",
           "customerId": "245",
-          "documentNumber": "123",
+          "documentNumber": "null",
           "id": 0,
           "paymentAmount": 13000000,
           "paymentDate": "2018-12-30"
