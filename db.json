@@ -441,7 +441,7 @@
           "type": "Broken"
         },
         {
-          "committedAmount": null,
+          "committedAmount": -1234423,
           "committedBy": {
             "address": "string",
             "city": "string",
@@ -471,7 +471,7 @@
           "type": "Upcoming"
         },
         {
-          "committedAmount": null,
+          "committedAmount": "",
           "committedBy": {
             "address": "string",
             "city": "string",
@@ -1258,7 +1258,7 @@
       ],
       "paymentCommitments": [
         {
-          "committedAmount": 0,
+          "committedAmount": -1234545,
           "committedBy": {
             "address": "string",
             "city": "string",
