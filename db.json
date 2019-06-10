@@ -67,7 +67,7 @@
         ],
         "currency": "string",
         "customerName": "Nike",
-        "customerNumber": "808012",
+        "customerNumber": "",
         "id": 1,
         "pastDueBucketDocumentAmount": [
           1300,
