@@ -387,7 +387,7 @@
           "deductionStatus": "string",
           "deductionType": "string",
           "documentId": "string",
-          "documentNumber": "string",
+          "documentNumber": "null",
           "dueDate": "2018-12-04",
           "id": 0,
           "invoiceNumber": "string",
@@ -471,7 +471,7 @@
           "type": "Upcoming"
         },
         {
-          "committedAmount": "",
+          "committedAmount": -23443223,
           "committedBy": {
             "address": "string",
             "city": "string",
