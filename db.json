@@ -274,7 +274,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "adam@gilch@!@#.com",
+            "email": "adam@gilm.com",
             "extensions": [
               "string"
             ],
@@ -724,7 +724,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "harry@potter.com",
+            "email": "harry@potter@!33@.com",
             "extensions": [
               "string"
             ],
