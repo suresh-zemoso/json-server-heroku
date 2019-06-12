@@ -336,7 +336,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "richard@parker.com",
+          "email": "richard@parker!@#3.com",
           "extensions": [
             "string"
           ],
