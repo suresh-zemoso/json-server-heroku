@@ -724,7 +724,7 @@
             "address": "string",
             "city": "string",
             "country": "string",
-            "email": "harry@potter@!33@.com",
+            "email": "harrypotter@.com",
             "extensions": [
               "string"
             ],
