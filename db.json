@@ -7739,10 +7739,21 @@
     "Off-Invoice Discount full invoices",
     "Pre-Credit",
     "Pre-Deduction",
-    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction "
+    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction,Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction "
     
   ],
-  "tasktypes": [
+  "tasktypes": [ "type 1",
+    "type 2",
+    "type 3",
+    "type 4",
+    "type 1",
+    "type 2",
+    "type 3",
+    "type 4",
+    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction,Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction  ",
+    "type 2",
+    "type 3",
+    "type 4"
    
   ],
   "dispute": [],
