@@ -336,7 +336,7 @@
           "address": "string",
           "city": "string",
           "country": "string",
-          "email": "richard@parker!@#3.com",
+          "email": "richardparker@mail.com",
           "extensions": [
             "string"
           ],
@@ -7731,15 +7731,7 @@
       6174
     ]
   },
-  "disputecodes": ["Chargebacks",
-    "Complaint",
-    "Credit",
-    "Deduction",
-    "Full Invoice",
-    "Off-Invoice Discount full invoices",
-    "Pre-Credit",
-    "Pre-Deduction",
-    "Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction Promotional Checks for deduction "
+  "disputecodes": [
     
   ],
   "tasktypes": [
