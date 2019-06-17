@@ -7362,7 +7362,7 @@
       "documentDate": "2018-12-19",
       "documentFilePath": "string",
       "documentId": 1234,
-      "documentNumber": -1.2317612123123131e+45,
+      "documentNumber": 0,
       "documentType": "Upcoming P2P",
       "dueDate": "2018-12-19",
       "escalatedTo": "string",
