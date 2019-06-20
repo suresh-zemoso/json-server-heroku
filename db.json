@@ -34,10 +34,10 @@
     "workbookItems": [
       {   
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
@@ -60,10 +60,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Nike",
@@ -86,10 +86,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Flipkart",
@@ -112,10 +112,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -138,10 +138,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Jones",
@@ -164,10 +164,10 @@
       },
       {   
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Neiman Marcus",
@@ -190,10 +190,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Gordmans",
@@ -216,10 +216,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Palais Royal",
@@ -242,10 +242,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Stanley Korshak ",
@@ -268,10 +268,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Dollar Tree",
@@ -294,10 +294,10 @@
       },
       {   
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Kmart",
@@ -320,10 +320,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Saks Fifth Avenue",
@@ -346,10 +346,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Bergdorf Goodman",
@@ -372,10 +372,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Macy's, Inc.",
@@ -398,10 +398,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Lord & Taylor",
@@ -424,10 +424,10 @@
       },
       {   
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Nordstrom",
@@ -449,10 +449,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Marshalls",
@@ -475,10 +475,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Peebles",
@@ -501,10 +501,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Dillard's",
@@ -527,10 +527,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Bealls",
@@ -553,10 +553,10 @@
       },
       {
         "bucketNames": [
-          "Total Current Due",
-          "30 Days",
-          "60 Days",
-          "90 Days"
+          "0-30",
+          "30-60",
+          "60-90",
+          ">90"
         ],
         "currency": "string",
         "customerName": "Barneys New York.",
@@ -585,67 +585,67 @@
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
        "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days"
+        "Payment term is 30-60"
      
       ],
       "accountDetails": {
@@ -929,10 +929,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due",
+          "0-30",
+          "30-60 past due",
+          "60-90 past due",
+          ">90 past due",
           "120 days past due"
         ],
         "creditUtilized": 80,
@@ -1103,10 +1103,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due"
+          "0-30",
+          "30-60 past due",
+          "60-90 past due",
+          ">90 past due"
         ],
         "creditUtilized": 80,
         "creditLimitUtilizationPercent": 40,
@@ -3198,7 +3198,7 @@
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30 days",
+        "Payment term is 30-60",
         "Overdue invoice open amount $5000 since 30days"
       ],
       "accountDetails": {
@@ -3483,10 +3483,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due",
+          "0-30",
+          "30-60 past due",
+          "60-90 past due",
+          ">90 past due",
           "120 days past due"
         ],
         "creditUtilized": 80,
@@ -3658,10 +3658,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "Total Current Due",
-          "30 days past due",
-          "60 days past due",
-          "90 days past due"
+          "0-30",
+          "30-60 past due",
+          "60-90 past due",
+          ">90 past due"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -7716,9 +7716,9 @@
     "title": "string",
     "userName": "string",
     "bucketNames": [
-      "30 Days",
-      "60 days",
-      "90 days"
+      "30-60",
+      "60-90",
+      ">90"
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
@@ -8347,9 +8347,9 @@
     "title": "string",
     "userName": "string",
     "bucketNames": [
-      "30 Days",
-      "60 days",
-      "90 days"
+      "30-60",
+      "60-90",
+      ">90"
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
