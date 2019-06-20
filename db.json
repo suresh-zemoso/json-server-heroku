@@ -35,9 +35,9 @@
       {   
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
@@ -61,9 +61,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Nike",
@@ -87,9 +87,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Flipkart",
@@ -113,9 +113,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -139,9 +139,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Jones",
@@ -165,9 +165,9 @@
       {   
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Neiman Marcus",
@@ -191,9 +191,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Gordmans",
@@ -217,9 +217,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Palais Royal",
@@ -243,9 +243,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Stanley Korshak ",
@@ -269,9 +269,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Dollar Tree",
@@ -295,9 +295,9 @@
       {   
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Kmart",
@@ -321,9 +321,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Saks Fifth Avenue",
@@ -347,9 +347,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Bergdorf Goodman",
@@ -373,9 +373,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Macy's, Inc.",
@@ -399,9 +399,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Lord & Taylor",
@@ -425,9 +425,9 @@
       {   
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Nordstrom",
@@ -450,9 +450,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Marshalls",
@@ -476,9 +476,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Peebles",
@@ -502,9 +502,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Dillard's",
@@ -528,9 +528,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Bealls",
@@ -554,9 +554,9 @@
       {
         "bucketNames": [
           "Total Current Due",
-          "30 Days Past Invoice",
-          "60 Days Past Invoice",
-          "90 Days Past Invoice"
+          "30 Days",
+          "60 Days",
+          "90 Days"
         ],
         "currency": "string",
         "customerName": "Barneys New York.",
