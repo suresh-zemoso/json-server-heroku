@@ -161,6 +161,421 @@
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
+      },
+      {   
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Neiman Marcus",
+        "customerNumber": "8076678",
+        "id": 5,
+        "pastDueBucketDocumentAmount": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "totalBrokenPromises": null,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Gordmans",
+        "customerNumber": "",
+        "id": 6,
+        "pastDueBucketDocumentAmount": [
+          1300,
+          20000,
+          2000000,
+          -50000000
+        ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Palais Royal",
+        "customerNumber": "8086013",
+        "id": 7,
+        "pastDueBucketDocumentAmount": [
+          -160000,
+          -800000,
+          -45000,
+          -3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Stanley Korshak ",
+        "customerNumber": "8908014",
+        "id": 8,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          7000000,
+          4700000,
+          10000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 8000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Dollar Tree",
+        "customerNumber": "8008010",
+        "id": 9,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {   
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Kmart",
+        "customerNumber": "80768010",
+        "id": 10,
+        "pastDueBucketDocumentAmount": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "totalBrokenPromises": null,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Saks Fifth Avenue",
+        "customerNumber": "",
+        "id": 11,
+        "pastDueBucketDocumentAmount": [
+          1300,
+          20000,
+          2000000,
+          -50000000
+        ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Bergdorf Goodman",
+        "customerNumber": "8408013",
+        "id": 12,
+        "pastDueBucketDocumentAmount": [
+          -160000,
+          -800000,
+          -45000,
+          -3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Macy's, Inc.",
+        "customerNumber": "8048014",
+        "id": 13,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          7000000,
+          4700000,
+          10000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 8000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Lord & Taylor",
+        "customerNumber": "8038010",
+        "id": 14,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {   
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Nordstrom",
+        "id": 15,
+        "pastDueBucketDocumentAmount": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "totalBrokenPromises": null,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Marshalls",
+        "customerNumber": "80897564",
+        "id": 16,
+        "pastDueBucketDocumentAmount": [
+          1300,
+          20000,
+          2000000,
+          -50000000
+        ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Peebles",
+        "customerNumber": "8080173",
+        "id": 17,
+        "pastDueBucketDocumentAmount": [
+          -160000,
+          -800000,
+          -45000,
+          -3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Dillard's",
+        "customerNumber": "8308014",
+        "id": 18,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          7000000,
+          4700000,
+          10000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 8000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Bealls",
+        "customerNumber": "8208010",
+        "id": 19,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          100000,
+          900000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Barneys New York.",
+        "customerNumber": "8108013",
+        "id": 20,
+        "pastDueBucketDocumentAmount": [
+          160000,
+          -800000,
+          450000,
+          -3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
       }
     ]
   },
@@ -244,7 +659,7 @@
           "120-150",
           ">150"
         ],
-        "creditUtilized": 0,
+        "creditUtilized": 234.07,
         "id": 0,
         "pastDueBucketDocumentAmount": [
           2256176821276,
@@ -7327,7 +7742,8 @@
       16,
       17,
       18,
-      19
+      19,
+      20
     ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
@@ -7957,7 +8373,8 @@
       16,
       17,
       18,
-      19
+      19,
+      20
     ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
