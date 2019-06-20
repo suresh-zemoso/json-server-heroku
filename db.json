@@ -3,8 +3,8 @@
   "overview": {
     "completedCallingMinutes":100,
       "expectedCallingMinutes": 180,
-    "processedCustomerCount": 4,
-    "totalCustomerCount": 15,
+    "processedCustomerCount": 0,
+    "totalCustomerCount": 21,
     "totalPastDueAmount": 567800,
     "totalPastDueProcessed": 9000
   },
@@ -23,8 +23,8 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": 4,
-      "totalCustomerCount": 15,
+      "processedCustomerCount": 0,
+      "totalCustomerCount": 21,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
