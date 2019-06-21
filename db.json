@@ -2,11 +2,11 @@
   "callsummary": [],
   "overview": {
     "completedCallingMinutes":10000,
-      "expectedCallingMinutes"70000,
-    "processedCustomerCount": 0,
-    "totalCustomerCount": 21,
-    "totalPastDueAmount": 567800,
-    "totalPastDueProcessed": 9000
+    "expectedCallingMinutes": 700000,
+    "processedCustomerCount": 1400000,
+    "totalCustomerCount": 210000,
+    "totalPastDueAmount": 13130,
+    "totalPastDueProcessed": 312000
   },
   "call": [],
   "invoicecopy": [],
@@ -14,8 +14,8 @@
   "contact": [],
   "callworkbook": {
     "overview": {
-      "completedCallingMinutes": 100,
-      "expectedCallingMinutes": 180,
+      "completedCallingMinutes": 30,
+      "expectedCallingMinutes": 40,
       "id": 0,
       "pastDueBucketDocumentCount": [
         0
@@ -23,21 +23,21 @@
       "pendingPastDueBucketDocumentAmount": [
         0
       ],
-      "processedCustomerCount": 0,
-      "totalCustomerCount": 21,
+      "processedCustomerCount": 87,
+      "totalCustomerCount": 100,
       "totalOpenAmount": 0,
       "totalP2PAmount": 0,
       "totalP2PCount": 0,
-      "totalPastDueAmount": 567800,
-      "totalPastDueProcessed": 9000
+      "totalPastDueAmount": 3333000000,
+      "totalPastDueProcessed": 1231231231231
     },
     "workbookItems": [
       {   
         "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
@@ -60,10 +60,10 @@
       },
       {
         "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Nike",
@@ -86,10 +86,10 @@
       },
       {
         "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Flipkart",
@@ -112,10 +112,10 @@
       },
       {
         "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
         "customerName": "Adidas",
@@ -138,13 +138,13 @@
       },
       {
         "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
         ],
         "currency": "string",
-        "customerName": "Jones",
+        "customerName": "Adidas",
         "customerNumber": "808010",
         "id": 4,
         "pastDueBucketDocumentAmount": [
@@ -161,421 +161,6 @@
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
-      },
-      {   
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Neiman Marcus",
-        "customerNumber": "8076678",
-        "id": 5,
-        "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
-        ],
-        "totalBrokenPromises": null,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Gordmans",
-        "customerNumber": "",
-        "id": 6,
-        "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
-        ],
-        "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
-          10
-        ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Palais Royal",
-        "customerNumber": "8086013",
-        "id": 7,
-        "pastDueBucketDocumentAmount": [
-          -160000,
-          -800000,
-          -45000,
-          -3000000
-        ],
-        "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
-          14
-        ],
-        "totalBrokenPromises": 3,
-        "totalCurrentOpenAmount": 90000
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Stanley Korshak ",
-        "customerNumber": "8908014",
-        "id": 8,
-        "pastDueBucketDocumentAmount": [
-          100000,
-          7000000,
-          4700000,
-          10000
-        ],
-        "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
-          9
-        ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 8000
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Dollar Tree",
-        "customerNumber": "8008010",
-        "id": 9,
-        "pastDueBucketDocumentAmount": [
-          1000000,
-          10000000,
-          9000000,
-          120000
-        ],
-        "pastDueBucketDocumentCount": [
-          25,
-          10,
-          6,
-          4
-        ],
-        "totalBrokenPromises": 10,
-        "totalCurrentOpenAmount": 18979
-      },
-      {   
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Kmart",
-        "customerNumber": "80768010",
-        "id": 10,
-        "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
-        ],
-        "totalBrokenPromises": null,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Saks Fifth Avenue",
-        "customerNumber": "",
-        "id": 11,
-        "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
-        ],
-        "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
-          10
-        ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Bergdorf Goodman",
-        "customerNumber": "8408013",
-        "id": 12,
-        "pastDueBucketDocumentAmount": [
-          -160000,
-          -800000,
-          -45000,
-          -3000000
-        ],
-        "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
-          14
-        ],
-        "totalBrokenPromises": 3,
-        "totalCurrentOpenAmount": 90000
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Macy's, Inc.",
-        "customerNumber": "8048014",
-        "id": 13,
-        "pastDueBucketDocumentAmount": [
-          100000,
-          7000000,
-          4700000,
-          10000
-        ],
-        "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
-          9
-        ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 8000
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Lord & Taylor",
-        "customerNumber": "8038010",
-        "id": 14,
-        "pastDueBucketDocumentAmount": [
-          1000000,
-          10000000,
-          9000000,
-          120000
-        ],
-        "pastDueBucketDocumentCount": [
-          25,
-          10,
-          6,
-          4
-        ],
-        "totalBrokenPromises": 10,
-        "totalCurrentOpenAmount": 18979
-      },
-      {   
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Nordstrom",
-        "id": 15,
-        "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
-        ],
-        "totalBrokenPromises": null,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Marshalls",
-        "customerNumber": "80897564",
-        "id": 16,
-        "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
-        ],
-        "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
-          10
-        ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 0
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Peebles",
-        "customerNumber": "8080173",
-        "id": 17,
-        "pastDueBucketDocumentAmount": [
-          -160000,
-          -800000,
-          -45000,
-          -3000000
-        ],
-        "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
-          14
-        ],
-        "totalBrokenPromises": 3,
-        "totalCurrentOpenAmount": 90000
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Dillard's",
-        "customerNumber": "8308014",
-        "id": 18,
-        "pastDueBucketDocumentAmount": [
-          100000,
-          7000000,
-          4700000,
-          10000
-        ],
-        "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
-          9
-        ],
-        "totalBrokenPromises": 0,
-        "totalCurrentOpenAmount": 8000
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Bealls",
-        "customerNumber": "8208010",
-        "id": 19,
-        "pastDueBucketDocumentAmount": [
-          1000000,
-          100000,
-          900000,
-          120000
-        ],
-        "pastDueBucketDocumentCount": [
-          25,
-          10,
-          6,
-          4
-        ],
-        "totalBrokenPromises": 10,
-        "totalCurrentOpenAmount": 18979
-      },
-      {
-        "bucketNames": [
-          "0-30",
-          "30-60",
-          "60-90",
-          ">90"
-        ],
-        "currency": "string",
-        "customerName": "Barneys New York.",
-        "customerNumber": "8108013",
-        "id": 20,
-        "pastDueBucketDocumentAmount": [
-          160000,
-          -800000,
-          450000,
-          -3000000
-        ],
-        "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
-          14
-        ],
-        "totalBrokenPromises": 3,
-        "totalCurrentOpenAmount": 90000
       }
     ]
   },
@@ -585,67 +170,67 @@
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
        "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
          "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60"
+        "Payment term is 30 days"
      
       ],
       "accountDetails": {
@@ -659,7 +244,7 @@
           "120-150",
           ">150"
         ],
-        "creditUtilized": 234.07,
+        "creditUtilized": 0,
         "id": 0,
         "pastDueBucketDocumentAmount": [
           2256176821276,
@@ -738,8 +323,8 @@
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
-          "phoneNumber": "8002414141",
-          "mobileNumber": "8558647776",
+          "phoneNumber": null,
+          "mobileNumber": null,
           "isPrimary": true,
           "role": "string",
           "state": "string",
@@ -929,10 +514,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "0-30",
-          "30-60 past due",
-          "60-90 past due",
-          ">90 past due",
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due",
           "120 days past due"
         ],
         "creditUtilized": 80,
@@ -1082,7 +667,7 @@
             "transmisionMode": "string"
           },
           "createdTime": "2018-12-04T06:41:26.615Z",
-          "id": 2,
+          "id": 0,
           "note": {
             "createdTime": "2018-12-04T06:41:26.615Z",
             "createdUser": "string",
@@ -1103,10 +688,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "0-30",
-          "30-60 past due",
-          "60-90 past due",
-          ">90 past due"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
         ],
         "creditUtilized": 80,
         "creditLimitUtilizationPercent": 40,
@@ -1537,7 +1122,7 @@
       "currency": "",
       "reasons": [],
       "contacts": [],
-      "notes":[] ,
+      "notes": [],
       "paymentCommitments": [],
       "payments": [],
       "suggestedActions": [],
@@ -3198,7 +2783,7 @@
         "At least one invoice predicted to be delinquent",
         "At least one invoice predicted to be in 90 day bucket",
         "Current Due vs Total past Due is 30%",
-        "Payment term is 30-60",
+        "Payment term is 30 days",
         "Overdue invoice open amount $5000 since 30days"
       ],
       "accountDetails": {
@@ -3483,10 +3068,10 @@
       "predictedAccountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "0-30",
-          "30-60 past due",
-          "60-90 past due",
-          ">90 past due",
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due",
           "120 days past due"
         ],
         "creditUtilized": 80,
@@ -3658,10 +3243,10 @@
       "accountDetails": {
         "actualCreditLimit": 100,
         "bucketNames": [
-          "0-30",
-          "30-60 past due",
-          "60-90 past due",
-          ">90 past due"
+          "Total Current Due",
+          "30 days past due",
+          "60 days past due",
+          "90 days past due"
         ],
         "creditUtilized": 80,
         "id": 0,
@@ -4131,7 +3716,7 @@
           "duration": 0,
           "endTime": "2018-12-04T06:41:26.614Z",
           "extension": "string",
-          "id":2,
+          "id": 2,
           "note": {
             "createdTime": "2018-12-04T06:41:26.614Z",
             "createdUser": "string",
@@ -4522,7 +4107,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 11,
+      "id": 10,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -4851,7 +4436,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 12,
+      "id": 11,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -5180,7 +4765,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 13,
+      "id": 12,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -5509,7 +5094,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 14,
+      "id": 13,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -5838,7 +5423,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 15,
+      "id": 14,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -6167,7 +5752,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 16,
+      "id": 15,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -6496,7 +6081,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 17,
+      "id": 16,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -6825,7 +6410,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 18,
+      "id": 17,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -7154,7 +6739,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 19,
+      "id": 18,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -7483,7 +7068,7 @@
           "reasonCode": "string"
         }
       ],
-      "id": 20,
+      "id": 19,
       "notes": [
         {
           "createdTime": "2018-12-04T06:41:26.614Z",
@@ -7716,9 +7301,9 @@
     "title": "string",
     "userName": "string",
     "bucketNames": [
-      "30-60",
-      "60-90",
-      ">90"
+      "30 Days",
+      "60 days",
+      "90 days"
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
@@ -7742,8 +7327,7 @@
       16,
       17,
       18,
-      19,
-      20
+      19
     ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
@@ -7778,7 +7362,7 @@
       "documentDate": "2018-12-19",
       "documentFilePath": "string",
       "documentId": 1234,
-      "documentNumber": 0,
+      "documentNumber": -1.2317612123123131e+45,
       "documentType": "Upcoming P2P",
       "dueDate": "2018-12-19",
       "escalatedTo": "string",
@@ -8347,9 +7931,9 @@
     "title": "string",
     "userName": "string",
     "bucketNames": [
-      "30-60",
-      "60-90",
-      ">90"
+      "30 Days",
+      "60 days",
+      "90 days"
     ],
     "accountName": "Zemoso Labs",
     "signInUrl": "https://www.google.com/",
@@ -8373,8 +7957,7 @@
       16,
       17,
       18,
-      19,
-      20
+      19
     ],
     "virtualNumber": {
       "fullName": "bruce_wayne",
