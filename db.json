@@ -13,24 +13,7 @@
   "p2p": [],
   "contact": [],
   "callworkbook": {
-    "overview": {
-      "completedCallingMinutes": 30,
-      "expectedCallingMinutes": 40,
-      "id": 0,
-      "pastDueBucketDocumentCount": [
-        0
-      ],
-      "pendingPastDueBucketDocumentAmount": [
-        0
-      ],
-      "processedCustomerCount": 87,
-      "totalCustomerCount": 100,
-      "totalOpenAmount": 0,
-      "totalP2PAmount": 0,
-      "totalP2PCount": 0,
-      "totalPastDueAmount": 3333000000,
-      "totalPastDueProcessed": 1231231231231
-    },
+  
     "workbookItems": [
      
     ]
