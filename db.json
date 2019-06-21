@@ -33,9 +33,7 @@
    },
   
     "workbookItems":[
-      
-      
-{
+      {
       "bucketNames": [
           "Total Current Due",
           "30 Days Past Invoice",
@@ -164,7 +162,8 @@
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
-  } ]
+  }
+  ]
 },
 
   
