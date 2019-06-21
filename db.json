@@ -13,13 +13,159 @@
   "p2p": [],
   "contact": [],
   "callworkbook": {
-   "overview":{
+   "overview":{ "completedCallingMinutes": 30,
+      "expectedCallingMinutes": 40,
+      "id": 0,
+      "pastDueBucketDocumentCount": [
+        0
+      ],
+      "pendingPastDueBucketDocumentAmount": [
+        0
+      ],
+      "processedCustomerCount": 87,
+      "totalCustomerCount": 100,
+      "totalOpenAmount": 0,
+      "totalP2PAmount": 0,
+      "totalP2PCount": 0,
+      "totalPastDueAmount": 3333000000,
+      "totalPastDueProcessed": 1231231231231
      
    },
   
-    "workbookItems": {
+    "workbookItems":[
       
-    },
+{
+      "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidasadisadasdidfajdsj  kbksdbkbashbjhasdbjdbshbasjk asdjnknasjkndjkasdbjhk basd",
+        "customerNumber": "807667888010",
+        "id": 0,
+        "pastDueBucketDocumentAmount": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "pastDueBucketDocumentCount": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "totalBrokenPromises": null,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Nike",
+        "customerNumber": "",
+        "id": 1,
+        "pastDueBucketDocumentAmount": [
+          1300,
+          20000,
+          2000000,
+          -50000000
+        ],
+        "pastDueBucketDocumentCount": [
+          9,
+          10,
+          22,
+          10
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 0
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Flipkart",
+        "customerNumber": "808013",
+        "id": 2,
+        "pastDueBucketDocumentAmount": [
+          -160000,
+          -800000,
+          -45000,
+          -3000000
+        ],
+        "pastDueBucketDocumentCount": [
+          7,
+          15,
+          26,
+          14
+        ],
+        "totalBrokenPromises": 3,
+        "totalCurrentOpenAmount": 90000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidas",
+        "customerNumber": "808014",
+        "id": 3,
+        "pastDueBucketDocumentAmount": [
+          100000,
+          7000000,
+          4700000,
+          10000
+        ],
+        "pastDueBucketDocumentCount": [
+          5,
+          19,
+          16,
+          9
+        ],
+        "totalBrokenPromises": 0,
+        "totalCurrentOpenAmount": 8000
+      },
+      {
+        "bucketNames": [
+          "Total Current Due",
+          "30 Days Past Invoice",
+          "60 Days Past Invoice",
+          "90 Days Past Invoice"
+        ],
+        "currency": "string",
+        "customerName": "Adidas",
+        "customerNumber": "808010",
+        "id": 4,
+        "pastDueBucketDocumentAmount": [
+          1000000,
+          10000000,
+          9000000,
+          120000
+        ],
+        "pastDueBucketDocumentCount": [
+          25,
+          10,
+          6,
+          4
+        ],
+        "totalBrokenPromises": 10,
+        "totalCurrentOpenAmount": 18979
+  }]
+},
+
   
   "customer": [
     {
@@ -7855,5 +8001,4 @@
       "symbol": "£"
     }
   ]
-}
 }
