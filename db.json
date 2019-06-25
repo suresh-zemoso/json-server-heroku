@@ -13,8 +13,7 @@
   "p2p": [],
   "contact": [],
   "callworkbook": {
-   "overview":{ 
-     "completedCallingMinutes": 30,
+   "overview":{ "completedCallingMinutes": 30,
       "expectedCallingMinutes": 40,
       "id": 0,
       "pastDueBucketDocumentCount": [
@@ -33,7 +32,8 @@
      
    },
   
-    "workbookItems":[{
+    "workbookItems":[
+      {
       "bucketNames": [
           "Total Current Due",
           "30 Days Past Invoice",
@@ -152,7 +152,7 @@
           1000000,
           10000000,
           9000000,
-          1
+          120000
         ],
         "pastDueBucketDocumentCount": [
           25,
@@ -162,7 +162,8 @@
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
-  }]
+  }
+  ]
 },
 
   
