@@ -326,7 +326,7 @@
           "firstName": "Adam",
           "id": 0,
           "lastName": "Gilchrist",
-          "phoneNumber": null,
+          "phoneNumber": "0000",
           "mobileNumber": null,
           "isPrimary": true,
           "role": "string",
