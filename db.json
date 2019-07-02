@@ -46,18 +46,18 @@
         "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          22340,
+          45245,
+          25420,
+          245240
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
+          40,
+          4,
+          20,
+          12
         ],
-        "totalBrokenPromises": null,
+        "totalBrokenPromises": 3,
         "totalCurrentOpenAmount": 0
       },
       {
@@ -176,16 +176,16 @@
         "customerNumber": "8076010",
         "id": 5,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          25245,
+          52450,
+          54440,
+          4440
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
+          50,
+          20,
+          5,
+          9
         ],
         "totalBrokenPromises": null,
         "totalCurrentOpenAmount": 0
@@ -202,16 +202,16 @@
         "customerNumber": "8903647",
         "id": 6,
         "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
+          98300,
+          254000,
+          -300000,
+          -450000
         ],
         "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
-          10
+          15,
+          20,
+          12,
+          15
         ],
         "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 0
@@ -228,16 +228,16 @@
         "customerNumber": "80801324",
         "id": 7,
         "pastDueBucketDocumentAmount": [
-          -160000,
-          -800000,
-          -45000,
-          -3000000
+          60000,
+          -90000,
+          -565000,
+          -358300
         ],
         "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
-          14
+          10,
+          10,
+          6,
+          19
         ],
         "totalBrokenPromises": 3,
         "totalCurrentOpenAmount": 90000
@@ -254,16 +254,16 @@
         "customerNumber": "80348014",
         "id": 8,
         "pastDueBucketDocumentAmount": [
-          100000,
-          7000000,
-          4700000,
-          10000
+          235000,
+          6700000,
+          900000,
+          340000
         ],
         "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
-          9
+          15,
+          12,
+          10,
+          7
         ],
         "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 8000
@@ -280,10 +280,10 @@
         "customerNumber": "80801890",
         "id": 9,
         "pastDueBucketDocumentAmount": [
-          1000000,
-          10000000,
-          9000000,
-          120000
+          300000,
+          4500000,
+          2780000,
+          170000
         ],
         "pastDueBucketDocumentCount": [
           25,
@@ -306,16 +306,16 @@
         "customerNumber": "8888010",
         "id": 10,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          178980,
+          567890,
+          34230,
+          34320
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
-          0,
-          2
+          10,
+          20,
+          10,
+          25
         ],
         "totalBrokenPromises": null,
         "totalCurrentOpenAmount": 0
@@ -332,10 +332,10 @@
         "customerNumber": "Fiesta Mart",
         "id": 11,
         "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
-          -50000000
+          221300,
+          -250000,
+          -289000,
+          600000
         ],
         "pastDueBucketDocumentCount": [
           9,
@@ -359,14 +359,14 @@
         "id": 12,
         "pastDueBucketDocumentAmount": [
           -160000,
-          -800000,
-          -45000,
-          -3000000
+          700000,
+          65000,
+          -300000
         ],
         "pastDueBucketDocumentCount": [
-          7,
-          15,
-          26,
+          17,
+          5,
+          6,
           14
         ],
         "totalBrokenPromises": 3,
@@ -384,16 +384,16 @@
         "customerNumber": "80803414",
         "id": 13,
         "pastDueBucketDocumentAmount": [
-          100000,
-          7000000,
-          4700000,
-          10000
+          55000,
+          97000,
+          475000,
+          750000
         ],
         "pastDueBucketDocumentCount": [
-          5,
-          19,
+          15,
+          9,
           16,
-          9
+          19
         ],
         "totalBrokenPromises": 0,
         "totalCurrentOpenAmount": 8000
@@ -410,16 +410,16 @@
         "customerNumber": "80801870",
         "id": 14,
         "pastDueBucketDocumentAmount": [
-          1000000,
-          10000000,
-          9000000,
-          120000
+          4000000,
+          70000000,
+          -90000,
+          20000
         ],
         "pastDueBucketDocumentCount": [
-          25,
-          10,
-          6,
-          4
+          5,
+          30,
+          16,
+          14
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
@@ -436,16 +436,16 @@
         "customerNumber": "807888010",
         "id": 15,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
-          0,
-          0
+          12330,
+          -233330,
+          332330,
+          -233330
         ],
         "pastDueBucketDocumentCount": [
           0,
+          10,
           0,
-          0,
-          2
+          12
         ],
         "totalBrokenPromises": null,
         "totalCurrentOpenAmount": 0
@@ -462,15 +462,15 @@
         "customerNumber": "874678968",
         "id": 16,
         "pastDueBucketDocumentAmount": [
-          1300,
+          -13500,
           20000,
-          2000000,
-          -50000000
+          -300000,
+          500000
         ],
         "pastDueBucketDocumentCount": [
           9,
-          10,
-          22,
+          0,
+          2,
           10
         ],
         "totalBrokenPromises": 0,
@@ -488,15 +488,15 @@
         "customerNumber": "80801343",
         "id": 17,
         "pastDueBucketDocumentAmount": [
-          -160000,
-          -800000,
-          -45000,
-          -3000000
+          -260000,
+          800000,
+          -55000,
+          300000
         ],
         "pastDueBucketDocumentCount": [
           7,
-          15,
-          26,
+          5,
+          6,
           14
         ],
         "totalBrokenPromises": 3,
@@ -514,15 +514,15 @@
         "customerNumber": "80823014",
         "id": 18,
         "pastDueBucketDocumentAmount": [
-          100000,
-          7000000,
-          4700000,
-          10000
+          40000,
+          450000,
+          4000,
+          99000
         ],
         "pastDueBucketDocumentCount": [
-          5,
-          19,
-          16,
+          15,
+          29,
+          10,
           9
         ],
         "totalBrokenPromises": 0,
@@ -540,16 +540,16 @@
         "customerNumber": "80238010",
         "id": 19,
         "pastDueBucketDocumentAmount": [
-          1000000,
-          10000000,
-          9000000,
-          120000
+          30000,
+          400000,
+          90000,
+          20000
         ],
         "pastDueBucketDocumentCount": [
-          25,
-          10,
+          5,
+          0,
           6,
-          4
+          14
         ],
         "totalBrokenPromises": 10,
         "totalCurrentOpenAmount": 18979
@@ -566,16 +566,16 @@
         "customerNumber": "80801387",
         "id": 20,
         "pastDueBucketDocumentAmount": [
-          -160000,
-          -800000,
+          16000,
+          -8000,
           -45000,
           -3000000
         ],
         "pastDueBucketDocumentCount": [
           7,
           15,
-          26,
-          14
+          6,
+          4
         ],
         "totalBrokenPromises": 3,
         "totalCurrentOpenAmount": 90000
