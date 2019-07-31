@@ -71,15 +71,15 @@
         "customerNumber": "",
         "id": 1,
         "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
+          0,
+          0,
+          0,
           -50000000
         ],
         "pastDueBucketDocumentCount": [
-          9,
-          10,
-          22,
+          0,
+          0,
+          0,
           10
         ],
         "totalBrokenPromises": 0,
@@ -700,16 +700,16 @@
         "creditLimitUtilizationPercent": 40,
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          1300,
-          20000,
-          2000000,
+          0,
+          0,
+          0,
           -50000000
         ],
         "pastDueBucketDocumentCount": [
-          90,
-          10,
-          13,
-          12
+          0,
+          0,
+          0,
+          10
         ],
         "totalActualOpenAmount": 0,
         "totalCurrentInvoiceCount": 0,
