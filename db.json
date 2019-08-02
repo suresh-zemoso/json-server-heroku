@@ -45,14 +45,14 @@
         "customerNumber": "807667888010",
         "id": 0,
         "pastDueBucketDocumentAmount": [
-          0,
-          0,
+          34863.39,
+           14810.44,
           0,
           0
         ],
         "pastDueBucketDocumentCount": [
-          0,
-          0,
+          13,
+          1,
           0,
           2
         ],
